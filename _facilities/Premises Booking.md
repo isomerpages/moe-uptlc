@@ -6,14 +6,13 @@ description: ""
 ## Premises Booking
 
 
-
-|  | |
+| | |
 | -------- | -------- | 
-| <p><a href="http://uptlc.swiiit.com/cos/o.x?c=/swt_uptlc/members&ptid=1147228">
-<img src="/images/Click-Here.png" alt="" width="100" height="132">
-</a></p>
-     |     | 
+| ![](/images/Click-Here.png) |  <a href="http://uptlc.swiiit.com/cos/o.x?c=/swt_uptlc/members&amp;ptid=1147228">
+<img alt="" src="/images/Book-Now.png">  | 
 
 
-
-
+		 
+		 
+ </a><a href="http://uptlc.swiiit.com/cos/o.x?c=/swt_uptlc/members&amp;ptid=1147228">
+<img alt="" src="/images/Book-Now.png"></a>
