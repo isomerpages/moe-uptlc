@@ -1,4 +1,5 @@
 collections:
   publication:
     output: true
-    order: []
+    order:
+      - School Magazine/.keep
