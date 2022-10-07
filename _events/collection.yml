@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - 2022/.keep
-      - 2022.md
