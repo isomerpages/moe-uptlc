@@ -8,3 +8,5 @@ links:
     collection: resources
   - title: "Facilities "
     collection: facilities
+  - title: "Publication "
+    collection: publication
