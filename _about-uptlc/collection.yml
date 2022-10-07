@@ -2,8 +2,8 @@ collections:
   about-uptlc:
     output: true
     order:
-      - Our Mission and Vision.md
       - Centre Director’s Message.md
       - Contact Us.md
       - Historical Milestone.md
       - Our Centre Values.md
+      - Our Mission and Vision.md
