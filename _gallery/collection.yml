@@ -1,4 +1,5 @@
 collections:
   gallery:
     output: true
-    order: []
+    order:
+      - Events Photos and Videos.md
