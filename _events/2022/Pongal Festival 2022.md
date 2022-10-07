@@ -18,3 +18,6 @@ third_nav_title: "2022"
 
 ![](/images/Pongal10.jpeg)
 
+*<center>*பொங்கலுக்குப் பானை தயார்!</center>**
+
+**முதன்மை உரையைக் கேட்கலாமா!
