@@ -3,7 +3,7 @@ url: https://uptlc.moe.edu.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#06448d"
-  secondary-color: "#0a3ba7"
+  secondary-color: "#2b59d1"
   media-colors:
     - title: media-color-one
       color: "#49759a"
