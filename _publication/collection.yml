@@ -1,0 +1,4 @@
+collections:
+  publication:
+    output: true
+    order: []
