@@ -16,7 +16,5 @@ third_nav_title: "2022"
 |   ![](/images/Pongal4.jpeg)   |  ![](/images/Pongal5.jpeg)    |  ![](/images/Pongal6.jpeg)    |
 |   ![](/images/Pongal7.jpeg)   |    ![](/images/Pongal8.jpeg)  |  ![](/images/Pongal9.jpeg)    |
 
-
-
-
+![](/images/Pongal10.jpeg)
 
