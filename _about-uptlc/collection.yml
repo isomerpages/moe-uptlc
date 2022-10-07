@@ -1,4 +1,5 @@
 collections:
   about-uptlc:
     output: true
-    order: []
+    order:
+      - Centre Director’s Message.md
