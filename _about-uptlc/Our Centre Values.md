@@ -6,4 +6,3 @@ description: ""
 ## Our Centre Values
 
 ![](/images/CentreValues.png)
-
