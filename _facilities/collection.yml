@@ -2,4 +2,5 @@ collections:
   facilities:
     output: true
     order:
+      - Library/.keep
       - Premises Booking.md
