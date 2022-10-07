@@ -12,4 +12,6 @@ third_nav_title: "2022"
 |---|---|---|
 |  ![](/images/SEC2Tamil.jpeg) |  ![](/images/Sec2Tamil2.jpeg) |![](/images/Sec2Tamil3.jpeg)   |
 |  ![](/images/Sec2Tamil4.jpeg) | ![](/images/Sec2Tamil5.jpeg)  | ![](/images/Sec2Tamil6.jpeg)  |
-|  ![](/images/Sec2Tamil7.jpeg) |  ![](/images/Sec2Tamil8.jpeg) | ![](/images/Sec2Tamil9.jpeg) |
+|  ![](/images/Sec2Tamil7.jpeg) |  ![](/images/Sec2Tamil8.jpeg) | ![](/images/Sec2Tamil9.jpeg)
+|
+
