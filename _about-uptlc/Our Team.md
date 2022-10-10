@@ -5,5 +5,4 @@ description: ""
 ---
 ## Our Team
 
-[test](https://pdfhost.io/v/XxnvCvBYB\_STUDENTHANDBOOK2022)
-
+[test](https://pdfhost.io/v/XxnvCvBYB_STUDENTHANDBOOK2022)
