@@ -13,5 +13,7 @@ description: ""
 <a href="https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/CCA-Regi-Info.pdf">
 <img style="width: 50%;" src="/images/More-Info-1024x389.png"></a>
 
+<br>
+
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfCi_Kzajtl9p-kIHlban8C_5txGMxKQflbhUMCTqh4nrYrPg/viewform">
 <img style="width: 50%;" src="/images/Registration_Form_BVC.png"></a>
