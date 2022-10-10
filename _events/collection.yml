@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - 2022/Tamil Fest 2022.md
       - 2022/.keep
       - 2022/2022.md
       - 2022/Motivational Talk Cum Study Camp.md
@@ -10,3 +9,4 @@ collections:
       - 2022/Primary 5 Tamil Language Learning Festival 2022.md
       - 2022/Sec 2 Tamil Language Learning Festival 2022.md
       - 2022/Speech Day 2022.md
+      - 2022/Tamil Fest 2022.md
