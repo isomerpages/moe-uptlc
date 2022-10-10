@@ -29,9 +29,9 @@ KEY PERSONNEL & TEACHERS</center>**
 <table>
 <thead>
   <tr>
-    <th><img style="width: 50%;" src="/images/Headofdepartment.jpg" align = "center"/></th>
-    <th><img style="width: 50%;" src="/images/Subjecthead-tamil.jpeg"align = "center"/></th>
-    <th><img style="width: 50%;" src="/images/Subjecthead-curriculum.jpeg" align = "center"/></th>
+    <th><img style="width: 75%;" src="/images/Headofdepartment.jpg" align = "center"/></th>
+    <th><img style="width: 75%;" src="/images/Subjecthead-tamil.jpeg"align = "center"/></th>
+    <th><img style="width: 75%;" src="/images/Subjecthead-curriculum.jpeg" align = "center"/></th>
   </tr>
 </thead>
 <tbody>
