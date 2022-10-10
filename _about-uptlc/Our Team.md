@@ -29,7 +29,7 @@ KEY PERSONNEL & TEACHERS</center>**
 <table>
 <thead>
   <tr>
-    <th><img src="https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/png-transparent-black-and-white-material-white-frame-angle-white-golden-frame.png-22-2-287x300.jpg" width="242" height="253"></th>
+    <th><img style="width: 50%;" src="/images/Headofdepartment.jpg"/></th>
     <th><img src="https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/png-transparent-black-and-white-material-white-frame-angle-white-golden-frame-12-287x300.jpg" width="242" height="253"></th>
     <th><img src="https://uptlc.moe.edu.sg/wp-content/uploads/2022/01/Mr-Sara-287x300.jpg" width="242" height="253"></th>
   </tr>
