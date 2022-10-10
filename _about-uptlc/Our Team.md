@@ -31,7 +31,7 @@ KEY PERSONNEL & TEACHERS</center>**
   <tr>
     <th><img style="width: 50%;" src="/images/Headofdepartment.jpg"/></th>
     <th><img style="width: 50%;" src="/images/Subjecthead-tamil.jpeg"/></th>
-    <th><img src="https://uptlc.moe.edu.sg/wp-content/uploads/2022/01/Mr-Sara-287x300.jpg" width="242" height="253"></th>
+    <th><img style="width: 50%;" src="/images/Subjecthead-curriculum.jpeg"/></th>
   </tr>
 </thead>
 <tbody>
