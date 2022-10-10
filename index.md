@@ -18,7 +18,7 @@ sections:
           url: /For-Teachers/Useful-Links/
         - title: For Student
           description: ""
-          url: https://gmail.com
+          url: /for-students/Academic-Year-2022/
         - title: For Parents
           description: ""
           url: ""
