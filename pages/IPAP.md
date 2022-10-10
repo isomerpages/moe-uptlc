@@ -10,7 +10,8 @@ description: ""
 <img alt="" src="/images/2022_IPAP-Slide-for-Publicizing_edit-1024x576.jpeg"></a>
 
 
-<a href="https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/CCA-Regi-Info.pdf">
+
+<a href="/files/CCA-Regi-Info.pdf">
 <img style="width: 50%;" src="/images/More-Info-1024x389.png"></a>
 
 <br>
