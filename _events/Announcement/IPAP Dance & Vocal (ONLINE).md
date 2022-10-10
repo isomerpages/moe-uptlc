@@ -4,3 +4,9 @@ permalink: /events/Announcement/IPAP-Dance-Vocal/
 description: ""
 third_nav_title: Announcement
 ---
+## IPAP-Dance & Vocal (ONLINE)
+
+*   **[Dance and Vocal (Commencing on 05 Feb 2022)](https://uptlc.moe.edu.sg/for-students/indian-performing-arts-programme/ipap/)**
+
+*   **[Others (Starting soon...)](https://uptlc.moe.edu.sg/for-students/indian-performing-arts-programme/ipap/)**
+
