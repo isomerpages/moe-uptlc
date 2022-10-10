@@ -16,7 +16,7 @@ description: ""
 <tbody>
   <tr>
     <td> </td>
-		<td><center>MDM SANTHI SELLAPPAN <br>Centre Director<br>santhi_sellappan@schools.gov.sg</center></td>
+		<td><center><strong>MDM SANTHI SELLAPPAN<br>Centre Director</strong><br>santhi_sellappan@schools.gov.sg</center></td>
     <td> </td>
   </tr>
 </tbody>
