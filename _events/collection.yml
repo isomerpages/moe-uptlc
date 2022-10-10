@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Announcement/.keep
       - 2018/.keep
       - 2019/.keep
       - 2022/.keep
