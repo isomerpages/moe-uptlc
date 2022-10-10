@@ -7,11 +7,10 @@ description: ""
 
 |   |   |
 |---|---|
-|  <a href="https://pagedart.com"><img src="/favicon-32x32.png"> </a> |   |
+|  <a href="/files/HTL-Reg-Form-2023.pdf"><img src="/images/HTL.gif"> </a> |   |
 |   |   |
 |   |   |
 |   |   |
 |   |   |
 |   |   |
-
 
