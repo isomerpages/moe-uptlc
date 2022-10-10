@@ -13,15 +13,15 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: For Teacher
+          description: ""
+          url: ""
+        - title: For Student
+          description: ""
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: For Parents
+          description: ""
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
@@ -29,6 +29,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
-
