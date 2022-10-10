@@ -9,7 +9,7 @@ description: ""
 <thead>
   <tr>
     <th> </th>
-    <th><img style="width: 50%;" src="/images/centredirector.jpg" align = "center" /></th>
+    <th><img style="width: 55%;" src="/images/centredirector.jpg" align = "center" /></th>
     <th> </th>
   </tr>
 </thead>
