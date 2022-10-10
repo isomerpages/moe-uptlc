@@ -9,5 +9,4 @@ third_nav_title: Announcement
 **[Click here for Registration](https://docs.google.com/forms/d/1-K-w4dcUy0nwHwLR_DzAggnSQE9uQX0maP2rToOrVqg/viewform?edit_requested=truehttps://docs.google.com/forms/d/1-K-w4dcUy0nwHwLR_DzAggnSQE9uQX0maP2rToOrVqg/viewform?edit_requested=true)**
 
 <a href="https://docs.google.com/forms/d/1-K-w4dcUy0nwHwLR_DzAggnSQE9uQX0maP2rToOrVqg/viewform?edit_requested=true">
-<img alt="" src=/images/PSG-EVENT-1024x576.jpeg></a>
-
+<img alt="" src="/images/PSG-EVENT-1024x576.jpeg"></a>
