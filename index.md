@@ -15,7 +15,7 @@ sections:
       key_highlights:
         - title: For Teacher
           description: ""
-          url: ""
+          url: /For-Teachers/Useful-Links/
         - title: For Student
           description: ""
           url: https://gmail.com
