@@ -6,3 +6,6 @@ third_nav_title: Announcement
 ---
 ## Recent Events
 
+[Pongal Festival 2022]()
+
+[Motivational Talk Cum Study Camp]()
