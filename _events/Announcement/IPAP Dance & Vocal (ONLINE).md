@@ -8,4 +8,4 @@ third_nav_title: Announcement
 
 *   **[Dance and Vocal (Commencing on 05 Feb 2022)](/events/Announcement/IPAP-Dance-Vocal/IPAP/)**
 
-*   **[Others (Starting soon...)](https://uptlc.moe.edu.sg/for-students/indian-performing-arts-programme/ipap/)**
+*   **[Others (Starting soon...)](/events/Announcement/IPAP-Dance-Vocal/IPAP/)**
