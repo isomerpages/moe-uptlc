@@ -8,9 +8,10 @@ description: ""
 |   |   |
 |---|---|
 |  <a href="/files/HTL-Reg-Form-2023.pdf"><img src="/images/HTL.gif"> </a> | <a href="/files/HTL-Reg-Form-2023.pdf"><img src="/images/WA-CA-SA-2022-TIMETABLE.png"> </a>  |
-| <a href="/files/HTL-Reg-Form-2023.pdf"><img src="/images/ACADEMIC-TIMETABLE.png"> </a>  |   |
+| <a href="/files/Academic_TimeTable_2022.pdf"><img src="/images/ACADEMIC-TIMETABLE.png"> </a>  |   |
 |   |   |
 |   |   |
 |   |   |
 |   |   |
 
+[](/files/Academic_TimeTable_2022.pdf)
