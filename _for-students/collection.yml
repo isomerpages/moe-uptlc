@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - NETP Programme and Scholarship.md
       - Exam Timetable.md
       - Alumni Matters.md
       - Information on New Academic Year 2022.md
