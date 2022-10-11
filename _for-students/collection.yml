@@ -2,5 +2,6 @@ collections:
   for-students:
     output: true
     order:
+      - Exam Timetable.md
       - Alumni Matters.md
       - Information on New Academic Year 2022.md
