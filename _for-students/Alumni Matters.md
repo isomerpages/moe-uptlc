@@ -7,4 +7,4 @@ description: ""
 
 #### Membership Registration
 
-**[Click Me!]**(https://forms.cwp.gov.sg/uptlc/FormOPJU9)
+**[Click Me!](https://forms.cwp.gov.sg/uptlc/FormOPJU9)**
