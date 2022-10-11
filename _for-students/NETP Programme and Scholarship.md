@@ -25,4 +25,71 @@ _Programme Structure_
     
 3.  Overall, the NETP (Secondary) programme will take 100 – 120 hours over four years from Sec 1 to Sec 4 (or about 30 hours per year).
 
-Table 1: Programme Outline for NETP (Secondary)
+<u>Table 1:</u> Programme Outline for NETP (Secondary)
+
+<table>
+<thead>
+  <tr>
+    <th>Module</th>
+    <th>Brief description of content</th>
+    <th>Remarks</th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Sec 1</td>
+    <td>Language and Presentation  (25-30 hrs)</td>
+    <td>Enhancing oral communication (e.g. public speaking and presentation) and creative writing.</td>
+    <td>For each module, all NETP students will complete an oral presentation, a reflection journal and participate in online forum discussion using i-MTL portal.</td>
+  </tr>
+  <tr>
+    <td>Sec 2</td>
+    <td>Language and Literature  (25-30 hrs)</td>
+    <td>Enhancing students’ oratorical skills (debating skills).  Introduction to classical and/or contemporary literature.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Lower Sec</td>
+    <td>Opportunities for:  1 talk/2 workshops per year including flagship programmes (e.g. writer mentorship under Singapore Tamil Writers’ Association) and performing arts Cultural and language enrichment camps Cultural learning journeys</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Upper Sec (Sec 3 &amp; 4)</td>
+    <td>Tamil Culture and Aesthetics  (25-30 hrs)</td>
+    <td>Introduction to rich cultural heritage and practices of TL  Translation</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Knowing India (Basic)</td>
+    <td>Understanding the contemporary developments in India (Basic)</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Upper Sec</td>
+    <td>Opportunities for:  1 talk/2 workshops per year including flagship programmes (e.g. writer mentorship under Singapore Tamil Writers’ Association) and performing arts Overseas immersion in India. Internship (at Tamil Murasu, Mediacorp Radio (Oli 96.8) TV (Vasantham).</td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+**<u>NETP (Junior College)</u>**
+
+_Targeted Students_
+
+1.  At the JC level, the NETP will be open to all JC students offering the H2 Tamil Language and Literature [1](https://uptlc.moe.edu.sg/for-students/netp-programme-and-scholarship/H2TLL). Students who wish to be in JC NETP must have good overall O-level examination results obtaining one of the following:
+    *   Grade A2 or above in Tamil; or
+    *   Grade B3 or above in Higher Tamil; or
+    *   Grade B4 or above in Higher Tamil and B3 or above in Tamil Literature; or
+    *   Equivalent results based on IP school assessment.
+
+_Programme Structure_
+
+1.  For NETP (Junior College), JC NETP students will attend elective modules (each of 25-30 hr duration) on ‘Understanding India’ and ‘Media Arts’.  
+    
+2.  JC NETP students will also be given opportunities to participate in flagship programmes (e.g. internship programme, job attachment, mentorship programmes e.t.c), workshops and talks by TL experts and an overseas immersion of at least two-week duration to India.
+
+Table 2: Programme Outline for NETP (JC)
