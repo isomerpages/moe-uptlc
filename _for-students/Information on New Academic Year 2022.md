@@ -13,4 +13,6 @@ description: ""
 | <a href="/files/Lit-Application-Form-at-UPTLC-2023.pdf"><img src="/images/REGISTRATION-FORM-FOR-LIT.png"> </a> |  <a href="/files/COE-2022_Public.pdf"><img src="/images/CALENDAR-OF-EVENTS.png"> </a>  |
 | <a href="/files/Centre-Activities-for-2022.pdf"><img src="/images/CENTER-ACTIVITIES-FOR-2022.png"> </a>  | <a href="/files/COE-2022_Public.pdf"><img src="/images/NETP-PROGRAMME-and.png"> </a>  |
 |   |   |
+| <a href="/files/2020_LJ-_Dates_for-UPTLC-WEB_Formt-2__HOD.pdf"><img src="/images/LEARNING-JOURNEY.png"> </a>  | <a href="/files/COE-2022_Public.pdf"><img src="/images/NETP-PROGRAMME-and.png"> </a>  |
+|   |   |
 
