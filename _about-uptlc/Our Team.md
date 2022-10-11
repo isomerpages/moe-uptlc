@@ -6,7 +6,7 @@ description: ""
 ## Our Team
 
 
-|   |                                     <img src="/images/centredirector.jpg" width="287" height="300">                                     |   |
+|   |<img style="width: 50%;" src="/images/centredirector.jpg" align = "center" />                                      |   |
 |:-:|:---------------------------------------------------------------------------:|:-:|
 |   | **MDM SANTHI SELLAPPAN <br>Centre Director**<br>santhi_sellappan@schools.gov.sg |   |
 
@@ -25,3 +25,4 @@ KEY PERSONNEL & TEACHERS</center></strong>
 |       MR GOVINDASAMY SANTHANRAJ Teacher govindasamy_santhanraj@moe.edu.sg       |           MDM VENUGOPAL SHANMUGAVALLI Teacher venugopal_shanmugavalli@moe.edu.sg          |      MS MEENAMBAL PARAMASIVAM Teacher  meenambal_paramasivam@moe.edu.sg      |
 |                                        ![](/images/teacher5.jpeg)                                       |                                                                                           |                                                                              |
 |     MDM NUZAIBAH BEGUM SAYNUTHEM Teacher nuzaibah_begum_saynuthem@moe.edu.sg    |                                                                                           |                                                                              |
+
