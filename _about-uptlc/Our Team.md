@@ -6,7 +6,9 @@ description: ""
 ## Our Team
 
 
-
+|   |                                     <img src="/images/centredirector.jpg" width="287" height="300">                                     |   |
+|:-:|:---------------------------------------------------------------------------:|:-:|
+|   | **MDM SANTHI SELLAPPAN <br>Centre Director**<br>santhi_sellappan@schools.gov.sg |   |
 
 
 
