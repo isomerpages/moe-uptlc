@@ -92,4 +92,60 @@ _Programme Structure_
     
 2.  JC NETP students will also be given opportunities to participate in flagship programmes (e.g. internship programme, job attachment, mentorship programmes e.t.c), workshops and talks by TL experts and an overseas immersion of at least two-week duration to India.
 
-Table 2: Programme Outline for NETP (JC)
+<u>Table 2:</u> Programme Outline for NETP (JC)
+
+<table>
+<thead>
+  <tr>
+    <th>Module<br></th>
+    <th>Brief description of Content<br></th>
+    <th>Remark<br></th>
+    <th></th>
+    <th></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>JC level<br></td>
+    <td><br>Understanding India<br><br>(25-30 hrs)</td>
+    <td>Understanding history and contemporary development of India.<br></td>
+    <td rowspan="3">For  each module, all JC NETP students will complete an oral presentation, a reflection journal and participate in online forum discussion using i-MTL portal.<br></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>JC level<br></td>
+    <td>Media and Performing Arts<br><br>(25- 30 hrs)</td>
+    <td>Opportunities to practice the features of Indian fine art and film making.</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td colspan="2">Opportunities for:<br><br>1-2 talks/workshops per year including flagship programmes (e.g. writer mentorship under Singapore Tamil Writers’ Association) and performing arts<br>Cultural programmes<br>Translation<br>Overseas immersion in India.<br>Internship at Tamil Murasu, Mediacorp Radio (Oli 96.8), TV Vasantham e.t.c.</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+
+**Implementation Timeline**
+
+1.  The NETP will be implemented in phases from 2012, viz, Sec 1, Sec 3 and JC1 in 2012 followed by Sec 2, Sec 4 and JC 2 from 2013. UPTLC will conduct briefings for TL coordinators from secondary schools, TL centres and JCs.
+
+**NETP Scholarship for JC students**
+
+1.  The NETP Scholarship is offered by MOE to encourage academically able and linguistically talented students who have already studied the relevant subject up to O-level, to pursue the subject at H2 level at UPTLC under the NETP programme.
+
+**NETP Scholarship Terms and Conditions**
+
+1.  Students applying for NETP scholarship should satisfy the following conditions:
+    *   are Singapore Citizens;
+    *   have done consistently well in school and have obtained outstanding overall results in the O-level examinations/equivalent results based on IP schools’ internal assessment;
+    *   have successfully been admitted into UPTLC and obtained a place in the NETP (JC) programme;
+    *   Have a good record of co-curricular activities; and
+    *   Not currently be in receipt of any MOE scholarship (except EESIS & ESIP).
+        1.  The NETP scholarship is valued at $1,000 per annum. It also covers school fees based on Singapore Citizens’ rates, subject to an annual cap of $2,400. The scholarship is tenable for 2 years subject to satisfactory progress at the end of JC1 and good conduct. Successful applicants are not required to enter into a bond to serve the Singapore Government.
+        2.  Successful applicants must offer H2 Tamil Language and Literature at GCE A-Level. There will not be any restriction on the choice of the remaining subjects.
+        3.  Eligible students will be identified and nominated for the scholarship interview. Please approach UPTLC for more information.
+2.  Successful applicants are also required to participate in the following activities organised by the Ministry of Education:
+    *   Creative Writing Camp
+    *   Overseas Study cum Immersion Programme
+    *   Lecture Series
