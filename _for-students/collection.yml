@@ -2,7 +2,6 @@ collections:
   for-students:
     output: true
     order:
-      - Indian Performing Arts Programme.md
       - Exam Timetable.md
       - Alumni Matters.md
       - Information on New Academic Year 2022.md
