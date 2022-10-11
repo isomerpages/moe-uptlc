@@ -25,6 +25,3 @@ third_nav_title: "2021"
 #### BC 2021 Upper Sec Kavinaya Competition Results
 
 [BC 2021 Upper Sec Kavinaya Competition Results](/files/BC-2021_Upper-Sec-Kavinaya-Competition-results.pdf)
-
-
-
