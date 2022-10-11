@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - 2022/படைப்பாளருடன் ஒரு கலந்துரையாடல்.md
       - 2022/.keep
       - 2022/2022.md
       - 2022/Motivational Talk Cum Study Camp.md
@@ -11,6 +10,7 @@ collections:
       - 2022/Sec 2 Tamil Language Learning Festival 2022.md
       - 2022/Speech Day 2022.md
       - 2022/Tamil Fest 2022.md
+      - 2022/படைப்பாளருடன் ஒரு கலந்துரையாடல்.md
       - 2021/BHARATHIYAR'S CENTENNIAL COMPETITION RESULTS 2021.md
       - 2021/2021.md
       - 2021/.keep
