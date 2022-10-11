@@ -17,7 +17,7 @@ sections:
           url: /for-students/Academic-Year-2022/
         - title: For Parents
           description: ""
-          url: ""
+          url: /for-parents/2022/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
