@@ -2,4 +2,5 @@ collections:
   for-students:
     output: true
     order:
+      - Alumni Matters.md
       - Information on New Academic Year 2022.md
