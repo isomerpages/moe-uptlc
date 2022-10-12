@@ -2,7 +2,6 @@ collections:
   about-uptlc:
     output: true
     order:
-      - Test3.md
       - Test2.md
       - Test.md
       - Centre Director’s Message.md
