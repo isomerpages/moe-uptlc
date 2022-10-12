@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Common Resources.md
       - Learning Resources/Songs.md
       - Learning Resources/Resources.md
       - Learning Resources/.keep
