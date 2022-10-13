@@ -7,27 +7,28 @@ description: ""
 
 
 
+
 #### Tamil Poets
 
-1. [திருவள்ளுவர்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide1.jpg)
+1. [திருவள்ளுவர்](/images/Slide1.jpg)
 
-2. [கவிச்சக்கரவர்த்தி கம்பர்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide2.jpg)
+2. [கவிச்சக்கரவர்த்தி கம்பர்](/images/Slide2.jpg)
 
-3. [இளங்கோவடிகள்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide3.jpg)
+3. [இளங்கோவடிகள்](/images/Slide3.jpg)
 
-4. [ஔவையார்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide4.jpg)
+4. [ஔவையார்](/images/Slide4.jpg)
 
-5. [உ.வே.சாமிநாதய்யர்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide5.jpg)
+5. [உ.வே.சாமிநாதய்யர்](/images/Slide5.jpg)
 
-6. [பாரதியார்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide6.jpg)
+6. [பாரதியார்](/images/Slide6.jpg)
 
-7. [பாரதிதாசன்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide7.jpg)
+7. [பாரதிதாசன்](/images/Slide7.jpg)
 
-8. [கண்ணதாசன்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide8.jpg)
+8. [கண்ணதாசன்](/images/Slide8.jpg)
 
-9. [டாக்டர்மு.வரதராசனார்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide9.jpg)
+9. [டாக்டர்மு.வரதராசனார்](/images/Slide9.jpg)
 
-10. [பட்டுக்கோட்டைகல்யாணசுந்தரம்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide10.jpg)
+10. [பட்டுக்கோட்டைகல்யாணசுந்தரம்](/images/Slide10.jpg)
 
 11. [பெ.சுந்தரனார்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide11.jpg)
 
