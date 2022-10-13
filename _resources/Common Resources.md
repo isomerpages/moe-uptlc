@@ -62,14 +62,14 @@ description: ""
 
 26. [கலைஞர்மு.கருணாநிதி](/images/Slide26.jpg)
 
-27. [கி.வா.ஜகந்நாதன்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide27.jpg)
+27. [கி.வா.ஜகந்நாதன்](/images/Slide27.jpg)
 
-28. [ஜெயகாந்தன்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide28.jpg)
+28. [ஜெயகாந்தன்](/images/Slide28.jpg)
 
-29. [அகிலன்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide29.jpg)
+29. [அகிலன்](/images/Slide29.jpg)
 
-30. [நா.கோவிந்தசாமி](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide30.jpg)
+30. [நா.கோவிந்தசாமி](/images/Slide30.jpg)
 
-31. [கோ.சாரங்கபாணி](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide31.jpg)
+31. [கோ.சாரங்கபாணி](/images/Slide31.jpg)
 
-32. [வைரமுத்து](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide32.jpg)
+32. [வைரமுத்து](/images/Slide32.jpg)
