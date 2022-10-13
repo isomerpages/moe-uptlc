@@ -30,37 +30,37 @@ description: ""
 
 10. [பட்டுக்கோட்டைகல்யாணசுந்தரம்](/images/Slide10.jpg)
 
-11. [பெ.சுந்தரனார்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide11.jpg)
+11. [பெ.சுந்தரனார்](/images/Slide11.jpg)
 
-12. [புதுமைப்பித்தன்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide12.jpg)
+12. [புதுமைப்பித்தன்](/images/Slide12.jpg)
 
-13. [நாமக்கல்வெ.இராமலிங்கனார்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide13.jpg)
+13. [நாமக்கல்வெ.இராமலிங்கனார்](/images/Slide13.jpg)
 
-14. [திரு.வி.கலியாணசுந்தரனார்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide14.jpg)
+14. [திரு.வி.கலியாணசுந்தரனார்](/images/Slide14.jpg)
 
-15. [சுஜாதா](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide15.jpg)
+15. [சுஜாதா](/images/Slide15.jpg)
 
-16. [கல்கிரா.கிருஷ்ணமூர்த்தி](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide16.jpg)
+16. [கல்கிரா.கிருஷ்ணமூர்த்தி](/images/Slide16.jpg)
 
-17. [அழ.வள்ளியப்பா](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide17.jpg)
+17. [அழ.வள்ளியப்பா](/images/Slide17.jpg)
 
-18. [மறைமலையடிகளார்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide18.jpg)
+18. [மறைமலையடிகளார்](/images/Slide18.jpg)
 
-19. [வ.உ.சிதம்பரனார்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide19.jpg)
+19. [வ.உ.சிதம்பரனார்](/images/Slide19.jpg)
 
-20. [வீரமாமுனிவர்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide20.jpg)
+20. [வீரமாமுனிவர்](/images/Slide20.jpg)
 
-21. [ஜி.யு.போப்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide21.jpg)
+21. [ஜி.யு.போப்](/images/Slide21.jpg)
 
-22. [கால்டுவெல்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide22.jpg)
+22. [கால்டுவெல்](/images/Slide22.jpg)
 
-23. [வ.செ.குழந்தைசாமி](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide23.jpg)
+23. [வ.செ.குழந்தைசாமி](/images/Slide23.jpg)
 
-24. [பெரியார்ஈ.வே.இராமசாமி](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide24.jpg)
+24. [பெரியார்ஈ.வே.இராமசாமி](/images/Slide24.jpg)
 
-25. [பேரறிஞர்அண்ணா](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide25.jpg)
+25. [பேரறிஞர்அண்ணா](/images/Slide25.jpg)
 
-26. [கலைஞர்மு.கருணாநிதி](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide26.jpg)
+26. [கலைஞர்மு.கருணாநிதி](/images/Slide26.jpg)
 
 27. [கி.வா.ஜகந்நாதன்](https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/Slide27.jpg)
 
