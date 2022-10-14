@@ -2,7 +2,7 @@ collections:
   publication:
     output: true
     order:
-      - Student Newsletter/.keep
       - Student Handbook/.keep
-      - School Magazine/1983.md
       - School Magazine/.keep
+      - School Magazine/1983.md
+      - Student Newsletter/.keep
