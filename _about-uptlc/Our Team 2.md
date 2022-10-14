@@ -25,11 +25,11 @@ description: ""
 	
 <br>
 <br>
-	<center>ADMINISTRATION WING<br>EXECUTIVE AND ADMINISTRATIVE STAFF</center>
+	<br><center>ADMINISTRATION WING<br>EXECUTIVE AND ADMINISTRATIVE STAFF</center><b>
 	
 |                                                                           |                                                                     |                                                    |
 |---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
-|                                     ![](/images/Senioradminexecutive.jpeg)                                     |                                                                    |                          #                         |
+|                                     <img src="/images/Senioradminexecutive.jpeg"   style="width:70%" />                                         |                                  <img src="/images/Adminexecutive.jpeg"   style="width:70%" />                                       |                          <img src="/images/Librarian.jpeg"   style="width:100%" />                                   |
 |  MR SARMIN BIN BASIR  Senior Admin Executive Sarmin_BASIR@schools.gov.sg  | MDM BATHMA D/O KRISHNAN Admin Executive bathma_krishnan@moe.edu.sg  |        MDM MALLIKA DAKSHINAMURTHY Librarian        |
 |                                     #                                     |                                  #                                  |                          #                         |
 |             MDM INDRADEVI D/O RETINAMOperation Support Officer            |         MDM NOR FATINI BINTE ALIAS Operation Support Officer        | MDM NOORMALA BINTE WAHAB Operation Support Officer |
