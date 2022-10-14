@@ -19,7 +19,7 @@ description: ""
 <thead>
 	<tr>
 		<th class="tg-nrix"> </th>
-		<th class="tg-baqh"><img src="https://uptlc.moe.edu.sg/wp-content/uploads/2021/11/png-transparent-black-and-white-material-white-frame-angle-white-golden-frame.png-22-287x300.jpg" width="242" height="253"></th>
+		<th class="tg-baqh"><img src=/images/centredirector.jpg width="242" height="253"></th>
 		<th class="tg-nrix"> </th>
 	</tr>
 </thead>
@@ -31,6 +31,3 @@ description: ""
 	</tr>
 </tbody>
 </table>
-
-
-
