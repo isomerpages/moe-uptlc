@@ -23,7 +23,7 @@ description: ""
 |                                           <img src="/images/teacher5.jpeg"   style="width:69%" >                                                                             |                                                                                                 |                                                                                    |
 |     **MDM NUZAIBAH BEGUM SAYNUTHEM**<br>**Teacher**<br>nuzaibah_begum_saynuthem@moe.edu.sg    |                                                                                                 |                                                                                    | |
 	
-<br>
+
 <b><center>ADMINISTRATION WING<br>EXECUTIVE AND ADMINISTRATIVE STAFF</center><b>
 	
 |                                                                           |                                                                     |                                                    |
@@ -42,7 +42,7 @@ description: ""
 |                    <img src="/images/Ictexecutive.jpeg"   style="width:90%" />                            |                     <img src="/images/DesktopEngineer.jpg"   style="width:80%" />                              |                          <img src="/images/Desktopengineer2.jpg"   style="width:70%" />                                   |
 | **MR TIMOTHY MARK MANZO**<br>**ICT Executive** | **MS MUSRIFAH SHAHIBAL**<br>**Desktop Engineer** | **MS VIVEKADARSINI CHANDRA SEGAR**<br>**Desktop Engineer**  | 
 	
-<br>
+
 	
 <b><center>ENVIRONMENTAL AND SECURITY PERSONNEL</center><b>
 
