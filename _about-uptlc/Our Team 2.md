@@ -22,6 +22,3 @@ description: ""
 |       **MR GOVINDASAMY SANTHANRAJ**<br>**Teacher**<br>govindasamy_santhanraj@moe.edu.sg       |           **MDM VENUGOPAL SHANMUGAVALLI**<br>**Teacher**<br>venugopal_shanmugavalli@moe.edu.sg          |      **MS MEENAMBAL PARAMASIVAM**<br>**Teacher** <br>meenambal_paramasivam@moe.edu.sg      |
 |                                           <img src="/images/teacher5.jpeg"   style="width:69%" >                                                                             |                                                                                                 |                                                                                    |
 |     **MDM NUZAIBAH BEGUM SAYNUTHEM**<br>**Teacher**<br>nuzaibah_begum_saynuthem@moe.edu.sg    |                                                                                                 |                                                                                    |
-
-	
-	
