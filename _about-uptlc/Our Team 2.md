@@ -14,7 +14,7 @@ description: ""
 
 <b><center>KEY PERSONNEL & TEACHERS</center></b>
 
-|                                           ![](/images/Headofdepartment.jpg)                                          |                                                ![](/images/Subjecthead-tamil.jpeg)                                                |                                          ![](/images/Subjecthead-curriculum.jpeg)                                         |
+|           <img src="/images/Headofdepartment.jpg"  width="269.78" height="282" />                                          |    <img src="/images/Subjecthead-tamil.jpeg"  width="269.78" height="282" />                                                 |   <img src="/images/Subjecthead-curriculum.jpeg"  width="269.78" height="282" />                             |
 |:-------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|
 | MDM MALAR VIZHI D/O ANJAPPAN<br>Head of Department<br>malar_vizhi_anjappan@moe.edu.sg |         MRS SUMATHI SEGAR<br>Subject Head -  Tamil Language<br>sumathi_segar@moe.edu.sg         | MR K. SARAVANAN<br>Subject Head -  Curriculum Innovation<br>saravanan_k@moe.edu.sg |
 |                                           #                                           |                                                #                                                |                                          #                                         |
