@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Common Resources.md
+      - Learning Resources/வாக்கியத்தின் கருத்தை முடித்தெழுதுதல்.md
       - Learning Resources/.keep
       - Learning Resources/Resources.md
       - Learning Resources/Songs.md
