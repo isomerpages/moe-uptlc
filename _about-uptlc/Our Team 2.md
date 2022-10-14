@@ -24,8 +24,7 @@ description: ""
 |     **MDM NUZAIBAH BEGUM SAYNUTHEM**<br>**Teacher**<br>nuzaibah_begum_saynuthem@moe.edu.sg    |                                                                                                 |                                                                                    | |
 	
 <br>
-<br>
-	<br><center>ADMINISTRATION WING<br>EXECUTIVE AND ADMINISTRATIVE STAFF</center><b>
+<center>ADMINISTRATION WING<br>EXECUTIVE AND ADMINISTRATIVE STAFF</center><b>
 	
 |                                                                           |                                                                     |                                                    |
 |---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
