@@ -10,10 +10,10 @@ third_nav_title: Learning Resources
 
 *   [Songs](https://staging.d2uldb6hpe0xwq.amplifyapp.com/resources/Learning-Resources/Songs/)
 
-*   [மரபுத்தொடர்கள், இணைமொழிகள்](https://uptlc.moe.edu.sg/resources/learning-resources/resources/74346-2/)
+*   [மரபுத்தொடர்கள், இணைமொழிகள்](https://staging.d2uldb6hpe0xwq.amplifyapp.com/resources/Learning-Resources/permalink/)
 
-*   [மின்னஞ்சல்](https://uptlc.moe.edu.sg/resources/learning-resources/resources/74347-2/)
+*   [மின்னஞ்சல்](https://staging.d2uldb6hpe0xwq.amplifyapp.com/resources/Learning-Resources/Permalink2/)
 
-*   [கட்டுரை](https://uptlc.moe.edu.sg/resources/learning-resources/resources/74348-2/)
+*   [கட்டுரை](https://staging.d2uldb6hpe0xwq.amplifyapp.com/resources/Learning-Resources/Final-Presentation-Essay-Writing/)
 
-*   [வாக்கியத்தின் கருத்தை முடித்தெழுதுதல்](https://uptlc.moe.edu.sg/resources/learning-resources/resources/74349-2/)
+*   [வாக்கியத்தின் கருத்தை முடித்தெழுதுதல்](https://staging.d2uldb6hpe0xwq.amplifyapp.com/resources/Learning-Resources/permalink3/)
