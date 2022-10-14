@@ -6,12 +6,31 @@ third_nav_title: Student Newsletter
 ---
 ## Students Newsletter
 
-![](/images/SNL2020-1024x273.png)
+<a href="https://pagedart.com">
+	<img src="/images/SNL2020-1024x273.png">
+</a>
 
-![](/images/2019-Newsletter.png)
+<br>
 
-![](/images/Newsletter-2018.png)
+<a href="https://pagedart.com">
+	<img src="/images/2019-Newsletter.png">
+</a>
 
-![](/images/2017.png)
+<br>
 
-![](/images/Newsletter-2016.png)
+<a href="https://pagedart.com">
+	<img src="/images/Newsletter-2018.png">
+</a>
+
+<br>
+
+<a href="https://pagedart.com">
+	<img src="/images/2017.png">
+</a>
+
+<br>
+
+<a href="https://pagedart.com">
+	<img src="/images/Newsletter-2016.png">
+</a>
+
