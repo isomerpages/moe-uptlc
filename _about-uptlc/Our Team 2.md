@@ -9,8 +9,12 @@ description: ""
 |:-:|:---------------------------------------------------------------------:|:-:|
 |   | **MDM SANTHI SELLAPPAN <br>Centre Director<br> santhi_sellappan@schools.gov.sg** |   |
 
+<br>
+<br>
 
-|                                                                                       |                                                                     **TEACHING & LEARNING WING KEY PERSONNEL & TEACHERS**                            |                                                                                    |
+<b><center>TEACHING & LEARNING WING KEY PERSONNEL & TEACHERS</center><b>
+
+|                                                                                       |              |                                                                                    |
 |---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 |                                           <img src="/images/seniorteacher.jpeg"   style="width:40%" />                                           |                                                <img src="/images/seniorteacher.jpeg"   style="width:43%" />                                                |                                          <img src="/images/seniorteacher.jpeg"   style="width:37%" />                                         |
 | MDM MALAR VIZHI D/O ANJAPPAN<br>Head of Department<br>malar_vizhi_anjappan@moe.edu.sg |         MRS SUMATHI SEGAR<br>Subject Head -  Tamil Language<br>sumathi_segar@moe.edu.sg         | MR K. SARAVANAN<br>Subject Head -  Curriculum Innovation<br>saravanan_k@moe.edu.sg |
