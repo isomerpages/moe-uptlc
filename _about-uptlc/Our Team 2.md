@@ -49,6 +49,6 @@ description: ""
 |                                            |                                                |                                |
 |--------------------------------------------|------------------------------------------------|--------------------------------|
 |                      #                     |                        #                       |                #               |
-|     MR LAM PIN SHIANG Environment Staff    | MDM VENKATACHALAM PICHAIMANI Environment Staff | CHOO YIN SAI Environment Staff |
-|                      #                     |                                                |                #               |
-| MR GOVINDASAMY YOGANATHAN  Security Office |                                                |                                |
+|     **MR LAM PIN SHIANG**<br>**Environment Staff**    | **MDM VENKATACHALAM PICHAIMANI**<br> **Environment Staff** | **CHOO YIN SAI**<br>**Environment Staff** |
+|                      #                     |                                                |                               |
+| **MR GOVINDASAMY YOGANATHAN**<br>**Security Office** |                                                |                                |
