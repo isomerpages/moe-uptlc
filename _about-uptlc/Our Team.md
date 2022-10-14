@@ -3,7 +3,6 @@ title: Our Team
 permalink: /about-uptlc/Our-Team/
 description: ""
 ---
-
 ## Our Team
 
 |   |      <img src="/images/centredirector.jpg"  style="width:40%" />                              |   |
@@ -49,7 +48,7 @@ description: ""
 
 |                                            |                                                |                                |
 |--------------------------------------------|------------------------------------------------|--------------------------------|
-|                      <img src="/images/Environmentstaff1.jpeg"   style="width:80%" />                      |                        <img src="/images/Environmentstaff2.jpeg"   style="width:75%" />                          |                <img src="/images/Environmentstaff3.jpeg"   style="width:70%" />                 |
+|                      <img src="/images/Environmentstaff1.jpeg"   style="width:80%" />                      |                        <img src="/images/Environmentstaff2.jpeg"   style="width:75%" />                          |                <img src="/images/Environmentstaff3.jpeg"   style="width:75%" />                 |
 |     **MR LAM PIN SHIANG**<br>**Environment Staff**    | **MDM VENKATACHALAM PICHAIMANI**<br> **Environment Staff** | **CHOO YIN SAI**<br>**Environment Staff** |
 |                      <img src="/images/SecurityOfficer.jpeg"   style="width:80%" />                       |                                                |                               |
 | **MR GOVINDASAMY YOGANATHAN**<br>**Security Office** |                                                |                                |
