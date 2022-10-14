@@ -7,7 +7,7 @@ description: ""
 
 |   |  <img class="size-medium wp-image-35 aligncenter" src="/images/centredirector.jpg" alt="" width="287" height="300">                                   |   |
 |:-:|:---------------------------------------------------------------------:|:-:|
-|   | MDM SANTHI SELLAPPAN  Centre Director santhi_sellappan@schools.gov.sg |   |
+|   | **MDM SANTHI SELLAPPAN  Centre Director santhi_sellappan@schools.gov.sg** |   |
 
 
 <b><center>TEACHING & LEARNING WING</center></b>
