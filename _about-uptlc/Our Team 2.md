@@ -9,10 +9,9 @@ description: ""
 |:-:|:---------------------------------------------------------------------:|:-:|
 |   | **MDM SANTHI SELLAPPAN <br>Centre Director<br> santhi_sellappan@schools.gov.sg** |   |
 
-<br>
 
 <b><center>TEACHING & LEARNING WING KEY PERSONNEL & TEACHERS</center><b>
-
+	
 |                                                                                       |              |                                                                                    |
 |---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 |   <img src="/images/Headofdepartment.jpg"   style="width:69%" />        |                    <img src="/images/Subjecthead-tamil.jpeg"   style="width:75%" />                                                |                                          <img src="/images/Subjecthead-curriculum.jpeg"   style="width:69%" />                                         |
