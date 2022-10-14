@@ -21,8 +21,4 @@ description: ""
 | <img src="/images/teacher2.jpeg"   style="width:69%"/>                                                |       <img src="/images/teacher3.jpeg"   style="width:72%" >                                                                                       |                                          <img src="/images/teacher4.jpeg"   style="width:73%" >                                          |
 |       **MR GOVINDASAMY SANTHANRAJ**<br>**Teacher**<br>govindasamy_santhanraj@moe.edu.sg       |           **MDM VENUGOPAL SHANMUGAVALLI**<br>**Teacher**<br>venugopal_shanmugavalli@moe.edu.sg          |      **MS MEENAMBAL PARAMASIVAM**<br>**Teacher** <br>meenambal_paramasivam@moe.edu.sg      |
 |                                           <img src="/images/teacher5.jpeg"   style="width:69%" >                                                                             |                                                                                                 |                                                                                    |
-|     **MDM NUZAIBAH BEGUM SAYNUTHEM**<br>**Teacher**<br>nuzaibah_begum_saynuthem@moe.edu.sg    |                                                                                                 |                                                                                    |
-	
-	ADMINISTRATION WING
-
-EXECUTIVE AND ADMINISTRATIVE STAFF
+|     **MDM NUZAIBAH BEGUM SAYNUTHEM**<br>**Teacher**<br>nuzaibah_begum_saynuthem@moe.edu.sg    |                                                                                                 |                                                                                    |  
