@@ -39,7 +39,7 @@ description: ""
 	
 |                                        |                                           |                                                     |
 |----------------------------------------|-------------------------------------------|-----------------------------------------------------|
-|                    <img src="/images/Ictexecutive.jpeg"   style="width:90%" />                            |                     <img src="/images/DesktopEngineer.jpg"   style="width:80%" />                              |                          <img src="/images/Desktopengineer2.jpg"   style="width:70%" />                                   |
+|                    <img src="/images/Ictexecutive.jpeg"   style="width:80%" />                            |                     <img src="/images/DesktopEngineer.jpg"   style="width:75%" />                              |                          <img src="/images/Desktopengineer2.jpg"   style="width:75%" />                                   |
 | **MR TIMOTHY MARK MANZO**<br>**ICT Executive** | **MS MUSRIFAH SHAHIBAL**<br>**Desktop Engineer** | **MS VIVEKADARSINI CHANDRA SEGAR**<br>**Desktop Engineer**  | 
 	
 
