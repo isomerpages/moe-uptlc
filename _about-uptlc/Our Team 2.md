@@ -48,7 +48,7 @@ description: ""
 
 |                                            |                                                |                                |
 |--------------------------------------------|------------------------------------------------|--------------------------------|
-|                      #                     |                        #                       |                #               |
+|                      <img src="/images/Environmentstaff1.jpeg"   style="width:90%" />                      |                        <img src="/images/Environmentstaff2.jpeg"   style="width:75%" />                          |                <img src="/images/Environmentstaff3.jpeg"   style="width:100%" />                 |
 |     **MR LAM PIN SHIANG**<br>**Environment Staff**    | **MDM VENKATACHALAM PICHAIMANI**<br> **Environment Staff** | **CHOO YIN SAI**<br>**Environment Staff** |
-|                      #                     |                                                |                               |
+|                      <img src="/images/SecurityOfficer.jpeg"   style="width:90%" />                       |                                                |                               |
 | **MR GOVINDASAMY YOGANATHAN**<br>**Security Office** |                                                |                                |
