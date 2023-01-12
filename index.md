@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero-banner.png
+      background: /images/SVN_0967.jpg
       key_highlights:
         - title: For Teacher
           description: ""
