@@ -78,7 +78,7 @@ third_nav_title: "2023"
 </head>
 <body>
 		<div style="width:100%; text-align:center">
-  <img src="https://d33wubrfki0l68.cloudfront.net/837e5ed24c83616f1d5a73245ef9dcc74325f9f4/59ae3/images/picture90.png"  >
+  <img src="https://raw.githubusercontent.com/isomerpages/moe-uptlc/staging/images/VR%20Launch.png"  >
 				<p style ="text-align: center" >
 
 
