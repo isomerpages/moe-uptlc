@@ -42,7 +42,7 @@ third_nav_title: "2023"
    
       font-weight: 700;
       color: #fff;
-      background: #7c62c9;
+      background: #1a3d6e;
       cursor: pointer;
     }
     
