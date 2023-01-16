@@ -2,10 +2,10 @@ collections:
   events:
     output: true
     order:
-      - 2023/VR Launch.md
-      - 2023/Pongal Festival 2023.md
-      - 2023/2023.md
       - 2023/.keep
+      - 2023/2023.md
+      - 2023/Pongal Festival 2023.md
+      - 2023/VR Launch.md
       - 2022/.keep
       - 2022/2022.md
       - 2022/Motivational Talk Cum Study Camp.md
