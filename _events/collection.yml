@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2023/2023.md
       - 2023/.keep
       - VR Launch.md
       - Pongal Festival 2023.md
