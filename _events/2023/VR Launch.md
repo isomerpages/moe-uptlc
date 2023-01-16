@@ -4,11 +4,10 @@ permalink: /events/vrlaunch/
 description: ""
 third_nav_title: "2023"
 ---
-### மெய்ந்நிகர்க் கற்றல் வளங்கள் - வெளியீடு
----
-
-	
+<html>
+	<head>
 				<style>
+					### மெய்ந்நிகர்க் கற்றல் வளங்கள் - வெளியீடு
       .button {
         background-color: #f4b639;
 						  font-family: arial, sans-serif;
@@ -77,30 +76,30 @@ third_nav_title: "2023"
    
     .tab input:checked ~ label::after { transform: rotate(90deg); }
 	</style>
-
-
+</head>
+<body>
 		<div style="width:100%; text-align:center">
-  <img src="https://raw.githubusercontent.com/isomerpages/moe-uptlc/staging/images/VR%20Launch.png">
-				<p style="text-align:&nbsp;center">
+  <img src="https://raw.githubusercontent.com/isomerpages/moe-uptlc/staging/images/VR%20Launch.png"  >
+				<p style ="text-align: center" >
 
 
-	</p><div style="width:100%; text-align:center">
+	<div style="width:100%; text-align:center">
 	    <div class="tab">
-      <input type="checkbox" id="tab-1">
+      <input id="tab-1" type="checkbox">
 		      <label for="tab-1">மெய்ந்நிகர்க் கற்றல் வளங்கள் - வெளியீடு அழைப்பிதழ்</label>
       <div class="content">
-       <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/16cRkNkGA-8?controls=0" height="315" width="560"></iframe>
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/16cRkNkGA-8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 				</div>
 			</div>
     </div>
 	
         <!-- SECOND TAB -->
     <div class="tab">
-      <input type="checkbox" id="tab-2">
+      <input id="tab-2" type="checkbox">
       <label for="tab-2"> மெய்ந்நிகர்க் கற்றல் வளங்கள் - முன்னோட்ட ஒளிக்காட்சி 
 </label>
       <div class="content">
-       <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/U76qL4jOq1Q?controls=0" height="315" width="560"></iframe>
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/U76qL4jOq1Q?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 				</div>
     </div>
