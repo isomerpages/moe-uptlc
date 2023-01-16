@@ -4,8 +4,9 @@ permalink: /events/vrlaunch/
 description: ""
 third_nav_title: "2023"
 ---
-<html>
-	<head>
+### மெய்ந்நிகர்க் கற்றல் வளங்கள் - வெளியீடு
+
+	
 				<style>
       .button {
         background-color: #f4b639;
@@ -75,61 +76,31 @@ third_nav_title: "2023"
    
     .tab input:checked ~ label::after { transform: rotate(90deg); }
 	</style>
-</head>
-<body>
+
+
 		<div style="width:100%; text-align:center">
-  <img src="https://raw.githubusercontent.com/isomerpages/moe-uptlc/staging/images/VR%20Launch.png"  >
-				<p style ="text-align: center" >
+  <img src="https://raw.githubusercontent.com/isomerpages/moe-uptlc/staging/images/VR%20Launch.png">
+				<p style="text-align:&nbsp;center">
 
 
-	<div style="width:100%; text-align:center">
+	</p><div style="width:100%; text-align:center">
 	    <div class="tab">
-      <input id="tab-1" type="checkbox">
-		      <label for="tab-1">அழைப்பிதழ்</label>
+      <input type="checkbox" id="tab-1">
+		      <label for="tab-1">மெய்ந்நிகர்க் கற்றல் வளங்கள் - வெளியீடு அழைப்பிதழ்</label>
       <div class="content">
-       <iframe width="560" height="315" src="https://www.youtube.com/embed/16cRkNkGA-8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+       <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/16cRkNkGA-8?controls=0" height="315" width="560"></iframe>
 				</div>
 			</div>
     </div>
 	
         <!-- SECOND TAB -->
     <div class="tab">
-      <input id="tab-2" type="checkbox">
-      <label for="tab-2"> ஐக்கிய ராச்சியத்தில் விளையாட்டுகளின்வழியே தமிழ்மொழி கற்றல்
+      <input type="checkbox" id="tab-2">
+      <label for="tab-2"> மெய்ந்நிகர்க் கற்றல் வளங்கள் - முன்னோட்ட ஒளிக்காட்சி 
 </label>
       <div class="content">
-       <img src="https://d33wubrfki0l68.cloudfront.net/cafd7cc0123a556db6bebb663e1cb88d568fb7ec/a1d30/images/siva.png"  >
-				<p style ="text-align: center" > முனைவர் சிவா பிள்ளை, <br> கல்வி அமைச்சின் பாலர் பள்ளி (நேவல் பேஸ்)</p>
-				<div style ="text-align: center"> 
-							<a href="/Mr-Siva-Pillai"  class="button" >காண்க: இணையப் பயிலரங்கம்</a>
+       <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/U76qL4jOq1Q?controls=0" height="315" width="560"></iframe>
     </div>
 				</div>
     </div>
 		
-				<!-- THIRD TAB -->
-    <div class="tab">
-      <input id="tab-3" type="checkbox">
-      <label for="tab-3"> கதைகள் மற்றும் நாடகப் பாங்கான உரையாடல்கள் வழியாகத் தமிழ்ப் பண்பாட்டு விழுமியங்களைக் கற்பித்தல் (திருக்குறள் குறிப்புடன்)</label>
-      <div class="content">
-       <img src="https://moe-symp-staging.netlify.app/images/Dr%20Sundaram.png"  >
-				<p style ="text-align: center" >முனைவர் சுந்தர ஆவுடையப்பன், <br> நிகழ்ச்சி இயக்குநர் (ஓய்வு) அகில இந்திய வானொலி, இலக்கிய அறிஞர் </p>
-				<div style ="text-align: center"> 
-				<a href="/Dr-Sundaram-Avudaiappan" class="button" >காண்க: இணையப் பயிலரங்கம்</a>
-    </div>
-			</div>
-    </div>							
-				  <!-- FOURTH TAB -->
-    <div class="tab">
-      <input id="tab-4" type="checkbox">
-      <label for="tab-4">கற்றல் நிலைய நடவடிக்கைகளின் வாயிலாகவும் விளையாட்டுகள் வாயிலாகவும் பிள்ளைகளைத் தமிழில் பேச ஊக்குவித்தல்</label>
-      <div class="content">
-       <img src="https://moe-symp-staging.netlify.app/images/Mrs%20Sumathi.png"  >
-				<p style ="text-align: center" >திருமதி சுமதி பத்மநாபன், <br> கலிஃபோர்னியா தமிழ்க் கழகம் </p>
-				<div style ="text-align: center"> 
-					  <img src="https://d33wubrfki0l68.cloudfront.net/138da079c4862b72d87f477a6d1979d56776dfa6/cb64f/images/speaker2.png">
-				<p style ="text-align: center" >திருமதி நாராயணி சுவாமிநாதன்,  <br> உலகத் தமிழ்க்கல்விக் கழகம் </p>
-				<div style ="text-align: center"> 
-									<a href="/California-Tamil-Academy" class="button" >காண்க: இணையப் பயிலரங்கம்</a>
-    </div>
-				</div>
-    </div>
