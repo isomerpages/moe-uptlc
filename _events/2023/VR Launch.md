@@ -85,12 +85,9 @@ third_nav_title: "2023"
 	<div style="width:100%; text-align:center">
 	    <div class="tab">
       <input id="tab-1" type="checkbox">
-		      <label for="tab-1">பிள்ளைகளிடையே வீட்டில் தமிழ்மொழிப் புழக்கத்தை ஊடாடும் கதைகளின் வழியாகவும் விளையாட்டுகளின் வழியாகவும் ஊக்குவித்தல்</label>
+		      <label for="tab-1">அழைப்பிதழ்</label>
       <div class="content">
-       <img src="https://d33wubrfki0l68.cloudfront.net/808da43d6a0aca782c56a11e91bebca9dc94e3de/73e0d/images/muthu.png"  >
-				<p style ="text-align: center" >திரு. முத்து நெடுமாறன், <br> தோற்றுநர், முரசு அஞ்சல், கனியும் மணியும் </p>
-				<div style ="text-align: center"> 
-											<a href="/Mr-Muthu-Nedumaran"  class="button" >காண்க: இணையப் பயிலரங்கம்</a>
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/16cRkNkGA-8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 				</div>
 			</div>
     </div>
