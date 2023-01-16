@@ -7,11 +7,7 @@ third_nav_title: "2023"
 ## VR Launch 2023
 ![](/images/VR%20Launch.png)
 
- |   |   |   |
-|---|---|---|
 
-
-	
 		
 		<style>
       .button {
@@ -101,16 +97,30 @@ third_nav_title: "2023"
 				<a class="button" href="/Mrs-Balamurugan-Shanthi">காண்க: இணையப் பயிலரங்கம்</a>
 				</div>
 			</div>
+    </div>
+	
+        <!-- SECOND TAB -->
+    <div class="tab">
+      <input type="checkbox" id="tab-2">
+      <label for="tab-2"> ஆர்வமூட்டும் விளையாட்டுகளின்வழியே தமிழ்மொழி கற்றல்</label>
+      <div class="content">
+       <img src="https://d33wubrfki0l68.cloudfront.net/5596cefdda18d42468a9274137ef135a45be5083/c4f86/images/dharmaraj.png">
+				<p style="text-align:&nbsp;center">திருமதி தர்மராஜ் புஷ்பலதா, <br> ம செ க சமூக அறநிறுவனம்</p>
+				<div style="text-align:&nbsp;center"> 
+				<a class="button" href="/Mrs-Dharmaraj-Pushpalatha">காண்க: இணையப் பயிலரங்கம்</a>
+    </div>
+				</div>
+    </div>
+		
 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/16cRkNkGA-8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/16cRkNkGA-8?controls=0" height="315" width="560"></iframe>
 
  |   |   |   |
 |---|---|---|
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U76qL4jOq1Q?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/U76qL4jOq1Q?controls=0" height="315" width="560"></iframe>
 
 
 	
-		</div></div></div>
+		</div></div>
