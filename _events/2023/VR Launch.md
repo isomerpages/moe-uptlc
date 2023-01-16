@@ -7,7 +7,6 @@ third_nav_title: "2023"
 <html>
 	<head>
 				<style>
-					### மெய்ந்நிகர்க் கற்றல் வளங்கள் - வெளியீடு
       .button {
         background-color: #f4b639;
 						  font-family: arial, sans-serif;
