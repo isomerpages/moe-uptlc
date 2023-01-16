@@ -4,9 +4,8 @@ permalink: /events/vrlaunch/
 description: ""
 third_nav_title: "2023"
 ---
-## VR Launch 2023
-
-	
+<html>
+	<head>
 				<style>
       .button {
         background-color: #f4b639;
@@ -76,64 +75,64 @@ third_nav_title: "2023"
    
     .tab input:checked ~ label::after { transform: rotate(90deg); }
 	</style>
-
-
+</head>
+<body>
 		<div style="width:100%; text-align:center">
-  <img src="https://d33wubrfki0l68.cloudfront.net/837e5ed24c83616f1d5a73245ef9dcc74325f9f4/59ae3/images/picture90.png">
-				<p style="text-align:&nbsp;center">
+  <img src="https://d33wubrfki0l68.cloudfront.net/837e5ed24c83616f1d5a73245ef9dcc74325f9f4/59ae3/images/picture90.png"  >
+				<p style ="text-align: center" >
 
 
-	</p><div style="width:100%; text-align:center">
+	<div style="width:100%; text-align:center">
 	    <div class="tab">
-      <input type="checkbox" id="tab-1">
+      <input id="tab-1" type="checkbox">
 		      <label for="tab-1">பிள்ளைகளிடையே வீட்டில் தமிழ்மொழிப் புழக்கத்தை ஊடாடும் கதைகளின் வழியாகவும் விளையாட்டுகளின் வழியாகவும் ஊக்குவித்தல்</label>
       <div class="content">
-       <img src="https://d33wubrfki0l68.cloudfront.net/808da43d6a0aca782c56a11e91bebca9dc94e3de/73e0d/images/muthu.png">
-				<p style="text-align:&nbsp;center">திரு. முத்து நெடுமாறன், <br> தோற்றுநர், முரசு அஞ்சல், கனியும் மணியும் </p>
-				<div style="text-align:&nbsp;center"> 
-											<a class="button" href="/Mr-Muthu-Nedumaran">காண்க: இணையப் பயிலரங்கம்</a>
+       <img src="https://d33wubrfki0l68.cloudfront.net/808da43d6a0aca782c56a11e91bebca9dc94e3de/73e0d/images/muthu.png"  >
+				<p style ="text-align: center" >திரு. முத்து நெடுமாறன், <br> தோற்றுநர், முரசு அஞ்சல், கனியும் மணியும் </p>
+				<div style ="text-align: center"> 
+											<a href="/Mr-Muthu-Nedumaran"  class="button" >காண்க: இணையப் பயிலரங்கம்</a>
 				</div>
 			</div>
     </div>
 	
         <!-- SECOND TAB -->
     <div class="tab">
-      <input type="checkbox" id="tab-2">
+      <input id="tab-2" type="checkbox">
       <label for="tab-2"> ஐக்கிய ராச்சியத்தில் விளையாட்டுகளின்வழியே தமிழ்மொழி கற்றல்
 </label>
       <div class="content">
-       <img src="https://d33wubrfki0l68.cloudfront.net/cafd7cc0123a556db6bebb663e1cb88d568fb7ec/a1d30/images/siva.png">
-				<p style="text-align:&nbsp;center"> முனைவர் சிவா பிள்ளை, <br> கல்வி அமைச்சின் பாலர் பள்ளி (நேவல் பேஸ்)</p>
-				<div style="text-align:&nbsp;center"> 
-							<a class="button" href="/Mr-Siva-Pillai">காண்க: இணையப் பயிலரங்கம்</a>
+       <img src="https://d33wubrfki0l68.cloudfront.net/cafd7cc0123a556db6bebb663e1cb88d568fb7ec/a1d30/images/siva.png"  >
+				<p style ="text-align: center" > முனைவர் சிவா பிள்ளை, <br> கல்வி அமைச்சின் பாலர் பள்ளி (நேவல் பேஸ்)</p>
+				<div style ="text-align: center"> 
+							<a href="/Mr-Siva-Pillai"  class="button" >காண்க: இணையப் பயிலரங்கம்</a>
     </div>
 				</div>
     </div>
 		
 				<!-- THIRD TAB -->
     <div class="tab">
-      <input type="checkbox" id="tab-3">
+      <input id="tab-3" type="checkbox">
       <label for="tab-3"> கதைகள் மற்றும் நாடகப் பாங்கான உரையாடல்கள் வழியாகத் தமிழ்ப் பண்பாட்டு விழுமியங்களைக் கற்பித்தல் (திருக்குறள் குறிப்புடன்)</label>
       <div class="content">
-       <img src="https://moe-symp-staging.netlify.app/images/Dr%20Sundaram.png">
-				<p style="text-align:&nbsp;center">முனைவர் சுந்தர ஆவுடையப்பன், <br> நிகழ்ச்சி இயக்குநர் (ஓய்வு) அகில இந்திய வானொலி, இலக்கிய அறிஞர் </p>
-				<div style="text-align:&nbsp;center"> 
-				<a class="button" href="/Dr-Sundaram-Avudaiappan">காண்க: இணையப் பயிலரங்கம்</a>
+       <img src="https://moe-symp-staging.netlify.app/images/Dr%20Sundaram.png"  >
+				<p style ="text-align: center" >முனைவர் சுந்தர ஆவுடையப்பன், <br> நிகழ்ச்சி இயக்குநர் (ஓய்வு) அகில இந்திய வானொலி, இலக்கிய அறிஞர் </p>
+				<div style ="text-align: center"> 
+				<a href="/Dr-Sundaram-Avudaiappan" class="button" >காண்க: இணையப் பயிலரங்கம்</a>
     </div>
 			</div>
     </div>							
 				  <!-- FOURTH TAB -->
     <div class="tab">
-      <input type="checkbox" id="tab-4">
+      <input id="tab-4" type="checkbox">
       <label for="tab-4">கற்றல் நிலைய நடவடிக்கைகளின் வாயிலாகவும் விளையாட்டுகள் வாயிலாகவும் பிள்ளைகளைத் தமிழில் பேச ஊக்குவித்தல்</label>
       <div class="content">
-       <img src="https://moe-symp-staging.netlify.app/images/Mrs%20Sumathi.png">
-				<p style="text-align:&nbsp;center">திருமதி சுமதி பத்மநாபன், <br> கலிஃபோர்னியா தமிழ்க் கழகம் </p>
-				<div style="text-align:&nbsp;center"> 
+       <img src="https://moe-symp-staging.netlify.app/images/Mrs%20Sumathi.png"  >
+				<p style ="text-align: center" >திருமதி சுமதி பத்மநாபன், <br> கலிஃபோர்னியா தமிழ்க் கழகம் </p>
+				<div style ="text-align: center"> 
 					  <img src="https://d33wubrfki0l68.cloudfront.net/138da079c4862b72d87f477a6d1979d56776dfa6/cb64f/images/speaker2.png">
-				<p style="text-align:&nbsp;center">திருமதி நாராயணி சுவாமிநாதன்,  <br> உலகத் தமிழ்க்கல்விக் கழகம் </p>
-				<div style="text-align:&nbsp;center"> 
-									<a class="button" href="/California-Tamil-Academy">காண்க: இணையப் பயிலரங்கம்</a>
+				<p style ="text-align: center" >திருமதி நாராயணி சுவாமிநாதன்,  <br> உலகத் தமிழ்க்கல்விக் கழகம் </p>
+				<div style ="text-align: center"> 
+									<a href="/California-Tamil-Academy" class="button" >காண்க: இணையப் பயிலரங்கம்</a>
     </div>
 				</div>
-    </div></div></div></div>
+    </div>
