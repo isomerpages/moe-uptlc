@@ -1,0 +1,5 @@
+collections:
+  gallery:
+    output: true
+    order:
+      - Events Photos and Videos.md

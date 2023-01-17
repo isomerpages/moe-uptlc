@@ -1,0 +1,14 @@
+collections:
+  publication:
+    output: true
+    order:
+      - Student Handbook/.keep
+      - School Magazine/.keep
+      - School Magazine/1983.md
+      - Student Newsletter/Student Newsletter.md
+      - Student Newsletter/.keep
+      - Student Newsletter/2016.md
+      - Student Newsletter/2017.md
+      - Student Newsletter/2018.md
+      - Student Newsletter/2019.md
+      - Student Newsletter/2020.md

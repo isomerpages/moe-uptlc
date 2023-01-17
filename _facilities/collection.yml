@@ -1,0 +1,9 @@
+collections:
+  facilities:
+    output: true
+    order:
+      - Library/.keep
+      - Library/Library.md
+      - Library/List of Available Materials.md
+      - Library/Opening Hours.md
+      - Premises Booking.md

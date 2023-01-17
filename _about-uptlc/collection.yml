@@ -1,0 +1,10 @@
+collections:
+  about-uptlc:
+    output: true
+    order:
+      - Centre Director’s Message.md
+      - Contact Us.md
+      - Historical Milestone.md
+      - Our Centre Values.md
+      - Our Mission and Vision.md
+      - Our Team.md
