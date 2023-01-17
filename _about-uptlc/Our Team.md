@@ -11,9 +11,28 @@ description: ""
 
 
 <b><center>TEACHING & LEARNING WING KEY PERSONNEL & TEACHERS</center><b>
+
+
 	
-|                                                                                       |              |                                                                                    |
-|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+|                                                                           |                                                                     |                                                    |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
+|                    <img src="/images/Ictexecutive.jpeg"   style="width:80%" />                            |                           <img src="/images/DesktopEngineer.jpg"   style="width:75%" />                           |                          <img src="/images/Desktopengineer2.jpg"   style="width:75%" />                                   |
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+|                                                                           |                                                                     |                                                    |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
 |   <img src="https://raw.githubusercontent.com/isomerpages/moe-uptlc/staging/images/Subjecthead-curriculum.jpeg"   style="width:80%" />        |                    <img src="https://raw.githubusercontent.com/isomerpages/moe-uptlc/staging/images/Ms%20Seetha%20Sakthivel2.jpg"   style="width:75%" />                                                |                                          <img src="https://raw.githubusercontent.com/isomerpages/moe-uptlc/staging/images/Subjecthead-tamil.jpeg"   style="width:78%" />                                         | 
 |<b><center>MR K. SARAVANAN<br>Head of Department<br>saravanan_k@moe.edu.sg </center><b> |<b><center>MS SEETHA SAKTHIVEL<br>Subject Head - ICT<br>seetha_sakthivel@moe.edu.sg  </center><b>   |<center> MRS SUMATHI SEGAR<br>Senior Teacher<br>sumathi_segar@moe.edu.sg </center>|
 |    <img src="https://raw.githubusercontent.com/isomerpages/moe-uptlc/staging/images/teacher.jpeg"   style="width:69%" />                                                  |              <img src="https://raw.githubusercontent.com/isomerpages/moe-uptlc/staging/images/teacher3.jpeg" style="width:72%" />                                                |                                          <img src="https://raw.githubusercontent.com/isomerpages/moe-uptlc/staging/images/teacher2.jpeg"   style="width:73%" />                                          |
@@ -35,9 +54,10 @@ description: ""
 	
 	
 <b><center>ICT PERSONNEL</center><b>
+
 	
-|                                        |                                           |                                                     |
-|----------------------------------------|-------------------------------------------|-----------------------------------------------------|
+|                                                                           |                                                                     |                                                    |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
 |                    <img src="/images/Ictexecutive.jpeg"   style="width:80%" />                            |                     <img src="/images/DesktopEngineer.jpg"   style="width:75%" />                              |                          <img src="/images/Desktopengineer2.jpg"   style="width:75%" />                                   |
 | **MR TIMOTHY MARK MANZO**<br>**ICT Executive** | **MS MUSRIFAH SHAHIBAL**<br>**Desktop Engineer** | **MS VIVEKADARSINI CHANDRA SEGAR**<br>**Desktop Engineer**  | 
 	
@@ -45,8 +65,9 @@ description: ""
 	
 <b><center>ENVIRONMENTAL AND SECURITY PERSONNEL</center><b>
 
-|                                            |                                                |                                |
-|--------------------------------------------|------------------------------------------------|--------------------------------|
+	
+|                                                                           |                                                                     |                                                    |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
 |                      <img src="/images/Environmentstaff1.jpeg"   style="width:80%" />                      |                        <img src="/images/Environmentstaff2.jpeg"   style="width:75%" />                          |                <img src="/images/Environmentstaff3.jpeg"   style="width:75%" />                 |
 |     **MR LAM PIN SHIANG**<br>**Environment Staff**    | **MDM VENKATACHALAM PICHAIMANI**<br> **Environment Staff** | **CHOO YIN SAI**<br>**Environment Staff** |
 |                      <img src="/images/SecurityOfficer.jpeg"   style="width:80%" />                       |                                                |                               |
