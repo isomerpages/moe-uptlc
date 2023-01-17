@@ -10,26 +10,25 @@ description: ""
 |   | **MDM SANTHI SELLAPPAN <br>Centre Director<br> santhi_sellappan@schools.gov.sg** |   |
 
 
-<b><center>TEACHING & LEARNING WING KEY PERSONNEL & TEACHERS</center><b>
-
+<b><center>ICT PERSONNEL</center><b>
+	
+	
+	
 
 	
 |                                                                           |                                                                     |                                                    |
 |---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
-|                    <img src="/images/Ictexecutive.jpeg"   style="width:80%" />                            |                           <img src="/images/DesktopEngineer.jpg"   style="width:75%" />                           |                          <img src="/images/Desktopengineer2.jpg"   style="width:75%" />                                   |
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+|                    <img src="/images/Subjecthead-curriculum.jpeg"   style="width:80%" />                            |                     <img src="/images/Ms-Seetha-Sakthivel3.jpg"   style="width:80%" />                              |                          <img src="/images/Subjecthead-tamil.jpeg"   style="width:80%" />                                   |
+| **MR K. SARAVANAN**<br>**Head of Department**<br>**saravanan_k@moe.edu.sg** | **MS SEETHA SAKTHIVEL**<br>**Subject Head - ICT**<br>**seetha_sakthivel@moe.edu.sg** | **MMRS SUMATHI SEGAR**<br>**Senior Teacher**<br>**sumathi_segar@moe.edu.sg** |
+|                    <img src="/images/Ictexecutive.jpeg"   style="width:80%" />                            |                     <img src="/images/DesktopEngineer.jpg"   style="width:75%" />                              |                          <img src="/images/Desktopengineer2.jpg"   style="width:75%" />                                   |
+| **MR TIMOTHY MARK MANZO**<br>**ICT Executive** | **MS MUSRIFAH SHAHIBAL**<br>**Desktop Engineer** | **MS VIVEKADARSINI CHANDRA SEGAR**<br>**Desktop Engineer** |
+|                    <img src="/images/Ictexecutive.jpeg"   style="width:80%" />                            |                     <img src="/images/DesktopEngineer.jpg"   style="width:75%" />                              |                          <img src="/images/Desktopengineer2.jpg"   style="width:75%" />                                   |
+| **MR TIMOTHY MARK MANZO**<br>**ICT Executive** | **MS MUSRIFAH SHAHIBAL**<br>**Desktop Engineer** | **MS VIVEKADARSINI CHANDRA SEGAR**<br>**Desktop Engineer** |
+
+
+<b><center>TEACHING & LEARNING WING KEY PERSONNEL & TEACHERS</center><b>
+
+
 	
 |                                                                           |                                                                     |                                                    |
 |---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
@@ -59,7 +58,9 @@ description: ""
 |                                                                           |                                                                     |                                                    |
 |---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
 |                    <img src="/images/Ictexecutive.jpeg"   style="width:80%" />                            |                     <img src="/images/DesktopEngineer.jpg"   style="width:75%" />                              |                          <img src="/images/Desktopengineer2.jpg"   style="width:75%" />                                   |
-| **MR TIMOTHY MARK MANZO**<br>**ICT Executive** | **MS MUSRIFAH SHAHIBAL**<br>**Desktop Engineer** | **MS VIVEKADARSINI CHANDRA SEGAR**<br>**Desktop Engineer**  | 
+| **MR TIMOTHY MARK MANZO**<br>**ICT Executive** | **MS MUSRIFAH SHAHIBAL**<br>**Desktop Engineer** | **MS VIVEKADARSINI CHANDRA SEGAR**<br>**Desktop Engineer**  |
+	
+
 	
 
 	
