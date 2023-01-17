@@ -9,6 +9,13 @@ description: ""
 |:-:|:---------------------------------------------------------------------:|:-:|
 |   | **MDM SANTHI SELLAPPAN <br>Centre Director<br> santhi_sellappan@schools.gov.sg** |   |
 
+<b><center>ICT PERSONNEL</center><b>
+
+	
+|                                                                     |                                                                     |                                                                     |
+|---------------------------------------------------------------------|---------------------------------------------------------------------|---------------------------------------------------------------------|
+|                    <img src="/images/Subjecthead-curriculum.jpeg"   style="width:80%" />                            |                     <img src="/images/Ms-Seetha-Sakthivel3.jpg"   style="width:75%" />                              |                          <img src="/images/Subjecthead-tamil.jpeg"   style="width:75%" />                                   |
+|<b><center>MR K. SARAVANAN<br>Head of Department<br>saravanan_k@moe.edu.sg </center><b> |<b><center>MS SEETHA SAKTHIVEL<br>Subject Head - ICT<br>seetha_sakthivel@moe.edu.sg  </center><b>   |<center> MRS SUMATHI SEGAR<br>Senior Teacher<br>sumathi_segar@moe.edu.sg </center>|
 
 
 |                                                                           |                                                                     |                                                    |
