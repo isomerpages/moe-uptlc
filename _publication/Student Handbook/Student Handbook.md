@@ -4,7 +4,7 @@ permalink: /publication/Student-Handbook/permalink/
 description: ""
 third_nav_title: Student Handbook
 ---
-[<b><center>STUDENT HANDBOOK</center><b>
+<b><center>STUDENT HANDBOOK<center><b>
 	
 |                                                                           |                                              |                                                                           |
 |---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
