@@ -38,10 +38,10 @@ KEY PERSONNEL & TEACHERS</center><b>
 	
 |                                                                           |                                                                     |                                                    |
 |---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
-|                    <img src="/images/Ictexecutive.jpeg"   style="width:85%" />                            |                     <img src="/images/DesktopEngineer.jpg"   style="width:85%" />                              |                          <img src="/images/Mrs%20Lakshmi%20Subramaian3.jpg"   style="width:75%" />                                   |
-|  <b><center>MR TIMOTHY MARK MANZO<br>ICT Executive | <b><center>MS MUSRIFAH SHAHIBAL<br>Desktop Engineer |  <b><center>MRS LAKSHMI SUBRAMANIAN<br>Desktop Engineer |
+|<img src="/images/Ictexecutive.jpeg" />|<img src="/images/DesktopEngineer.jpg"  /> |<img src="/images/Mrs%20Lakshmi%20Subramaian3.jpg"/>  |
+|  <b><center>MR TIMOTHY MARK MANZO<br>ICT Executive<br>nuzaibah_begum_saynuthem@moe.edu.sg<br><span style="color:white">wwwwwwwwwwwwwwwwwwwwwwww</span> | <b><center>MS MUSRIFAH SHAHIBAL<br>Desktop Engineer <br><span style="color:white">________________________________________</span>|  <b><center>MRS LAKSHMI SUBRAMANIAN<br>Desktop Engineer <br><span style="color:white">________________________________________</span>|
 	
-
+<span style="color:white">________________________________________</span>
 	
 
 	
