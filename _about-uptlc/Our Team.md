@@ -35,12 +35,15 @@ KEY PERSONNEL & TEACHERS</center><b>
 	
 <b><center>ICT PERSONNEL</center><b>
 
-	
-|                                                                           |                                                                     |                                                    |
-|---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
+|                          |                             |                                |
+|----------------|------------------|--------------------|
+|<img width=200/>|<img width=700/>|<img width=200/>|
 |<img src="/images/Ictexecutive.jpeg" />|<img src="/images/DesktopEngineer.jpg"  /> |<img src="/images/Mrs%20Lakshmi%20Subramaian3.jpg"/>  |
 | <b><center><span style=":arial; font-size:14px;">MR TIMOTHY MARK MANZO<br>ICT Executive<br>nuzaibah_begum_saynuthem@moe.edu.sg</span>  | <b><center><span style=":arial; font-size:14px;">MS MUSRIFAH SHAHIBAL<br>Desktop Engineer<br>nuzaibah_begum_saynuthem@moe.edu.sg </span>|  <b><center><span style=":arial; font-size:14px;">MRS LAKSHMI SUBRAMANIAN<br>Desktop Engineer<br>nuzaibah_begum_saynuthem@moe.edu.sg </span>|
-	
+|                          |                             |                                |
+|----------------|------------------|--------------------|
+|<img width=500/>|<img width=700/>|<img width=200/>|
+|<img src="/images/Ictexecutive.jpeg" />|<img src="/images/DesktopEngineer.jpg"  /> |<img src="/images/Mrs%20Lakshmi%20Subramaian3.jpg"/>  |	
 <span style="color:white">________________________________________</span>
 	
 <b><center><span style=":arial; font-size:14px;">MR TIMOTHY MARK MANZO<br>ICT Executive<br>nuzaibah_begum_saynuthem@moe.edu.sg</span> 
