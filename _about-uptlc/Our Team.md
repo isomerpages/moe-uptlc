@@ -39,11 +39,11 @@ KEY PERSONNEL & TEACHERS</center><b>
 |                                                                           |                                                                     |                                                    |
 |---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
 |<img src="/images/Ictexecutive.jpeg" />|<img src="/images/DesktopEngineer.jpg"  /> |<img src="/images/Mrs%20Lakshmi%20Subramaian3.jpg"/>  |
-|  <b><center>MR TIMOTHY MARK MANZO<br>ICT Executive<br>nuzaibah_begum_saynuthem@moe.edu.sg<br><span style="color:white">wwwwwwwwwwwwwwwwwwwwwwww</span> | <b><center>MS MUSRIFAH SHAHIBAL<br>Desktop Engineer <br><span style="color:white">________________________________________</span>|  <b><center>MRS LAKSHMI SUBRAMANIAN<br>Desktop Engineer <br><span style="color:white">________________________________________</span>|
+| <b><center><span style=":arial; font-size:14px;">MR TIMOTHY MARK MANZO<br>ICT Executive<br>nuzaibah_begum_saynuthem@moe.edu.sg</span>  | <b><center><span style=":arial; font-size:14px;">MS MUSRIFAH SHAHIBAL<br>Desktop Engineer<br>nuzaibah_begum_saynuthem@moe.edu.sg </span>|  <b><center><span style=":arial; font-size:14px;">MRS LAKSHMI SUBRAMANIAN<br>Desktop Engineer<br>nuzaibah_begum_saynuthem@moe.edu.sg </span>|
 	
 <span style="color:white">________________________________________</span>
 	
-
+<b><center><span style=":arial; font-size:14px;">MR TIMOTHY MARK MANZO<br>ICT Executive<br>nuzaibah_begum_saynuthem@moe.edu.sg</span> 
 	
 <b><center>ENVIRONMENTAL AND SECURITY PERSONNEL</center><b>
 
@@ -51,6 +51,6 @@ KEY PERSONNEL & TEACHERS</center><b>
 |                                                                           |                                                                     |                                                    |
 |---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
 |                      <img src="/images/Environmentstaff1.jpeg"   style="width:80%" />                      |                        <img src="/images/Environmentstaff2.jpeg"   style="width:75%" />                          |                <img src="/images/Environmentstaff3.jpeg"   style="width:75%" />                 |
-|     **MR LAM PIN SHIANG**<br>**Environment Staff**    | **MDM VENKATACHALAM PICHAIMANI**<br> **Environment Staff** | **CHOO YIN SAI**<br>**Environment Staff** |
+|     **MR LAM PIN SHIANG**<br>**Environment Staff**<br>nuzaibah_begum_saynuthem@moe.edu.sg    | **MDM VENKATACHALAM PICHAIMANI**<br> **Environment Staff**<br>nuzaibah_begum_saynuthem@moe.edu.sg | **CHOO YIN SAI**<br>**Environment Staff**<br>nuzaibah_begum_saynuthem@moe.edu.sg |
 |                      <img src="/images/SecurityOfficer.jpeg"   style="width:80%" />                       |                                                |                               |
 | **MR GOVINDASAMY YOGANATHAN**<br>**Security Office** |                                                |                                |
