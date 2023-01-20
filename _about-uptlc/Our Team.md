@@ -41,7 +41,8 @@ KEY PERSONNEL & TEACHERS</center><b>
 |                <b><center><span style=":arial; font-size:12px;">MDM INDRADEVI D/O RETINAM<br>Operation Support Officer<br><span style="color:White">__________________________________________________|           <b><center><span style=":arial; font-size:12px;">MDM NOR FATINI BINTE ALIAS<br> Operation Support Officer<br><span style="color:White">__________________________________________________        |    <b><center><span style=":arial; font-size:12px;">MDM NOORMALA BINTE WAHAB<br> Operation Support Officer<br><span style="color:White">__________________________________________________ | |	
 
 	
-
+<b><center>ADMINISTRATION WING<br>EXECUTIVE AND ADMINISTRATIVE STAFF</center><b>
+	
 |               |                 |                  |
 |----------|------------|-------------|
 |<img width=225/>|<img width=225/>|<img width=225/>|
