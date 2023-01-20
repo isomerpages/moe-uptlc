@@ -43,14 +43,18 @@ KEY PERSONNEL & TEACHERS</center><b>
 |                          |                             |                                |
 |----------------|------------------|--------------------|
 |<img width=500/>|<img width=700/>|<img width=200/>|
-|<img src="/images/Ictexecutive.jpeg" />|<img src="/images/DesktopEngineer.jpg"  /> |<img src="/images/Mrs%20Lakshmi%20Subramaian3.jpg"/>  |	
+|<img src="/images/Ictexecutive.jpeg" style="width:69%" />  |<img src="/images/DesktopEngineer.jpg"  /> |<img src="/images/Mrs%20Lakshmi%20Subramaian3.jpg"/>  |	
 <span style="color:white">________________________________________</span>
 	
 <b><center><span style=":arial; font-size:14px;">MR TIMOTHY MARK MANZO<br>ICT Executive<br>nuzaibah_begum_saynuthem@moe.edu.sg</span> 
 	
 <b><center>ENVIRONMENTAL AND SECURITY PERSONNEL</center><b>
 
-	
+|               |                 |                  |
+|----------|------------|-------------|
+|<img width=225/>|<img width=225/>|<img width=225/>|
+|<img src="/images/Ictexecutive.jpeg" style="width:69%" />  |<img src="/images/DesktopEngineer.jpg"  style="width:69%" />   |<img src="/images/Mrs%20Lakshmi%20Subramaian3.jpg"  style="width:69%" />    |	
+|	<b><center><span style=":arial; font-size:11px;">MR TIMOTHY MARK MANZO<br>ICT Executive<br>nuzaibah_begum_saynuthem@moe.edu.sg</span> |	<b><center><span style=":arial; font-size:11px;">MR TIMOTHY MARK MANZO<br>ICT Executive<br>nuzaibah_begum_saynuthem@moe.edu.sg</span> |<b><center><span style=":arial; font-size:11px;">MR TIMOTHY MARK MANZO<br>ICT Executive<br>nuzaibah_begum_saynuthem@moe.edu.sg</span> |		
 |                                                                           |                                                                     |                                                    |
 |---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
 |                      <img src="/images/Environmentstaff1.jpeg"   style="width:80%" />                      |                        <img src="/images/Environmentstaff2.jpeg"   style="width:75%" />                          |                <img src="/images/Environmentstaff3.jpeg"   style="width:75%" />                 |
