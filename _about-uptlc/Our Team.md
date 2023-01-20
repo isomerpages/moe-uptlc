@@ -22,14 +22,7 @@ KEY PERSONNEL & TEACHERS</center><b>
 |       <b><center>MS MEENAMBAL PARAMASIVAM<br>Teacher<br>meenambal_paramasivam@moe.edu.sg    </center><b>   |            <b><center>MDM NUZAIBAH BEGUM SAYNUTHEM<br>Teacher<br>nuzaibah_begum_saynuthem@moe.edu.sg </center><b>          |      <b><center>VEERAPPAN THIRUMALAISAMY<br>Teacher<br>veerappan_thirumalaisamy@moe.edu.sg   </center><b>   |
 |                                                                                      |                                                                                                                                                                                      |                                                                                    | |
 	
-<b><center>ADMINISTRATION WING<br>EXECUTIVE AND ADMINISTRATIVE STAFF</center><b>
-	
-|                                                                           |                                                                     |                                                    |
-|---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
-|                                     <img src="/images/Senioradminexecutive.jpeg"   style="width:70%" />                                         |                                  <img src="/images/Adminexecutive.jpeg"   style="width:70%" />                                       |                          <img src="/images/Librarian.jpeg"   style="width:200%" />                                   |
-|     <b><center>MR SARMIN BIN BASIR<br> Senior Admin Executive<br>Sarmin_BASIR@schools.gov.sg  |    <b><center>MDM BATHMA D/O KRISHNAN<br> Admin Executive<br> bathma_krishnan@moe.edu.sg  |          <b><center>MDM MALLIKA DAKSHINAMURTHY<br> Librarian       |
-|                                     <img src="/images/Operationsupportofficer.jpeg"   style="width:70%" />                                           |                                  <img src="/images/Operationsupportofficer2.jpeg"   style="width:70%" />                                  |                          <img src="/images/Operationssupportofficer3.jpeg"   style="width:300%" />                          |
-|                <b><center>MDM INDRADEVI D/O RETINAM<br>Operation Support Officer            |           <b><center>MDM NOR FATINI BINTE ALIAS<br> Operation Support Officer        |    <b><center>MDM NOORMALA BINTE WAHAB<br> Operation Support Officer | |
+
 	
 <b><center>ADMINISTRATION WING<br>EXECUTIVE AND ADMINISTRATIVE STAFF</center><b>
 	
