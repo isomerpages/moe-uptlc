@@ -32,23 +32,15 @@ KEY PERSONNEL & TEACHERS</center><b>
 |                <b><center>MDM INDRADEVI D/O RETINAM<br>Operation Support Officer            |           <b><center>MDM NOR FATINI BINTE ALIAS<br> Operation Support Officer        |    <b><center>MDM NOORMALA BINTE WAHAB<br> Operation Support Officer | |
 	
 	
-	
-<b><center>ICT PERSONNEL</center><b>
+|                                                                           |                                                                     |                                                    |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
+|<img width=225/>|<img width=225/>|<img width=225/>|
+|                                     <img src="/images/Senioradminexecutive.jpeg"   style="width:70%" />                                         |                                  <img src="/images/Adminexecutive.jpeg"   style="width:70%" />                                       |                          <img src="/images/Librarian.jpeg"   style="width:70%" />                                   |
+|	<b><center><span style=":arial; font-size:12px;">MR TIMOTHY MARK MANZO<br>ICT Executive<br>nuzaibah_begum_saynuthem@moe.edu.sg</span> |	<b><center><span style=":arial; font-size:12px;">MR TIMOTHY MARK MANZO<br>ICT Executive<br>nuzaibah_begum_saynuthem@moe.edu.sg</span> |<b><center><span style=":arial; font-size:12px;">MR TIMOTHY MARK MANZO<br>ICT Executive<br>nuzaibah_begum_saynuthem@moe.edu.sg</span> |		
+|                                     <img src="/images/Operationsupportofficer.jpeg"   style="width:70%" />                                           |                                  <img src="/images/Operationsupportofficer2.jpeg"   style="width:70%" />                                  |                          <img src="/images/Operationssupportofficer3.jpeg"   style="width:300%" />                          |
+|                <b><center>MDM INDRADEVI D/O RETINAM<br>Operation Support Officer            |           <b><center>MDM NOR FATINI BINTE ALIAS<br> Operation Support Officer        |    <b><center>MDM NOORMALA BINTE WAHAB<br> Operation Support Officer | |	
 
-|                          |                             |                                |
-|----------------|------------------|--------------------|
-|<img width=200/>|<img width=700/>|<img width=200/>|
-|<img src="/images/Ictexecutive.jpeg" />|<img src="/images/DesktopEngineer.jpg"  /> |<img src="/images/Mrs%20Lakshmi%20Subramaian3.jpg"/>  |
-| <b><center><span style=":arial; font-size:14px;">MR TIMOTHY MARK MANZO<br>ICT Executive<br>nuzaibah_begum_saynuthem@moe.edu.sg</span>  | <b><center><span style=":arial; font-size:14px;">MS MUSRIFAH SHAHIBAL<br>Desktop Engineer<br>nuzaibah_begum_saynuthem@moe.edu.sg </span>|  <b><center><span style=":arial; font-size:14px;">MRS LAKSHMI SUBRAMANIAN<br>Desktop Engineer<br>nuzaibah_begum_saynuthem@moe.edu.sg </span>|
-|                          |                             |                                |
-|----------------|------------------|--------------------|
-|<img width=500/>|<img width=700/>|<img width=200/>|
-|<img src="/images/Ictexecutive.jpeg" style="width:69%" />  |<img src="/images/DesktopEngineer.jpg"  /> |<img src="/images/Mrs%20Lakshmi%20Subramaian3.jpg"/>  |	
-<span style="color:white">________________________________________</span>
 	
-<b><center><span style=":arial; font-size:14px;">MR TIMOTHY MARK MANZO<br>ICT Executive<br>nuzaibah_begum_saynuthem@moe.edu.sg</span> 
-	
-<b><center>ENVIRONMENTAL AND SECURITY PERSONNEL</center><b>
 
 |               |                 |                  |
 |----------|------------|-------------|
