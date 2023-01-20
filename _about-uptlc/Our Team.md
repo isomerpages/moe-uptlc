@@ -44,10 +44,14 @@ KEY PERSONNEL & TEACHERS</center><b>
 |	
 
 	
-<b><center>ADMINISTRATION WING<br>EXECUTIVE AND ADMINISTRATIVE STAFF</center><b>
+<b><center>ICT PERSONNEL</center><b>
 	
-|               |                 |                  |
-|----------|------------|-------------|
+|                                                                           |                                                                     |                                                    |
+|---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
+|<img width=225/>|<img width=225/>|<img width=225/>|
+|                                     <img src="/images/Ictexecutive.jpeg" />                                         |                                  <img src="/images/DesktopEngineer.jpg" />                                       |                          <img src="/images/Mrs%20Lakshmi%20Subramaian3.jpg" />                                   |
+|	<b><center><span style=":arial; font-size:12px;">MR TIMOTHY MARK MANZO<br>ICT Executive<br>nuzaibah_begum_saynuthem@moe.edu.sg<br><span style="color:White">__________________________________________________ |	<b><center><span style=":arial; font-size:12px;">MDM BATHMA D/O KRISHNAN<br> Admin Executive<br> bathma_krishnan@moe.edu.sg<br><span style="color:White">__________________________________________________ |<b><center><span style=":arial; font-size:12px;">MDM MALLIKA DAKSHINAMURTHY<br> Librarian<br><span style="color:White">__________________________________________________ |
+	
 |<img width=225/>|<img width=225/>|<img width=225/>|
 |<img src="/images/Ictexecutive.jpeg" style="width:69%" />  |<img src="/images/DesktopEngineer.jpg"  style="width:69%" />   |<img src="/images/Mrs%20Lakshmi%20Subramaian3.jpg"  style="width:69%" />    |	
 |	<b><center><span style=":arial; font-size:11px;">MR TIMOTHY MARK MANZO<br>ICT Executive<br>nuzaibah_begum_saynuthem@moe.edu.sg</span> |	<b><center><span style=":arial; font-size:11px;">MR TIMOTHY MARK MANZO<br>ICT Executive<br>nuzaibah_begum_saynuthem@moe.edu.sg</span> |<b><center><span style=":arial; font-size:11px;">MR TIMOTHY MARK MANZO<br>ICT Executive<br>nuzaibah_begum_saynuthem@moe.edu.sg</span> |
