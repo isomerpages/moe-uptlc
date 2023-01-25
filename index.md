@@ -18,4 +18,8 @@ sections:
         - title: For Parents
           description: ""
           url: /for-parents/2022/
+  - resources:
+      title: "A Forward -Looking Centre "
+      subtitle: UPTLC
+      button: Read More
 ---
