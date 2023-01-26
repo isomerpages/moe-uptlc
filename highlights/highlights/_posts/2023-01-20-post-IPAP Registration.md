@@ -8,3 +8,5 @@ external: form.gov.sg/636db3a3a29593001252dc99
 permalink: /highlights/highlights/permalink/
 ---
 IPAP%20EDM%202023.jpg
+
+https://tinyurl.com/registrationIPAP2023
