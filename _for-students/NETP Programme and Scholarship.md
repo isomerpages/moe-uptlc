@@ -7,7 +7,7 @@ description: ""
 
 <br>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSd46F6YkK2dmp5Cm3QPOH4mKkOuVucbjG1KyexVvn0r7tPkUA/viewform">
+<a href="https://form.gov.sg/63c6be4dbef23b0011734db5">
 <img alt="" src="/images/REGI.jpeg"></a>
 
 #### ESTABLISHMENT OF NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME (NETP)
