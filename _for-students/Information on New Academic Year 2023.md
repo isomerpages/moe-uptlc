@@ -3,7 +3,6 @@ title: Information on New Academic Year 2023
 permalink: /for-students/Academic-Year-2023/
 description: ""
 ---
-
 ## Information on New Academic Year 2023
 
 |   |   |
