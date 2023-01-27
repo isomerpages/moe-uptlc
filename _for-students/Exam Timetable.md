@@ -3,6 +3,7 @@ title: Exam Timetable
 permalink: /for-students/Exam-Time-Table/
 description: ""
 ---
+
 ## Exam Time-table
 
 **[CONTINUAL ASSESSMENT / SEMESTRAL ASSESSMENT /TIME TABLE 2022](/files/CA-Exam-Time-table_Classroom_2022.pdf) << Click here**
