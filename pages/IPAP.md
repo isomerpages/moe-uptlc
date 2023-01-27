@@ -6,7 +6,7 @@ description: ""
 ## IPAP 
 
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfCi_Kzajtl9p-kIHlban8C_5txGMxKQflbhUMCTqh4nrYrPg/viewform">
+<a href="https://tinyurl.com/registrationIPAP2023">
 <img alt="" src="/images/2022_IPAP-Slide-for-Publicizing_edit-1024x576.jpeg"></a>
 
 
@@ -16,5 +16,5 @@ description: ""
 
 <br>
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfCi_Kzajtl9p-kIHlban8C_5txGMxKQflbhUMCTqh4nrYrPg/viewform">
+<a href="https://tinyurl.com/registrationIPAP2023">
 <img style="width: 50%;" src="/images/Registration_Form_BVC.png"></a>
