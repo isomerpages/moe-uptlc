@@ -7,7 +7,7 @@ description: ""
 
 
 <a href="https://tinyurl.com/registrationIPAP2023">
-<img alt="" src="/images/2022_IPAP-Slide-for-Publicizing_edit-1024x576.jpeg"></a>
+<img alt="" src="/images/IPAP_EDM_2023.jpg"></a>
 
 
 
