@@ -10,4 +10,4 @@ permalink: /highlights/highlights/IPAPRegistration/
 [Register here!](https://tinyurl.com/registrationIPAP2023)
 
 <a href="https://tinyurl.com/registrationIPAP2023">
-<img alt="" src="/images/IPAP_20EDM_202023.jpg"></a>
+<img alt="" src="/images/IPAP_EDM_2023.jpg"></a>
