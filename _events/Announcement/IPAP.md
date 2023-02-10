@@ -4,7 +4,6 @@ permalink: /events/Announcement/IPAP-Dance-Vocal/IPAP/
 description: ""
 third_nav_title: Announcement
 ---
-
 ## IPAP 
 
 
@@ -13,7 +12,7 @@ third_nav_title: Announcement
 
 
 
-<a href="/files/CCA-Regi-Info.pdf">
+<a href="2023_IPAP_Website _Letter.pdf">
 <img style="width: 50%;" src="/images/More-Info-1024x389.png"></a>
 
 <br>
