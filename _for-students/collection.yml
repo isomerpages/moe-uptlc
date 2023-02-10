@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - UPTLC Learning Journey.md
       - Exam Timetable.md
       - Alumni Matters.md
       - Information on New Academic Year 2023.md

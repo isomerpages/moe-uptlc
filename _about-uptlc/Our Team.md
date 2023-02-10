@@ -5,7 +5,7 @@ description: ""
 ---
 ## Our Team
 
-|   |      <img src="/images/centredirector.jpg"  style="width:40%" />                              |   |
+|   |      <img src="/images/centredirector.jpg" />                              |   |
 |:-:|:---------------------------------------------------------------------:|:-:|
 |   | **MDM SANTHI SELLAPPAN <br>Centre Director<br> santhi_sellappan@schools.gov.sg** |   |
 
@@ -49,7 +49,7 @@ KEY PERSONNEL & TEACHERS</center><b>
 	
 |                                                                           |                                                                     |                                                    |
 |---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
-|                      <img src="/images/Environmentstaff1.jpeg"   />                      |                        <img src="/images/Environmentstaff2.jpeg"   />                          |                <img src="/images/Environmentstaff3.jpeg"   />                 |
-|     <b><center><span style=":arial; font-size:12px;">MR LAM PIN SHIANG<br>Environment Staff<br><span style="color:White">__________________________________________________  | <b><center><span style=":arial; font-size:12px;">MDM VENKATACHALAM PICHAIMANI**<br> Environment Staff<br><span style="color:White">__________________________________________________ | <b><center><span style=":arial; font-size:12px;">CHOO YIN SAI<br>Environment Staff<br><span style="color:White">__________________________________________________  |
-|                      <img src="/images/SecurityOfficer.jpeg" />                       |                                                |                               |
-| <b><center><span style=":arial; font-size:12px;"> MR GOVINDASAMY YOGANATHAN<br>Security Office<br><span style="color:White">__________________________________________________  |                                                |                                |
+|                      <img src="/images/Environmentstaff1.jpeg"   />                      |                        <img src="/images/MR_LEOW_HWEE_TIONG.jpg"   />                          |                <img src="/images/Environmentstaff3.jpeg"   />                 |
+|     <b><center><span style=":arial; font-size:12px;">MR LAM PIN SHIANG<br>Environment Staff<br><span style="color:White">__________________________________________________  | <b><center><span style=":arial; font-size:12px;">MR LEOW HWEE TIONG<br> Environment Staff<br><span style="color:White">__________________________________________________ | <b><center><span style=":arial; font-size:12px;">CHOO YIN SAI<br>Environment Staff<br><span style="color:White">__________________________________________________  |
+|                      <img src="/images/SecurityOfficer.jpeg" />                       |                      <img src="/images/MR_P_NARAYANASAMY.jpg"   />                                                                     |                               |
+| <b><center><span style=":arial; font-size:12px;"> MR GOVINDASAMY YOGANATHAN<br>Security Office<br><span style="color:White">__________________________________________________  | <b><center><span style=":arial; font-size:12px;">MR P NARAYANASAMY<br>Security Office<br><span style="color:White">__________________________________________________  |                                               |                                |
