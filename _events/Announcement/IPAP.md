@@ -12,7 +12,7 @@ third_nav_title: Announcement
 
 
 
-<a href="2023_IPAP_Website _Letter.pdf">
+<a href="/files/2023_IPAP_Website _Letter.pdf">
 <img style="width: 50%;" src="/images/More-Info-1024x389.png"></a>
 
 <br>
