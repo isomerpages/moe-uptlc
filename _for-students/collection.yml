@@ -2,7 +2,6 @@ collections:
   for-students:
     output: true
     order:
-      - Example.md
       - IPAP.md
       - UPTLC Learning Journey.md
       - Exam Timetable.md
