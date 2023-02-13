@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - IPAP23itle.md
       - UPTLC Learning Journey.md
       - Exam Timetable.md
       - Alumni Matters.md
