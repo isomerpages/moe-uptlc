@@ -3,8 +3,6 @@ title: IPAP
 permalink: /for-students/IPAP/
 description: ""
 ---
-
-
 ## IPAP 
 
 
@@ -13,7 +11,7 @@ description: ""
 
 
 
-<a href="/files/2023_IPAP_Website _Letter.pdf">
+<a href="/files/2023_IPAP_Website_Letter_Vetted.pdf">
 <img style="width: 50%;" src="/images/More-Info-1024x389.png"></a>
 
 <br>
