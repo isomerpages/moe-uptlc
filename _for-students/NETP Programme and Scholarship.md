@@ -5,20 +5,17 @@ description: ""
 ---
 ## NETP Programme and Scholarship
 
-<br>
-
 <a href="https://form.gov.sg/63c6be4dbef23b0011734db5">
 <img alt="" src="/images/reg2.png"></a>
 
-##### ESTABLISHMENT OF NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME (NETP)
-
+#### ESTABLISHMENT OF NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME (NETP)
 
 
 **BACKGROUND AND OBJECTIVE**
 
 1.  The programme aims to nurture secondary school and Junior College (JC) students who have an aptitude in the Tamil Language to acquire greater proficiency in the language and deeper appreciation of the language, literature, and culture. The NETP programme will be hosted at the Umar Pulavar Tamil Language Centre (UPTLC).
 
-##### NETP (Secondary)
+#### NETP (Secondary)
 
 _Target Student Groups_
 
@@ -54,7 +51,7 @@ _Programme Structure_
 தேசிய தமிழ்மொழி விருப்பப்பாடத் திட்டம்
 உமறுப்புலவர் தமிழ்மொழி நிலையம்
 
-##### NETP (Junior College)
+#### NETP (Junior College)
 
 _Targeted Students_
 
