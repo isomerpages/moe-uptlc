@@ -18,7 +18,7 @@ description: ""
 
 1.  The programme aims to nurture secondary school and Junior College (JC) students who have an aptitude in the Tamil Language to acquire greater proficiency in the language and deeper appreciation of the language, literature, and culture. The NETP programme will be hosted at the Umar Pulavar Tamil Language Centre (UPTLC).
 
-**NETP (Secondary)**
+##### NETP (Secondary)
 
 _Target Student Groups_
 
@@ -34,13 +34,11 @@ _Programme Structure_
 
 2.       இப்பாடத்திட்டம் தொடர்பான அனைத்துத் தகவல்களையும் மாணவர்கள் அறிந்துகொள்ள கீழ்க்காணும் விரைவுத் தகவல் குறியீட்டை (QR CODE) வருடித் தெரிந்துகொள்ளலாம். படித்ததைப் பகிர்ந்துகொள்ளவும். மாணவர்கள் இப்பாடத்திட்டத்தில் இணைந்து கற்பதற்கு ஆசிரியர்களும் பெற்றோர்களும் ஊக்குவிக்க வேண்டுகிறோம்.
 
-![Qr code
-Description automatically generated](NETP%20Programme%20and%20Scholarship%20(Website)_files/image001.png)
+<img alt="" src="/images/QR1.jpg"></a>
 
 3.       இப்பாடத்திட்டம் தொடர்பாக மேலும் விளக்கங்களைப் பெறவும் இணையம்வழி பதிவுசெய்வதற்கான மின்படிவமும் உமறுப்புலவர் தமிழ்மொழி நிலைய இணையப்பக்கத்தில் உள்ளன. இணையப்பக்கத்திற்குச் செல்ல கீழ்க்கொடுக்கப்பட்டுள்ள விரைவுத் தகவல் குறியீட்டை (QR Code) பயன்படுத்தவும்.
 
-![Qr code
-Description automatically generated](NETP%20Programme%20and%20Scholarship%20(Website)_files/image002.png)
+<img alt="" src="/images/QR2.jpg"></a>
 
 4.       முதலில், மாணவர்கள் பெற்றோர்களின் அனுமதியைப் பெற்றுத் தங்கள் பெயர்களைப் பதிவுசெய்துகொள்ளவும்.  **பதிவுசெய்வதற்கான இறுதிநாள் 16 பிப்ரவரி 2023.** 
 
@@ -53,12 +51,10 @@ Description automatically generated](NETP%20Programme%20and%20Scholarship%20(Web
       முனைவர் கோவிந்தசாமி சந்தன்ராஜ்
 
 ஒருங்கிணைப்பாளர்
-
 தேசிய தமிழ்மொழி விருப்பப்பாடத் திட்டம்
-
 உமறுப்புலவர் தமிழ்மொழி நிலையம்
 
-**NETP (Junior College)**
+##### NETP (Junior College)
 
 _Targeted Students_
 
@@ -80,7 +76,7 @@ _Programme Structure_
 
 **NETP Scholarship Terms and Conditions**
 
-1.  Students applying for NETP scholarship should satisfy the following conditions:
+  1.  Students applying for NETP scholarship should satisfy the following conditions:
 
 *   are Singapore Citizens.
 *   have done consistently well in school and have obtained outstanding overall results in the O-level examinations/equivalent results based on IP schools’ internal assessment.
@@ -88,11 +84,11 @@ _Programme Structure_
 *   Have a good record of co-curricular activities; and
 *   Not currently be in receipt of any MOE scholarship (except EESIS & ESIP).
 
-1.  The NETP scholarship is valued at $1,000 per annum. It also covers school fees based on Singapore Citizens’ rates, subject to an annual cap of $2,400. The scholarship is tenable for 2 years subject to satisfactory progress at the end of JC1 and good conduct. Successful applicants are not required to enter into a bond to serve the Singapore Government.
-2.  Successful applicants must offer H2 Tamil Language and Literature at GCE A-Level. There will not be any restriction on the choice of the remaining subjects.
-3.  Eligible students will be identified and nominated for the scholarship interview. Please approach UPTLC for more information.
+    1.  The NETP scholarship is valued at $1,000 per annum. It also covers school fees based on Singapore Citizens’ rates, subject to an annual cap of $2,400. The scholarship is tenable for 2 years subject to satisfactory progress at the end of JC1 and good conduct. Successful applicants are not required to enter into a bond to serve the Singapore Government.
+    2.  Successful applicants must offer H2 Tamil Language and Literature at GCE A-Level. There will not be any restriction on the choice of the remaining subjects.
+    3.  Eligible students will be identified and nominated for the scholarship interview. Please approach UPTLC for more information.
 
-3.  Successful applicants are also required to participate in the following activities organised by the Ministry of Education:
+  2.  Successful applicants are also required to participate in the following activities organised by the Ministry of Education:
 
 *   Creative Writing Camp
 *   Overseas Study cum Immersion Programme
@@ -102,14 +98,13 @@ _Programme Structure_
 
 2.       இப்பாடத்திட்டம் தொடர்பான அனைத்துத் தகவல்களையும் மாணவர்கள் அறிந்துகொள்ள கீழ்க்காணும் விரைவுத் தகவல் குறியீட்டை (QR CODE) வருடித் தெரிந்துகொள்ளலாம். படித்ததைப் பகிர்ந்துகொள்ளவும். மாணவர்கள் இப்பாடத்திட்டத்தில் இணைந்து கற்பதற்கு ஊக்குவிக்க வேண்டுகிறோம்.
 
-![Qr code
-Description automatically generated](NETP%20Programme%20and%20Scholarship%20(Website)_files/image003.png)
+<img alt="" src="/images/QR3.jpg"></a>
 
 3.       இப்பாடத்திட்டம் தொடர்பாக மேலும் விளக்கங்களைப் பெறவும் இணையம்வழி பதிவுசெய்வதற்கான மின்படிவமும் உமறுப்புலவர் தமிழ்மொழி நிலைய இணையப்பக்கத்தில்
 
 உள்ளன. இணையப்பக்கத்திற்குச் செல்ல கீழ்க்கொடுக்கப்பட்டுள்ள விரைவுத் தகவல் குறியீட்டை (QR Code) பயன்படுத்தவும்.
 
-![](NETP%20Programme%20and%20Scholarship%20(Website)_files/image004.png)
+<img alt="" src="/images/QR4.jpg"></a>
 
 4.       முதலில், மாணவர்கள் பெற்றோர்களின் அனுமதியைப் பெற்றுத் தங்கள் பெயர்களைப் பதிவுசெய்துகொள்ளவும்.  **பதிவுசெய்வதற்கான இறுதிநாள் 16 பிப்ரவரி 2023.** 
 
@@ -120,9 +115,6 @@ Description automatically generated](NETP%20Programme%20and%20Scholarship%20(Web
 7.      **தொடர்புக்கு****: 92387309**
 
 முனைவர் கோவிந்தசாமி சந்தன்ராஜ்
-
 ஒருங்கிணைப்பாளர்
-
 தேசிய தமிழ்மொழி விருப்பப்பாடத் திட்டம்
-
 உமறுப்புலவர் தமிழ்மொழி நிலையம்
