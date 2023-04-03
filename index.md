@@ -23,12 +23,6 @@ sections:
       subtitle: UPTLC
       button: Read More
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infopic:
       title: IPAP
       subtitle: "2023"
       description: Indian Performing Arts Programme
