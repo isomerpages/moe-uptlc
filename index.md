@@ -37,4 +37,5 @@ sections:
       button: More Info
       url: https://www.uptlc.moe.edu.sg/for-students/NETP-Programme-and-Scholarship/
       image: /images/NETP 2023.jpg
+      alt: NETP
 ---
