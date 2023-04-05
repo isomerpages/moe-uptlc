@@ -100,10 +100,4 @@ image: /images/Pongal9.jpeg
       <div class="content">
        <iframe width="560" height="315" src="https://www.youtube.com/embed/U76qL4jOq1Q?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
     </div>
-				</div>
-</div>
-
-<br>
-
-<a href="https://form.gov.sg/63c6be4dbef23b0011734db5">
-<img alt="" src="/images/reg.png"></a>
+				</div></div>
