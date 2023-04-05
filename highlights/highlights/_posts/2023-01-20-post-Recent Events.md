@@ -104,12 +104,7 @@ image: /images/Pongal9.jpeg
     </div>
 				</div>
 			
----
-title: Pongal Festival 2022
-permalink: /events/2022/Pongal-Festival-2022/
-description: ""
-third_nav_title: "2022"
----
+
 ## Pongal Festival 2022
 
 #### **<center>நிலையத்தில் 'பொங்கலோ பொங்கல்!'</center>**
