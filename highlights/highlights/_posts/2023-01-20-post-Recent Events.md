@@ -104,19 +104,33 @@ image: /images/Pongal9.jpeg
     </div>
 				</div>
 			
-
-## Pongal Festival 2022
-
-#### **<center>நிலையத்தில் 'பொங்கலோ பொங்கல்!'</center>**
-
-
-
-|  | | |
-| -------- | -------- | -------- |
-|  ![](/images/Pongal1.jpeg)    |  ![](/images/Pongal2.jpeg)    |   ![](/images/Pongal3.jpeg)   |
-|   ![](/images/Pongal4.jpeg)   |  ![](/images/Pongal5.jpeg)    |  ![](/images/Pongal6.jpeg)    |
-|   ![](/images/Pongal7.jpeg)   |    ![](/images/Pongal8.jpeg)  |  ![](/images/Pongal9.jpeg)    |
-
-![](/images/Pongal10.jpeg)
-
-**<center>பொங்கலுக்குப் பானை தயார்!</center>**
+<h2 id="pongal-festival-2022">Pongal Festival 2022</h2>
+<h4 id="-center-center-"><strong><center>நிலையத்தில் &#39;பொங்கலோ பொங்கல்!&#39;</center></strong></h4>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="/images/Pongal1.jpeg" alt=""></td>
+<td><img src="/images/Pongal2.jpeg" alt=""></td>
+<td><img src="/images/Pongal3.jpeg" alt=""></td>
+</tr>
+<tr>
+<td><img src="/images/Pongal4.jpeg" alt=""></td>
+<td><img src="/images/Pongal5.jpeg" alt=""></td>
+<td><img src="/images/Pongal6.jpeg" alt=""></td>
+</tr>
+<tr>
+<td><img src="/images/Pongal7.jpeg" alt=""></td>
+<td><img src="/images/Pongal8.jpeg" alt=""></td>
+<td><img src="/images/Pongal9.jpeg" alt=""></td>
+</tr>
+</tbody>
+</table>
+<p><img src="/images/Pongal10.jpeg" alt=""></p>
+<p><strong><center>பொங்கலுக்குப் பானை தயார்!</center></strong></p>
