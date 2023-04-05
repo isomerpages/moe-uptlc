@@ -1,15 +1,17 @@
 ---
-title: Upcoming sample
+title: sample
 permalink: /events/announcement/sample/
 date: 2023-01-20
 layout: post
 description: ""
 image: /images/Pongal9.jpeg
 ---
-<style>
+<html>
+	<head>
+				<style>
       .button {
         background-color: #1a3d6e;
-						                                      font-family: arial, sans-serif;
+						  font-family: arial, sans-serif;
         border: none;
         color: white;
         padding: 20px 34px;
@@ -22,7 +24,7 @@ image: /images/Pongal9.jpeg
       }
     </style>
   <style>
-				                            .tab, .tab * {
+				   .tab, .tab * {
       font-family: arial, sans-serif;
       box-sizing: border-box;
     }
@@ -70,26 +72,27 @@ image: /images/Pongal9.jpeg
      
    
       transition: all 0.4s;
+    } transition: all 0.4s;
     }
      
    
     .tab input:checked ~ label::after { transform: rotate(90deg); }
 	</style>
+</head>
+<body>
+		<div style="width:100%; text-align:center">
+  <img src="https://raw.githubusercontent.com/isomerpages/moe-uptlc/staging/images/VR%20Launch.png"  >
+				<p style ="text-align: center" >
 
 
-		            <div style="width:100%; text-align:center">
-  <img src="https://raw.githubusercontent.com/isomerpages/moe-uptlc/staging/images/VR%20Launch.png">
-				                         <p style="text-align:&nbsp;center">
-
-
-	      </p><div style="width:100%; text-align:center">
-	          <div class="tab">
+	<div style="width:100%; text-align:center">
+	    <div class="tab">
       <input id="tab-1" type="checkbox">
-		                  <label for="tab-1">மெய்ந்நிகர்க் கற்றல் வளங்கள் - வெளியீடு அழைப்பிதழ்</label>
+		      <label for="tab-1">மெய்ந்நிகர்க் கற்றல் வளங்கள் - வெளியீடு அழைப்பிதழ்</label>
       <div class="content">
-       <iframe width="560" height="315" src="https://www.youtube.com/embed/16cRkNkGA-8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-				                        </div>
-			                  </div>
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/16cRkNkGA-8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+				</div>
+			</div>
     </div>
 	
         <!-- SECOND TAB -->
@@ -98,7 +101,6 @@ image: /images/Pongal9.jpeg
       <label for="tab-2"> மெய்ந்நிகர்க் கற்றல் வளங்கள் - முன்னோட்ட ஒளிக்காட்சி 
 </label>
       <div class="content">
-       <iframe width="560" height="315" src="https://www.youtube.com/embed/U76qL4jOq1Q?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/U76qL4jOq1Q?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
-				                        </div>
-</div>
+				</div>
