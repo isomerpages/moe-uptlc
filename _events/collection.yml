@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - Announcement/sample.md
       - Announcement/.keep
       - Announcement/IPAP.md
       - Announcement/வாருங்கள் பழகலாம் PSG Event.md
