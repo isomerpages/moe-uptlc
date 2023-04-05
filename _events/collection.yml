@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Announcement/.keep
-      - Announcement/sample.md
       - Announcement/IPAP.md
+      - Announcement/sample.md
       - Announcement/வாருங்கள் பழகலாம் PSG Event.md
       - Announcement/Are you interested to become a Tamil Teacher?.md
       - Announcement/IPAP Dance & Vocal (ONLINE).md
