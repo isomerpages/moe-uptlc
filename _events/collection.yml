@@ -2,7 +2,7 @@ collections:
   events:
     output: true
     order:
-      - Announcement/Parental Seminar 2023.md
+      - Announcement/Upcoming.md
       - Announcement/.keep
       - Announcement/IPAP.md
       - Announcement/IPAP Dance & Vocal (ONLINE).md
