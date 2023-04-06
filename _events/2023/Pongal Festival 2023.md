@@ -4,13 +4,12 @@ permalink: /events/pongalfestival2023/
 description: ""
 third_nav_title: "2023"
 ---
-
 #### **<center>நிலையத்தில் 'பொங்கலோ பொங்கல்!'</center>**
 
 
 |  | | |
 | -------- | -------- | -------- |
-|  ![](/images/Pongal%2023/Pongal10.jpg)    |  ![](/images/Pongal%2023/Pongal2.jpg)    |   ![](/images/Pongal%2023/Pongal5.jpg)   |
+|  ![](/images/Pongal 2023/Pongal10.jpg)    |  ![](/images/Pongal%2023/Pongal2.jpg)    |   ![](/images/Pongal%2023/Pongal5.jpg)   |
 |   ![](/images/Pongal%2023/Pongal1.jpg)   |  ![](/images/Pongal2023/Pongal3.jpg)    |  ![](/images/Pongal%2023/Pongal7.jpg)    |
 |   ![](/images/Pongal%2023/Pongal4.jpg)   |    ![](/images/Pongal%2023/Pongal6.jpg)  |  ![](/images/Pongal%2023/Pongal9.jpg)    |
 
