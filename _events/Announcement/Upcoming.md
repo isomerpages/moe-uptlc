@@ -17,6 +17,5 @@ third_nav_title: Announcement
 ### P5 TLLF 2023
 **[Click here for Registration](https://form.gov.sg/6405675ff7a44b0011466b15)**
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdt1NaQMpvAB09dimqtBxlCFfkQkGxWRW5-YJtO9tI6KBYWhA/viewform">
-<img alt="" src="/images/Upcoming/p5_tllf_2023_edm_final"></a>
-
+<a href="https://form.gov.sg/6405675ff7a44b0011466b15">
+<img alt="" src="/images/Upcoming/p5_tllf_2023_edm_final.jpg"></a>
