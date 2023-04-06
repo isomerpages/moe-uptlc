@@ -1,9 +1,9 @@
 ---
 title: sample
-permalink: /events/announcement/sample/
+permalink: /events/Announcement/sample/
 date: 2023-01-20
-layout: post
 description: ""
+third_nav_title: Announcement
 image: /images/Pongal9.jpeg
 ---
 <html>
