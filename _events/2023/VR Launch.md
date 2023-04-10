@@ -125,7 +125,7 @@ image: /images/Pongal9.jpeg
 <td><img src="/images/VR/VR3.jpg" alt=""></td>
 </tr>
 <tr>
-<td><img src="/images/VR/VR4.jpgg" alt=""></td>
+<td><img src="/images/VR/VR4.jpg" alt=""></td>
 <td><img src="/images/VR/VR2.jpg" alt=""></td>
 <td><img src="/images/VR/VR6.jpg" alt=""></td>
 </tr>
