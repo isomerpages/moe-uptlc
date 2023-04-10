@@ -8,7 +8,7 @@ third_nav_title: "2023"
 
 |  | | |
 | -------- | -------- | -------- |
-|  ![](/images/OrientationDay2023/OD1.jpg)    |  ![](images/OrientationDay2023/OD2.jpg)    |   ![](/images/OrientationDay2023/OD3.jpg)   |
+|  ![](/images/OrientationDay2023/OD1.jpg)    |  ![](/images/OrientationDay2023/OD2.jpg)    |   ![](/images/OrientationDay2023/OD3.jpg)   |
 |  ![](/images/OrientationDay2023/OD4.jpg)   |  ![](/images/OrientationDay2023/OD5.jpg)    |  ![](/images/OrientationDay2023/OD6.jpg)    |
 |  ![](/images/OrientationDay2023/OD7.jpg)   |    ![](/images/OrientationDay2023/OD8.jpg)  |  ![](/images/OrientationDay2023/OD9.jpg)    |
 
