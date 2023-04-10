@@ -9,7 +9,7 @@ third_nav_title: Announcement
 **[Click here for Registration](https://docs.google.com/forms/d/e/1FAIpQLSdt1NaQMpvAB09dimqtBxlCFfkQkGxWRW5-YJtO9tI6KBYWhA/viewform)**
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdt1NaQMpvAB09dimqtBxlCFfkQkGxWRW5-YJtO9tI6KBYWhA/viewform">
-<img alt="" src="/images/Upcoming/parentalseminar.png"></a>
+<img alt="" src="/images/Upcoming/parentalseminar.jpeg"></a>
 
 
 
