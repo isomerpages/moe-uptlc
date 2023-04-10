@@ -1,6 +1,6 @@
 ---
 title: Recent Events
-permalink: /events/2023/
+permalink: /events/TLLF2023/
 date: 2023-01-20
 layout: post
 description: ""
