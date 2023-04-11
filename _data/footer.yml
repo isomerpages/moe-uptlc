@@ -1,3 +1,4 @@
 contact_us: /about-uptlc/Contact-Us/
 show_reach: true
-social_media: {}
+social_media:
+  facebook: https://www.facebook.com/uptlc_official/
