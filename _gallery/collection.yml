@@ -2,5 +2,4 @@ collections:
   gallery:
     output: true
     order:
-      - 2022.md
       - Events Photos and Videos.md
