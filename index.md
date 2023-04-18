@@ -17,6 +17,7 @@ sections:
         - title: For Parents
           description: ""
           url: /for-parents/2022/
+      background: /images/VR/gif_2023.gif
   - resources:
       title: "A Forward -Looking Centre "
       subtitle: UPTLC
