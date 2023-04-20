@@ -1,5 +1,5 @@
 ---
 title: Social Media
-permalink: /gallery/socialmedia/
+permalink: /gallery/social_media/
 description: ""
 ---
