@@ -2,4 +2,5 @@ collections:
   gallery:
     output: true
     order:
+      - Social Media.md
       - Events Photos and Videos.md
