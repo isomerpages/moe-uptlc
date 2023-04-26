@@ -1,5 +1,5 @@
 collections:
-  gallery:
+  social-media:
     output: true
     order:
       - Social Media.md
