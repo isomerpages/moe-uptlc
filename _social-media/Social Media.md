@@ -1,6 +1,6 @@
 ---
 title: Social Media
-permalink: /_social-media/social_media/
+permalink: /social-media/social_media/
 description: ""
 ---
 ![](/images/Igfb/igfb01.gif)
