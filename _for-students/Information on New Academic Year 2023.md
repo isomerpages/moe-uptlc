@@ -7,7 +7,7 @@ description: ""
 
 |   |   |
 |---|---|
-|  <a href="/files/2023-HTL-Reg-Form.pdf"><img src="/images/HTL.gif"> </a> | <a href="/files/2023_WA_&_Exam_Time_table.pdf"><img src="/images/WA_2023.png"> </a>  |
+|  <a href="/files/2023-HTL-Reg-Form.pdf"><img src="/images/HTL.gif"> </a> | <a href="/files/ca_&amp;_exam time_table_classroom_2023.pdf"><img src="/images/WA_2023.png"> </a>  |
 | <a href="/files/2023-UPTLC-Academic-TimeTable.pdf"><img src="/images/ACADEMIC-TIMETABLE.png"> </a>  | <a href="/files/2023-Form-A-TLB.pdf"><img src="/images/Tamil%20-%20B.png"> </a>  |
 | <a href="https://staging.d2uldb6hpe0xwq.amplifyapp.com/for-students/IPAP/"><img src="/images/IPAP-CCA-REGISTRATION.png"> </a> | <a href="/files/2023-Book-list.pdf"><img src="/images/BOOK-LIST.png"> </a>  |
 | <a href="/files/Lit-Application-Form-at-UPTLC-2023.pdf"><img src="/images/REGISTRATION-FORM-FOR-LIT.png"> </a> |  <a href="/files/2023_COE.pdf"><img src="/images/CALENDAR-OF-EVENTS.png"> </a>  |
