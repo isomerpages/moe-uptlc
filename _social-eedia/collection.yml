@@ -1,5 +1,5 @@
 collections:
-  social-media:
+  social-eedia:
     output: true
     order:
       - Social Media.md
