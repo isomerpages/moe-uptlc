@@ -7,9 +7,7 @@ description: ""
 third_nav_title: "2023"
 image: /images/Pongal9.jpeg
 ---
-<html>
-	<head>
-				<style>
+<style>
       .button {
         background-color: #1a3d6e;
 						  font-family: arial, sans-serif;
@@ -78,19 +76,19 @@ image: /images/Pongal9.jpeg
    
     .tab input:checked ~ label::after { transform: rotate(90deg); }
 	</style>
-</head>
-<body>
+
+
 		<div style="width:100%; text-align:center">
-  <img src="https://raw.githubusercontent.com/isomerpages/moe-uptlc/staging/images/VR%20Launch.png"  >
-				<p style ="text-align: center" >
+  <img src="https://raw.githubusercontent.com/isomerpages/moe-uptlc/staging/images/VR%20Launch.png">
+				<p style="text-align:&nbsp;center">
 
 
-	<div style="width:100%; text-align:center">
+	</p><div style="width:100%; text-align:center">
 	    <div class="tab">
       <input id="tab-1" type="checkbox">
 		      <label for="tab-1">மெய்ந்நிகர்க் கற்றல் வளங்கள் - வெளியீடு அழைப்பிதழ்</label>
       <div class="content">
-       <iframe width="560" height="315" src="https://www.youtube.com/embed/16cRkNkGA-8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/16cRkNkGA-8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 				</div>
 			</div>
     </div>
@@ -101,7 +99,7 @@ image: /images/Pongal9.jpeg
       <label for="tab-2"> மெய்ந்நிகர்க் கற்றல் வளங்கள் - முன்னோட்ட ஒளிக்காட்சி 
 </label>
       <div class="content">
-       <iframe width="560" height="315" src="https://www.youtube.com/embed/U76qL4jOq1Q?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+       <iframe width="560" height="315" src="https://www.youtube.com/embed/U76qL4jOq1Q?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
     </div>
 
 
@@ -135,4 +133,8 @@ image: /images/Pongal9.jpeg
 </tbody>
 </table>
 <p><img src="/images/VR/VR5.jpg" alt=""></p>
-<p><strong><center>பொங்கலுக்குப் பானை தயார்!</center></strong></p>	
+<p><strong></strong></p><center><strong>பொங்கலுக்குப் பானை தயார்!</strong></center><p></p>	
+</div></div>
+
+    <iframe allowfullscreen="" allow="autoplay; encrypted-media" frameborder="0" src="https://www.youtube.com/watch?v=4Gnr6lsxcN8" height="480" width="640">
+    </iframe>
