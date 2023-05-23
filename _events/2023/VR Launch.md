@@ -135,6 +135,3 @@ image: /images/Pongal9.jpeg
 <p><img src="/images/VR/VR5.jpg" alt=""></p>
 <p><strong></strong></p><center><strong>பொங்கலுக்குப் பானை தயார்!</strong></center><p></p>	
 </div></div>
-
-    <iframe allowfullscreen="" allow="autoplay; encrypted-media" frameborder="0" src="https://www.youtube.com/watch?v=4Gnr6lsxcN8" height="480" width="640">
-    </iframe>
