@@ -4,9 +4,15 @@ permalink: /events/announcement/upcoming/
 description: ""
 third_nav_title: Announcement
 ---
-### உயர்நிலை 1 உயர்தமிழ் முகாம்
-#### &nbsp;Sec 1 HTL Camp
-**[Click here for Registration](https://tinyurl.com/s1htlcampuptlc)**
+### தமிழ்த் திருவிழா 2023 பதிவிற்கு
 
-<a href="https://tinyurl.com/s1htlcampuptlc">
-<img alt="" src="/images/Upcoming/htlcs1.jpg"></a>
+<img alt="" src="/images/Tamilfest2023/testing3.jpg">
+
+|   |   |
+|---|---|
+|  <a target="blank" href="https://form.gov.sg/6493d392e9e46200116b68d1"><img src="/images/Tamilfest2023/primary.png"> </a> | <a target="blank" href="https://form.gov.sg/6493dec5e3562000126d80f6"><img src="/images/Tamilfest2023/secondary.png"> </a>  |
+
+![](/images/Igfb/untitled4.gif)
+
+
+

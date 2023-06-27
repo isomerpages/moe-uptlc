@@ -78,7 +78,7 @@ image: /images/Pongal9.jpeg
 	</style>
 
 
-		<div style="width:100%; text-align:center">
+	<div style="width:100%; text-align:center">
   <img src="https://raw.githubusercontent.com/isomerpages/moe-uptlc/staging/images/VR%20Launch.png">
 				<p style="text-align:&nbsp;center">
 
@@ -92,6 +92,7 @@ image: /images/Pongal9.jpeg
 				</div>
 			</div>
     </div>
+		</div>
 	
         <!-- SECOND TAB -->
     <div class="tab">
@@ -100,7 +101,9 @@ image: /images/Pongal9.jpeg
 </label>
       <div class="content">
        <iframe width="560" height="315" src="https://www.youtube.com/embed/U76qL4jOq1Q?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-    </div>
+		</div>
+				
+</div>
 
 
 
@@ -133,5 +136,4 @@ image: /images/Pongal9.jpeg
 </tbody>
 </table>
 <p><img src="/images/VR/VR5.jpg" alt=""></p>
-<p><strong></strong></p><center><strong>பொங்கலுக்குப் பானை தயார்!</strong></center><p></p>	
-</div></div>
+<p><strong></strong></p><center><strong>பொங்கலுக்குப் பானை தயார்!</strong></center><p></p>
