@@ -4,7 +4,7 @@ permalink: /events/announcement/upcoming/
 description: ""
 third_nav_title: Announcement
 ---
-## தமிழ்த் திருவிழா 2023 பதிவிற்கு
+### தமிழ்த் திருவிழா 2023 பதிவிற்கு
 
 <img alt="" src="/images/Tamilfest2023/testing3.jpg">
 
