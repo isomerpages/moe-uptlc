@@ -5,8 +5,12 @@ description: ""
 third_nav_title: Student Handbook
 ---
 #### <b><center>STUDENT HANDBOOK<center> <b>
-<a target="blank" href="https://drive.google.com/file/d/1Q7TXLVQA6jouUGMy6XB9q_-n722YfWBP/view?usp=sharing">
-<img alt="" src="/images/STUDENT/2023.jpg">	
+
+|  |   |  |
+| -------- | -------- | -------- |
+|    |                   [                   <img target="blank" src="/images/STUDENT/2023.jpg" alt="https://drive.google.com/file/d/1Q7TXLVQA6jouUGMy6XB9q_-n722YfWBP/view?usp=sharing" style="width:70%">                    ](https://drive.google.com/file/d/1Q7TXLVQA6jouUGMy6XB9q_-n722YfWBP/view?usp=sharing)                    |   |   |
+|     <b><center> |     <b><center>2023 |     <b><center>|
+	
 	
 |                                                                           |                                              |                                                                           |
 |---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
@@ -15,4 +19,4 @@ third_nav_title: Student Handbook
 |                    [                   <img src="/images/STUDENT/2019.png" alt="https://drive.google.com/file/d/1Pky81BFMoyBAKmTBsVq6arccgsMRjJqY/view?usp=sharing" style="width:60%">                    ](https://drive.google.com/file/d/1Pky81BFMoyBAKmTBsVq6arccgsMRjJqY/view?usp=sharing)                    |                    [                   <img src="/images/STUDENT/2018.png" alt="https://drive.google.com/file/d/1n6NCcuTZ_AtaJqtTp5C9DmsEr5iGsLA1/view?usp=sharing" style="width:68%">                    ](https://drive.google.com/file/d/1n6NCcuTZ_AtaJqtTp5C9DmsEr5iGsLA1/view?usp=sharing)                  |                    [                   <img src="/images/STUDENT/2017.png" alt="https://drive.google.com/file/d/1o8etQze81_tiiycnzFvb7dGSv2GfO0r_/view?usp=sharing" style="width:70%">                    ](https://drive.google.com/file/d/1o8etQze81_tiiycnzFvb7dGSv2GfO0r_/view?usp=sharing)                     |
 |     <b><center>2019 |     <b><center>2018  |     <b><center>2017 | |
 	
-</center></b></center></b></center></b></center></b></center></b></center></b></a></b></center></center></b>
+</center></b></center></b></center></b></center></b></center></b></center></b></center></b></center></b></center></b></b></center></center></b>
