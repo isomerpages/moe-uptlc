@@ -6,8 +6,7 @@ third_nav_title: Student Handbook
 ---
 #### <b><center>STUDENT HANDBOOK<center> <b>
 <a target="blank" href="https://drive.google.com/file/d/1Q7TXLVQA6jouUGMy6XB9q_-n722YfWBP/view?usp=sharing">
-<img alt="" src="/images/STUDENT
-/2023.jpg">	
+<img alt="" src="/images/STUDENT/2023.jpg">	
 	
 |                                                                           |                                              |                                                                           |
 |---------------------------------------------------------------------------|---------------------------------------------------------------------|----------------------------------------------------|
