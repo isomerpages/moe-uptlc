@@ -9,5 +9,5 @@ description: ""
 
 
 <div class="content">
-       <iframe width="560" height="315" src="https://www.youtube.com/embed/U76qL4jOq1Q?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+            <iframe src="https://drive.google.com/file/d/1BNdgf54DM86BTPbkmp17uwVhD3jQQcWh/preview" width="640" height="480" allow="autoplay"></iframe>
 		</div>
