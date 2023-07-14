@@ -8,6 +8,6 @@ third_nav_title: School Magazine
 
 |   |   |   |
 |---|---|---|
-|  <a target="blank" href="https://form.gov.sg/6493d392e9e46200116b68d1"><img src="/images/STUDENT/sm1980.png"> </a> | <a target="blank" href="https://form.gov.sg/6493dec5e3562000126d80f6"><img src="/images/STUDENT/sm1983.png"> </a>  | <a target="blank" href="https://form.gov.sg/6493dec5e3562000126d80f6"><img src="/images/Tamilfest2023/STUDENT/sm1985.png"> </a>  |
+|  <a target="blank" href="https://form.gov.sg/6493d392e9e46200116b68d1"><img src="/images/STUDENT/sm1980.png"> </a> | <a target="blank" href="https://form.gov.sg/6493dec5e3562000126d80f6"><img src="/images/STUDENT/sm1983.png"> </a>  | <a target="blank" href="https://form.gov.sg/6493dec5e3562000126d80f6"><img src="/images/STUDENT/sm1985.png"> </a>  |
 
 
