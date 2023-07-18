@@ -4,7 +4,7 @@ permalink: /publication/School-Magazine/permalink/
 description: ""
 third_nav_title: School Magazine
 ---
-#### <b></b><center><b>SCHOOL MAGAZINE<center> <b>
+### SCHOOL MAGAZINE
 	
 |   |   |   |
 |---|---|---|
@@ -16,4 +16,4 @@ third_nav_title: School Magazine
 | <a target="blank" href="https://drive.google.com/file/d/1i6MkI9wS8YrclBF6iV-SU_McLpLmDhl0/view?usp=sharing"><img src="/images/STUDENT/sm2008.png"> </a> |  <a target="blank" href="https://drive.google.com/file/d/1sEJYY3lw6EC-cMgDhdkyNqxb33q0hQ2e/view?usp=sharing"><img src="/images/STUDENT/sm2010.png"> </a> | <a target="blank" href="https://drive.google.com/file/d/1gT_gZd52WKmXuc9JTTl4eARLCQLntgXB/view?usp=sharing"><img src="/images/STUDENT/sm2011.png"> </a> |
 | <a target="blank" href="https://drive.google.com/file/d/1yU0oNK4X48cIS1o85X4Q4tVK-X9X2i0u/view?usp=sharing"><img src="/images/STUDENT/sm2013-2014.png"> </a> | <a target="blank" href="https://drive.google.com/file/d/1CgMvHgpnBAPEOfe6sYtjmOTMHi61gDaU/view?usp=sharing"><img src="/images/STUDENT/sm2016.png"> </a>  | <a target="blank" href="https://drive.google.com/file/d/1IMVzdxutwl4fHhwr4agNaU1PX_dJsCaw/view?usp=sharing"><img src="/images/STUDENT/sm2017.png"> </a> |
 | <a target="blank" href="https://drive.google.com/file/d/1OiA62u4JEDIbraW9b5pOsf9NHX8T7_HU/view?usp=sharing"><img src="/images/STUDENT/sm2018.png"> </a> | <a target="blank" href="https://drive.google.com/file/d/1D2Wt9-OBGC0WEGgoM-1LBQagKRG0Xt8A/view?usp=sharing"><img src="/images/STUDENT/sm2019-2020.png"> </a>  | <a target="blank" href="https://www.uptlc.moe.edu.sg/"><img src="/images/STUDENT/smb.png"> </a> |
-|   |   |   |</b></center></b></center>
+|   |   |   |
