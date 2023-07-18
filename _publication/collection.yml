@@ -2,6 +2,7 @@ collections:
   publication:
     output: true
     order:
+      - Student Handbook/Example Title.md
       - Student Handbook/Student Handbook.md
       - Student Handbook/.keep
       - School Magazine/School Magazine.md
