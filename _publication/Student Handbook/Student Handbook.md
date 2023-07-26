@@ -2,7 +2,7 @@
 title: Handbook
 permalink: /publication/Handbook/permalink/
 description: ""
-third_nav_title: Student Handbook
+third_nav_title: Handbook
 ---
 #### STUDENT HANDBOOK
 
