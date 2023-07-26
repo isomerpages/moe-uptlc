@@ -1,6 +1,6 @@
 ---
 title: Student Handbook
-permalink: /publication/Student-Handbook/permalink/
+permalink: /publication/Handbook/permalink/
 description: ""
 third_nav_title: Student Handbook
 ---
