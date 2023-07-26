@@ -1,5 +1,5 @@
 ---
-title: Student Handbook
+title: Handbook
 permalink: /publication/Handbook/permalink/
 description: ""
 third_nav_title: Student Handbook
