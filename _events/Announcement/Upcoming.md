@@ -8,7 +8,7 @@ third_nav_title: Announcement
 
 *Find out how to better prepare yourself for the interview.*
 
-  <div class="content">
+<div class="content">
        <iframe width="560" height="315" src="https://www.youtube.com/embed/4Gnr6lsxcN8?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 				</div>
 
