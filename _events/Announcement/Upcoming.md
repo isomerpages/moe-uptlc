@@ -4,9 +4,7 @@ permalink: /events/announcement/upcoming/
 description: ""
 third_nav_title: Announcement
 ---
-## 46th Annual Speech and Prize Presentation Ceremony 2023
-
-
+### 46-ஆம் ஆண்டுப் பரிசளிப்பு விழா 2023
 <div class="content">
        <iframe width="560" height="315" src="https://www.youtube.com/embed/enECoKKAJfs?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 				</div>
