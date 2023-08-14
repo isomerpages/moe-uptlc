@@ -6,6 +6,12 @@ third_nav_title: Student Newsletter
 ---
 ## Students Newsletter
 
+<a href="https://staging.d2uldb6hpe0xwq.amplifyapp.com/publication/Student-Newsletter/2022/">
+	<img src="/images/2022_newsletter.jpg">
+</a>
+
+<br>
+
 <a href="https://staging.d2uldb6hpe0xwq.amplifyapp.com/publication/Student-Newsletter/2020/">
 	<img src="/images/SNL2020-1024x273.png">
 </a>
