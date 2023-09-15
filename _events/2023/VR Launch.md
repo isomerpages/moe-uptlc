@@ -2,7 +2,6 @@
 title: VR Launch
 permalink: /events/vrlaunch/
 date: 2023-01-20
-layout: post
 description: ""
 third_nav_title: "2023"
 image: /images/Pongal9.jpeg
