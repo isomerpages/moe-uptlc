@@ -41,8 +41,4 @@ third_nav_title: "2023"
 |  ![](/images/SpeechDay2023/SpeechDay2023-97.jpg)   |  ![](/images/SpeechDay2023/SpeechDay2023-98.jpg)   |  ![](/images/SpeechDay2023/SpeechDay2023-99.jpg)   |
 |  ![](/images/SpeechDay2023/SpeechDay2023-100.jpg)   |  ![](/images/SpeechDay2023/SpeechDay2023-101.jpg)   |  ![](/images/SpeechDay2023/SpeechDay2023-102.jpg)   |
 
-![](/images/PS2023/ps1.jpg)
 
-
-
-images/SpeechDay2023/SpeechDay2023-07.jpg
