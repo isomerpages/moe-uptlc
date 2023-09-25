@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>ஒளிக்காட்சி </title>
+    <link rel="stylesheet" href="styles/core.css" />
+    <script src="scripts/videoplayer.min.js"></script>
+    <script src="subtitles/tamil_1.srt.js"></script>
+    <script>
+        function onDocumentReady() {
+            new VideoPlayer("videos/MOE_VO", raw_srt_tamil_1,
+                document.getElementById("video"),
+                document.getElementById("video-subs"),
+                [ 
+                ]);
+        }
+    </script>
+<style>
+* {
+  box-sizing: border-box;
+}
+ 
+.column {
+  float: left;
+  width: 25%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 720px) {
+  .column {
+    width: 100%;
+  }
+}
+    
+img:hover {
+box-shadow: 0 0 25px 5px rgba(255, 213, 0, 1);
+    }
+    
+.text-center {
+	font-size:50px;
+    text-shadow: 1px 1px 4px #000000;
+	letter-spacing: 1px;
+	margin: 5px 0;
+	text-align: center;
+}
+
+.close-iconb{
+    align-content:flex-end;
+	position:absolute;
+	z-index:1000;
+	top:10px;
+	right:10px;
+        cursor: pointer;
+}
+    
+    a.button-aboutb {
+	color: #fff; 
+	text-decoration: none;
+    float: right;
+	background: rgba(0,0,125,0.0); 
+	margin: 28px 0;
+	padding: .7em 1.5em; 
+	outline: none; 
+	border:1px solid #fff;
+	-webkit-border-radius:5%;
+	-moz-border-radius:5%;
+} 
+
+   
+    
+</style>
+    
+</head>
+    
+<body>
+    <div id="player-container">
+        <video id="video" class="screen-center" preload="none">
+            <source id="videoSourceMp4">
+        </video>
+        <div id="video-subs">
+            <span class="video-subs-line"></span>
+        </div>
+                        <div class="close-iconb">
+                        <a href="index.html" class="button-about" >
+                        <img src="flipbook/pics/close-w.png" style="cursor: pointer;" />
+                        </a>
+</div>
+    </div>
+</body>
+    
+    <footer>
+    </footer>
+</html>
