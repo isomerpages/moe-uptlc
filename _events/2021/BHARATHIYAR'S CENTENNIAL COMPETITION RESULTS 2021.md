@@ -10,7 +10,7 @@ third_nav_title: "2021"
 
 #### BC 2021 Lower Primary Drawing Competition Results
 
-[BC 2021 Lower Primary Drawing Competition Winer's](/ffiles/UPTLC Handbook 2023/Prayanam/video-story.html)
+[BC 2021 Lower Primary Drawing Competition Winer's](/files/UPTLC Handbook 2023/Prayanam/video-story.html)
 
 [BC 2021 Lower Primary Drawing Competition All Participants Entry]()
 
