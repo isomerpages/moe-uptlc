@@ -10,7 +10,7 @@ third_nav_title: "2021"
 
 #### BC 2021 Lower Primary Drawing Competition Results
 
-[BC 2021 Lower Primary Drawing Competition Winer's](/files/UPTLC Handbook 2023/Prayanam/video-story.html)
+[BC 2021 Lower Primary Drawing Competition Winer's](/files/BHARATHIYARS-CENTENNIAL-PRI-DRAWING-COMPETITION.pdf)
 
 [BC 2021 Lower Primary Drawing Competition All Participants Entry]()
 
@@ -20,7 +20,7 @@ third_nav_title: "2021"
 
 #### BC 2021 Upper Primary Book Trailer Competition Results
 
-[BC 2021 Upper Primary Book Trailer Competition Results](/files/UPTLC Handbook 2023/Prayanam/book.html)
+[BC 2021 Upper Primary Book Trailer Competition Results](/files/BC-2021_Upper-Pri-Book-Trailer-Compeition-Results.pdf)
 
 #### BC 2021 Upper Sec Kavinaya Competition Results
 
