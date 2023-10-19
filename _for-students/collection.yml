@@ -2,10 +2,10 @@ collections:
   for-students:
     output: true
     order:
+      - Information on New Academic Year 2023.md
       - Forms.md
       - IPAP.md
       - UPTLC Learning Journey.md
       - Exam Timetable.md
       - Alumni Matters.md
-      - Information on New Academic Year 2023.md
       - NETP Programme and Scholarship.md
