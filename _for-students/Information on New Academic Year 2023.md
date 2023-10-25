@@ -13,4 +13,4 @@ description: ""
 | <a href="/files/CA_2023.pdf"><img src="/images/Icons/CENTER_ACTIVITTIES_FOR_2023_O.png"> </a> |  <a href="/files/2023_COE.pdf"><img src="/images/Icons/CALENDAR_OF_EVENTS_O.png"> </a>  |
 | <a href="https://staging.d2uldb6hpe0xwq.amplifyapp.com/publication/student-handbook/permalink/"><img src="/images/STUDENT-HANDBOOK.png"> </a>   | <a href="https://staging.d2uldb6hpe0xwq.amplifyapp.com/for-students/NETP-Programme-and-Scholarship/"><img src="/images/Icons/NETP_PROGRAMME_O.png"> </a>  |
 |   |   |
-images/Icons/LEARNING_JOURNEY_O.png
+
