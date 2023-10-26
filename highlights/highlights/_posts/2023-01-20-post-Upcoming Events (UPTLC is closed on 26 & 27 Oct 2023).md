@@ -1,5 +1,5 @@
 ---
-title: Upcoming Events
+title: Upcoming Events (UPTLC is closed on 26 & 27 Oct 2023)
 permalink: /events/announcement/upcoming/
 date: 2023-01-20
 layout: post
