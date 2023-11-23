@@ -10,7 +10,7 @@ variant: markdown
 <img alt="" src="/images/STUDENT/LJ.jpg"></a>
 
 
-<a href="/files/2023_LJ_UPTLC _Vetted.pdf">
+<a href="/files/LJ_INFO.pdf">
 <img style="width: 50%;" src="/images/More-Info-1024x389.png"></a>
 
 <br>
