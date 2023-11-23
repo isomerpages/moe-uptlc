@@ -7,7 +7,7 @@ variant: markdown
 ## UPTLC Learning Journey
 
 <a href="https://form.gov.sg/655da293ff15f300128b849c">
-<img alt="" src="/images/STUDENT/LJ.jpg"></a>
+<img alt="" src="/images/STUDENT/LJ2024.jpg"></a>
 
 
 <a href="/files/LJ_INFO.pdf">
