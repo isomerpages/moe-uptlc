@@ -2,8 +2,8 @@ collections:
   for-students:
     output: true
     order:
-      - Information on New Academic Year 2024.md
       - Forms.md
+      - Information on New Academic Year 2024.md
       - IPAP.md
       - UPTLC Learning Journey.md
       - Exam Timetable.md
