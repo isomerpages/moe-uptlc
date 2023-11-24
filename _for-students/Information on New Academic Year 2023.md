@@ -4,7 +4,7 @@ permalink: /for-students/Academic-Year-2023/
 description: ""
 variant: markdown
 ---
-## Information on New Academic Year 2023
+## Information on New Academic Year 2024
 
 |   |   |
 |---|---|
