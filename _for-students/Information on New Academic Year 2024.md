@@ -1,6 +1,6 @@
 ---
 title: Information on New Academic Year 2024
-permalink: /for-students/academic-year-2024/
+permalink: /for-students/Information on New Academic Year 2024/
 description: ""
 variant: markdown
 ---
