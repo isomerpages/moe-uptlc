@@ -13,13 +13,13 @@ sections:
           url: /For-Teachers/Useful-Links/
         - title: For Student
           description: ""
-          url: /for-students/Academic-Year-2023/
+          url: /for-students/academic-year-2024/
         - title: For Parents
           description: ""
           url: /for-parents/2022/
       background: /images/VR/gif_2023.gif
   - resources:
-      title: "A Forward -Looking Centre "
+      title: A Forward -Looking Centre
       subtitle: UPTLC
       button: Read More
 ---
