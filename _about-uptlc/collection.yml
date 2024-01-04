@@ -2,7 +2,6 @@ collections:
   about-uptlc:
     output: true
     order:
-      - test.md
       - Centre Director’s Message.md
       - Contact Us.md
       - Historical Milestone.md
