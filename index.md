@@ -36,4 +36,10 @@ sections:
           announcement: ""
           link_text: ""
           link_url: ""
+  - infopic:
+      title: Pongal 2024
+      id: infopic
+      description: January 16, 2024
+      image: /images/Upcoming/Pongaledm1.png
+      alt: Image alt text
 ---
