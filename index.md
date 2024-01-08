@@ -27,12 +27,12 @@ sections:
       subtitle: Add a list of announcements with dates
       announcement_items:
         - title: Registration for Academic Year 2024
-          date: 16 January 2024
+          date: 03 January 2024
           announcement: ""
           link_text: ""
           link_url: ""
         - title: Pongal Festival
-          date: 03 January 2024
+          date: 16 January 2024
           announcement: ""
           link_text: ""
           link_url: ""
