@@ -2,26 +2,28 @@ collections:
   events:
     output: true
     order:
-      - Announcement/Upcoming.md
       - Announcement/.keep
+      - Announcement/Upcoming.md
       - Announcement/IPAP.md
       - Announcement/IPAP Dance & Vocal (ONLINE).md
       - Announcement/Are you interested to become a Tamil Teacher?.md
       - Announcement/நாளும் ஒரு குறள் – புதிர்ப்போட்டி.md
+      - 2024/PONGAL2024.md
+      - 2024/.keep
+      - 2023/.keep
       - 2023/Graduation Night 2023.md
       - 2023/Speech Day 2023.md
       - 2023/Sec 1 HTL Camp.md
       - 2023/PARENTAL SEMINAR 2023.md
       - 2023/Motivational Talk cum Study Camp 2023.md
-      - 2023/.keep
       - 2023/TLLF2023.md
       - 2023/Orientation Day 2023.md
       - 2023/VR Launch.md
       - 2023/Pongal Festival 2023.md
+      - 2022/.keep
       - 2022/Recent Events.md
       - 2022/வாருங்கள் பழகலாம் PSG Event.md
       - 2022/பெற்றோருக்கான பயிலரங்கு.md
-      - 2022/.keep
       - 2022/IPAP EDM 2022.md
       - 2022/Motivational Talk Cum Study Camp.md
       - 2022/Pongal Festival 2022.md
