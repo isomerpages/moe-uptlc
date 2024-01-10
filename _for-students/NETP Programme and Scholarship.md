@@ -7,7 +7,7 @@ variant: markdown
 ## NETP Programme and Scholarship
 
 <a href="https://form.gov.sg/63c6be4dbef23b0011734db5">
-<img alt="" src="/images/reg2.png"></a>
+<img alt="" src="/images/reg3.jpg"></a>
 
 #### ESTABLISHMENT OF NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME (NETP)
 
