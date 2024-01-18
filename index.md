@@ -25,9 +25,10 @@ sections:
       title: Announcements
       id: announcements
   - infopic:
-      title: Pongal 2024
+      title: IPAP ARTS CELEBRATION 2024
       id: infopic
-      description: January 16, 2024
-      image: /images/Upcoming/Pongaledm1.png
+      description: IPAP + Arts' Day UPTLC Alumni Homecoming
+      image: /images/Upcoming/IPAPEDMFINAL2024.jpg
       alt: Image alt text
+      subtitle: January 27, 2024
 ---
