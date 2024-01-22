@@ -38,4 +38,5 @@ sections:
       button: REGISTER HERE
       url: http://tinyurl.com/SEC-2-TLLF-2024
       image: /images/Upcoming/TLLF220124.jpg
+      alt: Image alt text
 ---
