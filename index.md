@@ -33,7 +33,7 @@ sections:
       subtitle: January 27, 2024
   - infopic:
       title: SECONDARY 2 TAMIL LANGUAGE LEARNING FESTIVAL 2024
-      subtitle: " February 24, 2024"
+      subtitle: February 24, 2024
       id: infopic
       button: REGISTER HERE
       url: http://tinyurl.com/SEC-2-TLLF-2024
