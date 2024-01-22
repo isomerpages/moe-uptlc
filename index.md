@@ -28,7 +28,7 @@ sections:
       title: IPAP ARTS CELEBRATION 2024
       id: infopic
       description: IPAP + Arts' Day UPTLC Alumni Homecoming
-      image: /images/Upcoming/IPAPEDMFINAL2024.jpg
+      image: /images/Upcoming/IPAPEDMFINAL220124.jpg
       alt: Image alt text
       subtitle: January 27, 2024
 ---
