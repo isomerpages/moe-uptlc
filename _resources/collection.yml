@@ -1,0 +1,13 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Common Resources.md
+      - Learning Resources/.keep
+      - Learning Resources/Resources.md
+      - Learning Resources/Songs.md
+      - Learning Resources/கட்டுரை.md
+      - Learning Resources/சுயவிடைக் கருத்தறிதல்.md
+      - Learning Resources/மரபுத்தொடர்கள், இணைமொழிகள்.md
+      - Learning Resources/மின்னஞ்சல்.md
+      - Learning Resources/வாக்கியத்தின் கருத்தை முடித்தெழுதுதல்.md

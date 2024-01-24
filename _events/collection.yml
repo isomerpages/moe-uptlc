@@ -1,0 +1,50 @@
+collections:
+  events:
+    output: true
+    order:
+      - Announcement/.keep
+      - Announcement/Upcoming.md
+      - Announcement/IPAP.md
+      - Announcement/IPAP Dance & Vocal (ONLINE).md
+      - Announcement/Are you interested to become a Tamil Teacher?.md
+      - Announcement/நாளும் ஒரு குறள் – புதிர்ப்போட்டி.md
+      - 2024/PONGAL2024.md
+      - 2024/.keep
+      - 2023/.keep
+      - 2023/Graduation Night 2023.md
+      - 2023/Speech Day 2023.md
+      - 2023/Sec 1 HTL Camp.md
+      - 2023/PARENTAL SEMINAR 2023.md
+      - 2023/Motivational Talk cum Study Camp 2023.md
+      - 2023/TLLF2023.md
+      - 2023/Orientation Day 2023.md
+      - 2023/VR Launch.md
+      - 2023/Pongal Festival 2023.md
+      - 2022/.keep
+      - 2022/Recent Events.md
+      - 2022/வாருங்கள் பழகலாம் PSG Event.md
+      - 2022/பெற்றோருக்கான பயிலரங்கு.md
+      - 2022/IPAP EDM 2022.md
+      - 2022/Motivational Talk Cum Study Camp.md
+      - 2022/Pongal Festival 2022.md
+      - 2022/Primary 5 Tamil Language Learning Festival 2022.md
+      - 2022/Sec 2 Tamil Language Learning Festival 2022.md
+      - 2022/Speech Day 2022.md
+      - 2022/Tamil Fest 2022.md
+      - 2022/படைப்பாளருடன் ஒரு கலந்துரையாடல்.md
+      - 2021/.keep
+      - 2021/2021.md
+      - 2021/BHARATHIYAR'S CENTENNIAL COMPETITION RESULTS 2021.md
+      - 2021/Tamil Language Learning Festival 2021.md
+      - 2021/Tamil Language & Cultural Camp.md
+      - 2020/.keep
+      - 2020/HTL Camp 2020.md
+      - 2020/Tamil Fest 2020.md
+      - 2019/.keep
+      - 2019/2019.md
+      - 2019/Tamil Fest 2019 Registration.md
+      - 2018/.keep
+      - 2018/2018 Events.md
+      - 2018/Pongal Festival 2018.md
+      - 2018/HTL Camp 2018.md
+      - 2018/Tamil Fest 2018.md

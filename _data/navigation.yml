@@ -1,0 +1,14 @@
+logo: /images/logo.png
+links:
+  - title: About UPTLC
+    collection: about-uptlc
+  - title: Events
+    collection: events
+  - title: Resources
+    collection: resources
+  - title: Facilities
+    collection: facilities
+  - title: Publication
+    collection: publication
+  - title: Social Media
+    collection: social-media

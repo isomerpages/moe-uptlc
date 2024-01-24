@@ -1,0 +1,19 @@
+---
+title: School Magazine
+permalink: /publication/School-Magazine/permalink/
+description: ""
+third_nav_title: School Magazine
+---
+### SCHOOL MAGAZINE
+	
+|   |   |   |
+|---|---|---|
+|<a target="blank" href="https://drive.google.com/file/d/1m63nPPPS2YcZPOjzQOUIIuJ60fC9N_Ok/view?usp=sharing"><img src="/images/STUDENT/sm1980.png"> </a> | <a target="blank" href="https://drive.google.com/file/d/1yFKJdG3_PgnwtMDj6IY4Pv-Y2jNy5tMT/view?usp=sharing"><img src="/images/STUDENT/sm1983.png"> </a> | <a target="blank" href="https://drive.google.com/file/d/1737aWnFDsoeLyN4vIjJl-GxVoKVohGEQ/view?usp=sharing"><img src="/images/STUDENT/sm1985.png"> </a> |
+| <a target="blank" href="https://drive.google.com/file/d/14N_8Ht_946b9q2MOR9tXX2xHq94cRXsW/view?usp=sharing"><img src="/images/STUDENT/sm1987.png"> </a> | <a target="blank" href="https://drive.google.com/file/d/18SgtzPJ2rlI4djhdveXdKIXtd59oz5Xx/view?usp=sharing"><img src="/images/STUDENT/sm1988.png"> </a>  | <a target="blank" href="https://drive.google.com/file/d/1qpdd0OgHKjzxL0RuiA-895GLNPQoGCza/view?usp=sharing"><img src="/images/STUDENT/sm1989.png"> </a> |
+| <a target="blank" href="https://drive.google.com/file/d/12_M1w8qKBEIA0xKAufQ8WEbRdss8VGlY/view?usp=sharing"><img src="/images/STUDENT/sm1993-1994.png"> </a> | <a target="blank" href="https://drive.google.com/file/d/1NwIBL_ekw4l2cZRITJ0dPaoncFu0WQJ5/view?usp=sharing"><img src="/images/STUDENT/sm1995-1996.png"> </a>  | <a target="blank" href="https://drive.google.com/file/d/1xIPOpAGYMwqOy_uYzLEVltYTkLQzq8BK/view?usp=sharing"><img src="/images/STUDENT/sm1997-1998.png"> </a> |
+| <a target="blank" href="https://drive.google.com/file/d/1fgEfBWzOvfgrcyrjJ27BwW_u0Y-Pf2S7/view?usp=sharing"><img src="/images/STUDENT/sm1999-2000.png"> </a> | <a target="blank" href="https://drive.google.com/file/d/1plIWbg05nIY5_OzmZ_VyLYvy5FZdVF-E/view?usp=sharing"><img src="/images/STUDENT/sm2001-2002.png"> </a>  | <a target="blank" href="https://drive.google.com/file/d/1PXWV3vKTbvehlVGvjl8jZ47UNilhWkyN/view?usp=sharing"><img src="/images/STUDENT/sm2003.png"> </a> |
+| <a target="blank" href="https://drive.google.com/file/d/1Qr_7LbyTdDSt8pCRjL79U7SFkTM8NYMz/view?usp=sharing"><img src="/images/STUDENT/sm2005.png"> </a> | <a target="blank" href="https://drive.google.com/file/d/11NujfO_PlwDotzbdLRaShsmnqn2UNyK1/view?usp=sharing"><img src="/images/STUDENT/sm2006.png"> </a>  | <a target="blank" href="https://drive.google.com/file/d/1YRU_1oB8daVH0PRAKxlo08ePAYQIbTBZ/view?usp=sharing"><img src="/images/STUDENT/sm2007.png"> </a> |
+| <a target="blank" href="https://drive.google.com/file/d/1i6MkI9wS8YrclBF6iV-SU_McLpLmDhl0/view?usp=sharing"><img src="/images/STUDENT/sm2008.png"> </a> |  <a target="blank" href="https://drive.google.com/file/d/1sEJYY3lw6EC-cMgDhdkyNqxb33q0hQ2e/view?usp=sharing"><img src="/images/STUDENT/sm2010.png"> </a> | <a target="blank" href="https://drive.google.com/file/d/1gT_gZd52WKmXuc9JTTl4eARLCQLntgXB/view?usp=sharing"><img src="/images/STUDENT/sm2011.png"> </a> |
+| <a target="blank" href="https://drive.google.com/file/d/1yU0oNK4X48cIS1o85X4Q4tVK-X9X2i0u/view?usp=sharing"><img src="/images/STUDENT/sm2013-2014.png"> </a> | <a target="blank" href="https://drive.google.com/file/d/1CgMvHgpnBAPEOfe6sYtjmOTMHi61gDaU/view?usp=sharing"><img src="/images/STUDENT/sm2016.png"> </a>  | <a target="blank" href="https://drive.google.com/file/d/1IMVzdxutwl4fHhwr4agNaU1PX_dJsCaw/view?usp=sharing"><img src="/images/STUDENT/sm2017.png"> </a> |
+| <a target="blank" href="https://drive.google.com/file/d/1OiA62u4JEDIbraW9b5pOsf9NHX8T7_HU/view?usp=sharing"><img src="/images/STUDENT/sm2018.png"> </a> | <a target="blank" href="https://drive.google.com/file/d/1D2Wt9-OBGC0WEGgoM-1LBQagKRG0Xt8A/view?usp=sharing"><img src="/images/STUDENT/sm2019-2020.png"> </a>  | <a target="blank" href="https://www.uptlc.moe.edu.sg/"><img src="/images/STUDENT/smb.png"> </a> |
+|   |   |   |

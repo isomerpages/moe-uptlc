@@ -1,0 +1,11 @@
+collections:
+  for-students:
+    output: true
+    order:
+      - Information on New Academic Year 2024.md
+      - Forms.md
+      - IPAP.md
+      - UPTLC Learning Journey.md
+      - Exam Timetable.md
+      - Alumni Matters.md
+      - NETP Programme and Scholarship.md
