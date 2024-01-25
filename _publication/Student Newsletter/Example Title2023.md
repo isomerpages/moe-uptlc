@@ -1,8 +1,0 @@
----
-title: Example Title2023
-permalink: /publication/student-newsletter/2023/
-variant: tiptap
-description: ""
-third_nav_title: Student Newsletter
----
-<h2>2023</h2><p><a href="/files/epayanam2023.pdf" rel="noopener noreferrer nofollow" target="_blank">epayanam2023</a></p><p></p>
