@@ -32,10 +32,18 @@ sections:
       alt: Image alt text
       subtitle: January 27, 2024
   - infopic:
-      title: SECONDARY 2 TAMIL LANGUAGE LEARNING FESTIVAL 2024
-      subtitle: " February 24, 2024"
+      title: ORIENTATION DAY 2024
+      subtitle: February 3, 2024
       id: infopic
-      button: REGISTER HERE
+      button: Click here to register
+      url: http://tinyurl.com/Orientation-Day
+      alt: Image alt text
+  - infopic:
+      title: SECONDARY 2 TAMIL LANGUAGE LEARNING FESTIVAL 2024
+      subtitle: February 24, 2024
+      id: infopic
+      button: CLICK HERE  TO REGISTER
       url: http://tinyurl.com/SEC-2-TLLF-2024
       image: /images/Upcoming/TLLF220124.jpg
+      alt: Image alt text
 ---
