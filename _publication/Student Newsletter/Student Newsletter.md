@@ -3,8 +3,15 @@ title: Student Newsletter
 permalink: /publication/Student-Newsletter/Student-Newsletter/
 description: ""
 third_nav_title: Student Newsletter
+variant: markdown
 ---
 ## Students Newsletter
+
+<a href="https://staging.d2uldb6hpe0xwq.amplifyapp.com/publication/Student-Newsletter/2023/">
+	<img src="/images/2023.jpg">
+</a>
+
+<br>
 
 <a href="https://staging.d2uldb6hpe0xwq.amplifyapp.com/publication/Student-Newsletter/2022/">
 	<img src="/images/2022_newsletter.jpg">
