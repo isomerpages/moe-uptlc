@@ -139,9 +139,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<blockquote>
 <h4><strong>Useful Links</strong></h4>
-</blockquote>
 <table>
 <tbody>
 <tr>
@@ -192,15 +190,6 @@ variant: tiptap
 <p></p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
