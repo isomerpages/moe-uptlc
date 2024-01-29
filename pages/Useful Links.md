@@ -122,7 +122,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary LC Package </strong>
+<p><strong>Secondary LC Package</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
