@@ -14,7 +14,6 @@ variant: tiptap
 </div>
 <p></p>
 <p></p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/16cRkNkGA-8?controls=0"></iframe>
 </div>
