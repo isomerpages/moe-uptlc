@@ -8,16 +8,17 @@ variant: tiptap
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Cultural Resources</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://go.gov.sg/tl-lc-resources-uptlc" rel="noopener noreferrer nofollow" target="_blank">Tamil Listening Comprehension</a></strong>
+</p>
+</td>
 <th rowspan="1" colspan="1">
 <p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Secondary LC Package</strong>
+<p><strong><a href="https://go.gov.sg/uptlc-ntlrc-resources-el" rel="noopener noreferrer nofollow" target="_blank">Unveiling the Richness of Indian Culture</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
