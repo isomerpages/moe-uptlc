@@ -25,13 +25,6 @@ sections:
       title: Announcements
       id: announcements
   - infopic:
-      title: IPAP ARTS CELEBRATION 2024
-      id: infopic
-      description: IPAP + Arts' Day UPTLC Alumni Homecoming
-      image: /images/Upcoming/IPAPEDMFINAL220124.jpg
-      alt: Image alt text
-      subtitle: January 27, 2024
-  - infopic:
       title: ORIENTATION DAY 2024
       subtitle: February 3, 2024
       id: infopic

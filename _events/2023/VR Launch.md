@@ -5,36 +5,98 @@ date: 2023-01-20
 description: ""
 third_nav_title: "2023"
 image: /images/Pongal9.jpeg
+variant: tiptap
 ---
-<style>
-
-
-<h4 id="-center-center-"><strong><center>உமறுப்புலவர் தமிழ்மொழி நிலையத்தில் பொங்கல் கொண்டாட்டத்தின் ஓர் அங்கமாகத் தமிழ்மொழி கற்றல் வளர்ச்சிக்குழுவின் ஆதரவில் மெய்ந்நிகர்க் கற்றல் வளங்கள் வெளியீடு ஜனவரி 30-ஆம் தேதி சிறப்பாக நடந்தேறியது</center></strong></h4>
+<h2>Pongal Festival 2022</h2>
+<h4><strong>நிலையத்தில் 'பொங்கலோ பொங்கல்!'</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" src="https://raw.githubusercontent.com/isomerpages/moe-uptlc/staging/images/VR%20Launch.png">
+</div>
+<p></p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/16cRkNkGA-8?controls=0"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/U76qL4jOq1Q?controls=0"></iframe>
+</div>
+<p></p>
 <table>
-<thead>
-<tr>
-<th></th>
-<th></th>
-<th></th>
-</tr>
-</thead>
 <tbody>
 <tr>
-<td><img src="/images/VR/VR1.jpg" alt=""></td>
-<td><img src="/images/VR/VR10.jpg" alt=""></td>
-<td><img src="/images/VR/VR3.jpg" alt=""></td>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 </tr>
 <tr>
-<td><img src="/images/VR/VR4.jpg" alt=""></td>
-<td><img src="/images/VR/VR2.jpg" alt=""></td>
-<td><img src="/images/VR/VR6.jpg" alt=""></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pongal1.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pongal2.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pongal3.jpeg">
+</div>
+</td>
 </tr>
 <tr>
-<td><img src="/images/VR/VR7.jpg" alt=""></td>
-<td><img src="/images/VR/VR8.jpg" alt=""></td>
-<td><img src="/images/VR/VR9.jpg" alt=""></td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pongal4.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pongal5.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pongal6.jpeg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pongal7.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pongal8.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pongal9.jpeg">
+</div>
+</td>
 </tr>
 </tbody>
 </table>
-<p><img src="/images/VR/VR5.jpg" alt=""></p>
-<p><strong></strong></p><center><strong>பொங்கலுக்குப் பானை தயார்!</strong></center><p></p></div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pongal10.jpeg">
+</div>
+<h4><strong>பொங்கலுக்குப் பானை தயார்!</strong></h4>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
