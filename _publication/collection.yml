@@ -2,7 +2,6 @@ collections:
   publication:
     output: true
     order:
-      - Student Handbook/PRAYANAM.md
       - Student Handbook/Example Title.md
       - Student Handbook/Student Handbook.md
       - Student Handbook/.keep
