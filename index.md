@@ -21,7 +21,4 @@ sections:
   - resources:
       title: A Forward -Looking Centre
       button: Read More
-  - announcements:
-      title: Announcements
-      id: announcements
 ---
