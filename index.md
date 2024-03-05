@@ -21,15 +21,4 @@ sections:
   - resources:
       title: A Forward -Looking Centre
       button: Read More
-  - announcements:
-      title: Announcements
-      id: announcements
-  - infopic:
-      title: SECONDARY 2 TAMIL LANGUAGE LEARNING FESTIVAL 2024
-      subtitle: February 24, 2024
-      id: infopic
-      button: CLICK HERE  TO REGISTER
-      url: http://tinyurl.com/SEC-2-TLLF-2024
-      image: /images/Upcoming/TLLF220124.jpg
-      alt: Image alt text
 ---
