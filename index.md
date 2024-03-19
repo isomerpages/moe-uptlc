@@ -21,4 +21,15 @@ sections:
   - resources:
       title: A Forward -Looking Centre
       button: Read More
+  - announcements:
+      title: Announcements
+      id: announcements
+  - infopic:
+      title: PRIMARY 5 TAMIL LANGUAGE LEARNING FESTIVAL
+      id: infopic
+      description: Friday, 19th April 2024
+      button: REGISTER HERE
+      url: https://form.gov.sg/65f1448cc89f9e178e4eaa18
+      image: /images/Upcoming/P5TLLF.png
+      alt: Image alt text
 ---
