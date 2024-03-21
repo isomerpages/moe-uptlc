@@ -32,4 +32,12 @@ sections:
       url: https://form.gov.sg/65f1448cc89f9e178e4eaa18
       image: /images/Upcoming/P5TLLF.png
       alt: Image alt text
+  - infopic:
+      title: Workshop & Learning Journey for Parents
+      id: infopic
+      description: 20th APRIL 2024
+      button: REGISTER HERE
+      url: https://tinyurl.com/2rhyuafv
+      image: /images/Upcoming/Workshop___Learning_Journey_for_Parents.png
+      alt: Image alt text
 ---
