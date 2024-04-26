@@ -40,4 +40,12 @@ sections:
       url: https://tinyurl.com/2rhyuafv
       image: /images/Upcoming/Workshop___Learning_Journey_for_Parents.png
       alt: Image alt text
+  - infopic:
+      title: Secondary 1 HTL Camp
+      id: infopic
+      description: 18th MAY 2024
+      button: REGISTER HERE
+      url: https://go.gov.sg/sec1htl-uptlc-2024
+      image: /images/Upcoming/SEC1HTLCAMPEDM.png
+      alt: Image alt text
 ---
