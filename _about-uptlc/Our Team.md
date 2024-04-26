@@ -202,7 +202,7 @@ variant: tiptap
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Blank1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/MS_KISHA.jpg">
 </div>
 </th>
 </tr>
@@ -247,9 +247,8 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Blank1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/MR_CHEONG.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
