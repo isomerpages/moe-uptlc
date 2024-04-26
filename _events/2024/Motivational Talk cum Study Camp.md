@@ -31,7 +31,7 @@ third_nav_title: "2024"
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudyCamp2024/TLLF_230324_Motivational_Talk_for_Graduationg_Students__1277.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/StudyCamp2024/TLLF_230324_Motivational_Talk_for_Graduationg_Students__1144.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
