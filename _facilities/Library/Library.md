@@ -3,10 +3,11 @@ title: Library
 permalink: /facilities/Library/Library/
 description: ""
 third_nav_title: Library
+variant: markdown
 ---
 ## Library
 
-<a href="http://uptlc.swiiit.com/cos/o.x?c=/swt_uptlc/members&amp;ptid=1147228">
+<a href="https://schoolibrary.moe.edu.sg/uptlc/">
 <img alt="" src="/images/lib.png"></a>
 
 #### தேசிய தமிழ்மொழி வளமை நிலையம்
