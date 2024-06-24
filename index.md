@@ -30,4 +30,5 @@ sections:
       description: 29th June  2024
       image: /images/Upcoming/Students__Forum_E_Invite.png
       alt: Image alt text
+      subtitle: PUBLIC SPEAKING COMPETITION
 ---
