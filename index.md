@@ -24,4 +24,11 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
+  - infopic:
+      title: STUDENT FORUM 2024
+      id: infopic
+      description: 29th June  2024
+      image: /images/Upcoming/Students__Forum_E_Invite.png
+      alt: Image alt text
+      subtitle: PUBLIC SPEAKING COMPETITION
 ---
