@@ -14,6 +14,9 @@ third_nav_title: "2024"
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Upcoming/Students__Forum_E_Invite.png">
+</div>
 </th>
 </tr>
 </tbody>
