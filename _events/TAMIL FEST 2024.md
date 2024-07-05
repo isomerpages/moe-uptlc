@@ -20,16 +20,10 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TAMILFEST2024 /TAMILFESTPRI.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/6657f9c48b75c34045ea7664"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/TAMILFEST2024 /TAMILFESTPRI.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TAMILFEST2024 /TAMILFESTJC.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://form.gov.sg/6657facf886bfac6d5d93bb7"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/TAMILFEST2024 /TAMILFESTJC.png"></a>
 </td>
 </tr>
 </tbody>
