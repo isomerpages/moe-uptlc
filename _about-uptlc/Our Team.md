@@ -5,7 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h2>Our Team</h2>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -39,7 +44,12 @@ variant: tiptap
 </table>
 <p><strong>TEACHING &amp; LEARNING WING <br>KEY PERSONNEL &amp; TEACHERS</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -111,7 +121,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Blank1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/MdmKavitha.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -136,7 +146,12 @@ variant: tiptap
 </table>
 <p><strong>ADMINISTRATION WING<br>EXECUTIVE AND ADMINISTRATIVE STAFF</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -187,7 +202,12 @@ variant: tiptap
 </table>
 <p><strong>ICT PERSONNEL</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -221,7 +241,12 @@ variant: tiptap
 </table>
 <p><strong>ENVIRONMENTAL AND SECURITY PERSONNEL</strong>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
