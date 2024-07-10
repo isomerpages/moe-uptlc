@@ -21,7 +21,7 @@ description: ""
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TAMILFEST2024 /2.jpg">
-</div><a class="isomer-image-wrapper" href="https://form.gov.sg/6657f9c48b75c34045ea7664"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/TAMILFEST2024 /TAMILFESTPRI.png"></a>
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
