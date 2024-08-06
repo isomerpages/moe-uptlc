@@ -2,7 +2,7 @@
 layout: homepage
 title: Umar Pulavar Tamil Language Centre
 description: An Isomer site of the Singapore Government
-image: /images/logo.png
+image: /images/Icons/LOGO2.png
 permalink: /
 notification: ""
 sections:
@@ -24,4 +24,12 @@ sections:
   - announcements:
       title: Announcements
       id: announcements
+  - infopic:
+      title: TAMIL FEST 2024
+      id: infopic
+      description: 3rd August 2024
+      button: REGISTER HERE
+      url: https://www.uptlc.moe.edu.sg/tamil-fest-2024/
+      image: /images/TAMILFEST2024 /TAMILFEST.jpg
+      alt: Image alt text
 ---
