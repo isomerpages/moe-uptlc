@@ -2,7 +2,6 @@ collections:
   events:
     output: true
     order:
-      - TAMIL FEST 2024.md
       - Announcement/.keep
       - Announcement/Upcoming.md
       - Announcement/IPAP.md
