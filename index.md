@@ -2,7 +2,7 @@
 layout: homepage
 title: Umar Pulavar Tamil Language Centre
 description: An Isomer site of the Singapore Government
-image: /images/logo.png
+image: /images/Icons/LOGO2.png
 permalink: /
 notification: ""
 sections:
@@ -21,7 +21,4 @@ sections:
   - resources:
       title: A Forward -Looking Centre
       button: Read More
-  - announcements:
-      title: Announcements
-      id: announcements
 ---
