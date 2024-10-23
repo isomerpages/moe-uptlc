@@ -18,6 +18,14 @@ sections:
           description: ""
           url: /for-parents/2022/
       background: /images/VR/gif_2023.gif
+  - infopic:
+      title: UPTLC STAFF RETREAT
+      subtitle: Sorry we're Closed
+      id: infopic
+      description: Thurs, Oct 24 & Friday, Oct 25 2024
+      button: Button Text
+      image: /images/Closed.jpg
+      alt: Image alt text
   - resources:
       title: A Forward -Looking Centre
       button: Read More
