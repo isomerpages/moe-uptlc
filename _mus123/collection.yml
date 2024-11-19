@@ -1,4 +1,5 @@
 collections:
   mus123:
     output: true
-    order: []
+    order:
+      - ABOUT MUS.md
