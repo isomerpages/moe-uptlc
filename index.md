@@ -18,6 +18,7 @@ sections:
           description: ""
           url: /for-parents/2022/
       background: /images/Blue_And_White_Gradient_Welcome_Landscape_Banner_.gif
+      variant: center
   - resources:
       title: A Forward -Looking Centre
       button: Read More
