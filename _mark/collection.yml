@@ -1,5 +1,0 @@
-collections:
-  mark:
-    output: true
-    order:
-      - about mark.md
