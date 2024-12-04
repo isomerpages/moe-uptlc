@@ -17,7 +17,7 @@ sections:
         - title: For Parents
           description: ""
           url: /for-parents/2022/
-      background: /images/VR/gif_2023.gif
+      background: /images/WEBISTE_BANNER_2025_01.gif
   - resources:
       title: A Forward -Looking Centre
       button: Read More
