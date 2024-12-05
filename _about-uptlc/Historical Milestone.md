@@ -2,8 +2,9 @@
 title: Historical Milestone
 permalink: /about-uptlc/Historical-Milestone/
 description: ""
+variant: markdown
 ---
-## Historical Milestone
+## Historical Milestones
 
 ![](/images/Ribbon.png)
 
