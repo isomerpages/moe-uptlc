@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Umar Pulavar Tamil Language Centre
-description: An Isomer site of the Singapore Government
+description: Official school website of Umar Pulavar Tamil Language Centre.
 image: /images/Icons/LOGO2.png
 permalink: /
 notification: ""
