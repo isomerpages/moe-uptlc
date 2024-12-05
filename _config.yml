@@ -6,13 +6,13 @@ colors:
   secondary-color: "#031a6b"
   media-colors:
     - title: media-color-one
-      color: "#f9e7e7"
+      color: "#f57e7e"
     - title: media-color-two
       color: "#ff7f50"
     - title: media-color-three
       color: "#0a2342"
     - title: media-color-four
-      color: "#efe9e7"
+      color: "#2f2f2f"
     - title: media-color-five
       color: "#00838f"
 description: Official school website of Umar Pulavar Tamil Language Centre.
