@@ -24,12 +24,4 @@ sections:
       title: Announcements
       button: Read More
       subtitle: A Forward-Looking Centre
-  - infobar:
-      title: Become a Tamil Teacher
-      id: infobar
-      description: Are you passionate about teaching and sharing your love for the
-        Tamil language and culture? We invite you to join our team of dedicated
-        Tamil teachers!
-      button: Prepare for Your Interview
-      url: https://youtu.be/4Gnr6lsxcN8 & https://youtu.be/tHcksrdkAmo
 ---
