@@ -2,11 +2,11 @@ title: Umar Pulavar Tamil Language Centre
 url: https://uptlc.moe.edu.sg
 favicon: /images/Moe_logo.jpg
 colors:
-  primary-color: "#479bdf"
-  secondary-color: "#031a6b"
+  primary-color: "#336da2"
+  secondary-color: "#0c226c"
   media-colors:
     - title: media-color-one
-      color: "#f57e7e"
+      color: "#f0990f"
     - title: media-color-two
       color: "#ff7f50"
     - title: media-color-three
