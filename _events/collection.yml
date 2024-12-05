@@ -2,8 +2,8 @@ collections:
   events:
     output: true
     order:
-      - Announcement/.keep
-      - Announcement/Are you interested to become a Tamil Teacher?.md
+      - OTHERS/.keep
+      - OTHERS/Are you interested to become a Tamil Teacher?.md
       - 2025.md
       - 2024/.keep
       - 2024/TAMIL FEST 2024.md
