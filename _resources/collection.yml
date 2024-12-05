@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Prayanam.md
       - Common Resources.md
       - Learning Resources/.keep
       - Learning Resources/Resources.md
