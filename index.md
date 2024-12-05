@@ -4,7 +4,8 @@ title: Umar Pulavar Tamil Language Centre
 description: Official school website of Umar Pulavar Tamil Language Centre.
 image: /images/Icons/LOGO2.png
 permalink: /
-notification: ""
+notification: Welcome to Umar Pulavar Tamil Language Centre! Stay updated on our
+  latest news and events.
 sections:
   - hero:
       key_highlights:
@@ -20,6 +21,7 @@ sections:
       background: /images/Blue_And_White_Gradient_Welcome_Landscape_Banner_.gif
       variant: center
   - resources:
-      title: A Forward -Looking Centre
+      title: Announcements
       button: Read More
+      subtitle: A Forward-Looking Centre
 ---
