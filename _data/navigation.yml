@@ -1,6 +1,6 @@
 logo: /images/Icons/LOGO2.png
 links:
-  - title: About UPTLC
+  - title: About US
     collection: about-uptlc
   - title: Events
     collection: events
@@ -12,3 +12,6 @@ links:
     collection: publication
   - title: Social Media
     collection: social-media
+  - title: ALUMNI
+    url: ALUMNI
+    sublinks: []
