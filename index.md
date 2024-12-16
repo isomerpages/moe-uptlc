@@ -9,19 +9,18 @@ notification: Welcome to Umar Pulavar Tamil Language Centre! Stay updated on our
 sections:
   - hero:
       key_highlights:
-        - title: For Teacher
+        - title: For Teachers
           description: ""
           url: /For-Teachers/Useful-Links/
-        - title: For Student
+        - title: For Students
           description: ""
           url: /for-students/academic-year-2024/
         - title: For Parents
           description: ""
           url: /for-parents/2022/
-      background: /images/Blue_And_White_Gradient_Welcome_Landscape_Banner_.gif
+      background: /images/WEBISTE_BANNER_2025_02.gif
       variant: center
   - resources:
-      title: Announcements
+      title: A Forward-Looking Centre
       button: Read More
-      subtitle: A Forward-Looking Centre
 ---
