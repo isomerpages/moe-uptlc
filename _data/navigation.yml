@@ -1,14 +1,16 @@
 logo: /images/Icons/LOGO2.png
 links:
-  - title: About UPTLC
+  - title: ABOUT US
     collection: about-uptlc
-  - title: Events
+  - title: EVENTS
     collection: events
-  - title: Resources
+  - title: RESOURCES
     collection: resources
-  - title: Facilities
+  - title: FACILITIES
     collection: facilities
-  - title: Publication
+  - title: PUBLICATIONS
     collection: publication
-  - title: Social Media
+  - title: OUR PARTNERS
+    collection: alumni
+  - title: SOCIAL MEDIA
     collection: social-media

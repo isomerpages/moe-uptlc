@@ -1,0 +1,5 @@
+collections:
+  alumni:
+    output: true
+    order:
+      - Alumni.md
