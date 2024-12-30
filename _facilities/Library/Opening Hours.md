@@ -3,16 +3,17 @@ title: Opening Hours
 permalink: /facilities/Library/Opening-Hours/
 description: ""
 third_nav_title: Library
+variant: markdown
 ---
 ## Opening Hours
 
 திங்கள் முதல் வெள்ளி வரை
 
-காலை மணி 9.00 முதல் மாலை மணி 6.30 வரை
+காலை மணி 9.00 முதல் மாலை மணி 6.00 வரை
 
-**Mondays to Fridays**
+**Monday to Friday**
 
-**9.00am to 6.30pm**
+**9.00am to 6.00pm**
 
 கற்றல் கற்பித்தல் வளமைகள்
 
