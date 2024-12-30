@@ -14,7 +14,7 @@ sections:
           url: /For-Teachers/Useful-Links/
         - title: For Students
           description: ""
-          url: /for-students/academic-year-2024/
+          url: /for-students/academic-year-2025/
         - title: For Parents
           description: ""
           url: /for-parents/2022/
