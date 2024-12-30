@@ -1,6 +1,6 @@
 ---
 title: UPCOMING EVENTS
-permalink: /upcoming-events/
+permalink: /pongal-celebration-2025/
 date: 2024-12-30
 layout: post
 description: ""
