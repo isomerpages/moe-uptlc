@@ -8,7 +8,7 @@ variant: markdown
 
 
 <a href="https://go.gov.sg/uptlc-ipap-reg">
-<img alt="" src="/images/Upcoming/IPAP_EDM_2024.png"></a>
+<img alt="" src="/images/IPAP_EDM_2024.png"></a>
 
 
 <a href="/files/2023_IPAP_Website_Letter_Vetted.pdf">
