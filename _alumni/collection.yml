@@ -2,5 +2,4 @@ collections:
   alumni:
     output: true
     order:
-      - Forms/Alumni Registration Form.md
       - Forms/.keep
