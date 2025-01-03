@@ -7,6 +7,14 @@ variant: markdown
 ---
 ## Students Newsletter
 
+
+
+<a href="https://staging-lite.d3dderin0t1vx8.amplifyapp.com/publication/student-newsletter/2024/">
+	<img src="/images/2024________.png">
+</a>
+
+<br>
+
 <a href="https://staging-lite.d3dderin0t1vx8.amplifyapp.com/publication/student-newsletter/2023/">
 	<img src="/images/2023.jpg">
 </a>
