@@ -247,11 +247,13 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/TIONG.jpg">
 </div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Ms_Aisyah.jpg">
 </div>
+<p></p>
 </th>
 </tr>
 <tr>
@@ -261,6 +263,9 @@ variant: tiptap
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_06_120139.png">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
