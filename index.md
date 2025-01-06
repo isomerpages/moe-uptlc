@@ -24,4 +24,11 @@ sections:
       title: ANNOUNCEMENTS
       button: Read More
       subtitle: A Forward-Looking Centre
+  - infopic:
+      title: UPTLC'S PONGAL CELEBRATION 2025
+      subtitle: Stay tuned for
+      id: infopic
+      description: Celebrating the harvest festival with exciting events, traditional
+        activities, and festive treats!
+      image: /images/PONGAL_EDM_2025_06012025_FINAL.png
 ---
