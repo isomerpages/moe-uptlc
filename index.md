@@ -31,4 +31,5 @@ sections:
       description: Celebrating the harvest festival with exciting events, traditional
         activities, and festive treats!
       image: /images/PONGAL_EDM_2025_06012025_FINAL.png
+      alt: Pongal Celebration 2025
 ---
