@@ -30,7 +30,7 @@ sections:
       id: infopic
       description: Celebrating the harvest festival with exciting events, traditional
         activities, and festive treats!
-      image: /images/PONGAL_EDM_2025_06012025_FINAL.png
+      image: /images/PONGAL_EDM_2025_07012025.png
       alt: Pongal Celebration 2025
       url: https://staging-lite.d3dderin0t1vx8.amplifyapp.com/pongal-celebration-2025/
       button: Click Here
