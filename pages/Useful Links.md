@@ -5,7 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Teacher's Resources</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -36,7 +40,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="http://uptlc.sg/" rel="noopener noreferrer nofollow" target="_blank">Interactive Resources</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -45,7 +50,11 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Useful Links</strong></h4>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
