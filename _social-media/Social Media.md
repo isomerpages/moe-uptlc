@@ -4,7 +4,7 @@ permalink: /social-media/social_media/
 description: ""
 variant: markdown
 ---
-![](/images/Igfb/igfb01.gif)
+![](/images/giphy.gif)
 
 |  |  | 
 | ------- | -------- |
