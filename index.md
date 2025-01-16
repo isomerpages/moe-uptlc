@@ -34,4 +34,14 @@ sections:
       alt: Pongal Celebration 2025
       url: https://staging-lite.d3dderin0t1vx8.amplifyapp.com/pongal-celebration-2025/
       button: Click Here
+  - infopic:
+      title: SECONDARY 2 TAMIL LANGAUAGE LEARNING FESTIVAL 2025
+      subtitle: Coming soon
+      id: infopic
+      description: Get ready! Registration for Secondary 2 Tamil Language Learning
+        Festival is now open for all MOE schools!
+      button: Register Here
+      url: https://tinyurl.com/3pama2sf
+      image: /images/SEC_2_TLLF_2025_FINAL.jpg
+      alt: Image alt text
 ---
