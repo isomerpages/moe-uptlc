@@ -25,15 +25,15 @@ sections:
       button: Read More
       subtitle: A Forward-Looking Centre
   - infopic:
-      title: UPTLC'S PONGAL CELEBRATION 2025
-      subtitle: Stay tuned for
+      title: ORIENTATION DAY 2025
+      subtitle: COMING SOON
       id: infopic
-      description: Celebrating the harvest festival with exciting events, traditional
-        activities, and festive treats!
-      image: /images/PONGAL_EDM_2025_07012025.png
-      alt: Pongal Celebration 2025
-      url: https://staging-lite.d3dderin0t1vx8.amplifyapp.com/pongal-celebration-2025/
-      button: Click Here
+      description: Welcome to Orientation Day 2025 at Umar Pulavar Tamil Language
+        Centre! Discover, Connect, and Thrive with us!
+      button: register here
+      url: https://form.gov.sg/677534e58fb993cf21b6bfd3
+      image: /images/ORIENTATION_DAY_2025_EDM_FINAL.jpg
+      alt: Image alt text
   - infopic:
       title: SECONDARY 2 TAMIL LANGAUAGE LEARNING FESTIVAL 2025
       subtitle: Coming soon
