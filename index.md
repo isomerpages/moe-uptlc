@@ -25,16 +25,6 @@ sections:
       button: Read More
       subtitle: A Forward-Looking Centre
   - infopic:
-      title: ORIENTATION DAY 2025
-      subtitle: COMING SOON
-      id: infopic
-      description: Welcome to Orientation Day 2025 at Umar Pulavar Tamil Language
-        Centre! Discover, Connect, and Thrive with us!
-      button: register here
-      url: https://form.gov.sg/677534e58fb993cf21b6bfd3
-      image: /images/ORIENTATION_DAY_2025_EDM_FINAL.jpg
-      alt: Image alt text
-  - infopic:
       title: SECONDARY 2 TAMIL LANGAUAGE LEARNING FESTIVAL 2025
       subtitle: Coming soon
       id: infopic
