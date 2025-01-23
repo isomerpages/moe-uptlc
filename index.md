@@ -35,6 +35,15 @@ sections:
       image: /images/ORIENTATION_DAY_2025_EDM_edited.jpg
       alt: Image alt text
   - infopic:
+      title: TAMIL & YOUR CHILD 2025
+      subtitle: Coming soon
+      id: infopic
+      description: For graduating students' parents' attention only
+      button: REGISTER HERE
+      url: https://form.gov.sg/6791ea491f48ad252b4b6127
+      image: /images/TAMIL_AND_YOUR_CHILD_2025_EDM.jpg
+      alt: Image alt text
+  - infopic:
       title: SECONDARY 2 TAMIL LANGAUAGE LEARNING FESTIVAL 2025
       subtitle: Coming soon
       id: infopic
