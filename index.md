@@ -44,6 +44,16 @@ sections:
       image: /images/TAMIL_AND_YOUR_CHILD_2025_EDM.jpg
       alt: Image alt text
   - infopic:
+      title: NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME
+      subtitle: COMING SOON
+      id: infopic
+      description: The NETP programme, hosted at Umar Pulavar Tamil Language Centre,
+        nurtures secondary and JC students' proficiency in Tamil Language,
+        literature and culture.
+      button: REGISTER HERE
+      url: https://form.gov.sg/677755f9c7114f9bb9938675
+      image: /images/NETP_EDM_2025_Final.jpg
+  - infopic:
       title: SECONDARY 2 TAMIL LANGAUAGE LEARNING FESTIVAL 2025
       subtitle: Coming soon
       id: infopic
