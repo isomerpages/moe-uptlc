@@ -10,3 +10,7 @@ third_nav_title: "2025"
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/TAMIL_AND_YOUR_CHILD_2025_EDM.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Brown_Watercolor_Floral_SImple_Family_Photo_Collage.png">
+</div>
+<p></p>

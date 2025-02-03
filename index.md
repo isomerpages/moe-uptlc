@@ -25,23 +25,25 @@ sections:
       button: Read More
       subtitle: A Forward-Looking Centre
   - infopic:
-      title: ORIENTATION DAY 2025
+      title: NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME
       subtitle: COMING SOON
       id: infopic
-      description: Welcome to Orientation Day 2025 at Umar Pulavar Tamil Language
-        Centre! Discover, Connect, and Thrive with us!
+      description: The NETP programme, hosted at Umar Pulavar Tamil Language Centre,
+        nurtures secondary and JC students' proficiency in Tamil Language,
+        literature and culture.
       button: REGISTER HERE
-      url: https://form.gov.sg/677534e58fb993cf21b6bfd3
-      image: /images/ORIENTATION_DAY_2025_EDM_edited.jpg
+      url: https://form.gov.sg/677755f9c7114f9bb9938675
+      image: /images/NETP_EDM_2025_Final.jpg
       alt: Image alt text
   - infopic:
-      title: TAMIL & YOUR CHILD 2025
+      title: STUDENT FORUM 2025
       subtitle: Coming soon
       id: infopic
-      description: For graduating students' parents' attention only
+      description: "Student Forum 2025: Share your thoughts & ideas! Register now for
+        engaging discussions, prizes & more!"
       button: REGISTER HERE
-      url: https://form.gov.sg/6791ea491f48ad252b4b6127
-      image: /images/TAMIL_AND_YOUR_CHILD_2025_EDM.jpg
+      url: https://form.gov.sg/67935adcc0fd4289bc91b57b
+      image: /images/Student_Forum_EDM_2025_Final.png
       alt: Image alt text
   - infopic:
       title: SECONDARY 2 TAMIL LANGAUAGE LEARNING FESTIVAL 2025
