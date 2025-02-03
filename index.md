@@ -53,6 +53,7 @@ sections:
       button: REGISTER HERE
       url: https://form.gov.sg/677755f9c7114f9bb9938675
       image: /images/NETP_EDM_2025_Final.jpg
+      alt: Image alt text
   - infopic:
       title: SECONDARY 2 TAMIL LANGAUAGE LEARNING FESTIVAL 2025
       subtitle: Coming soon
