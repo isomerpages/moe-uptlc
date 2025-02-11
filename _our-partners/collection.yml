@@ -2,6 +2,6 @@ collections:
   our-partners:
     output: true
     order:
-      - PSG Meeting/Parent Support Group.md
+      - PSG Meeting/PSG MEETING 2025.md
       - PSG Meeting/.keep
       - Alumni.md
