@@ -200,17 +200,20 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/MUS_SCHOOL_WEBSITE_03.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MS_MUSRIFAH_2025__3_.png">
 </div>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/MS_KISHA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MS_MUSRIFAH_2025_5.png">
+</div>
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MS_MUSRIFAH_2025_10.png">
 </div>
 <p></p>
 </th>
