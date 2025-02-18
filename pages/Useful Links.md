@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://go.gov.sg/tl-lc-resources-uptlc" rel="noopener noreferrer nofollow" target="_blank">Tamil Listening Comprehension</a></strong>
+<p><strong><a href="https://go.gov.sg/lc-resource-packages-link-uptlc" rel="noopener noreferrer nofollow" target="_blank">Tamil Listening Comprehension</a></strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
