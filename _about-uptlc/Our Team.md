@@ -164,16 +164,19 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/INDRADEVI.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/NOORMALA.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MS_MUSRIFAH_2025__7_.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Blank1.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Staff/NOORMALA.jpg">
 </div>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -267,7 +270,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_06_120139.png">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_06_120139.png">
 </div>
 <p></p>
 </td>
