@@ -59,7 +59,7 @@ sections:
       title: PARENTAL WORKSHOP 2025
       subtitle: Coming soon
       id: infopic
-      description: Register now for Parental Workshop on 1st March! Conducted in
+      description: Register now for Parental Workshop on 8th March! Conducted in
         Tamil, equipping parents with essential skills.
       button: REGISTER HERE
       url: https://tinyurl.com/mr4bd2f4
