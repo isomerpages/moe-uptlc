@@ -55,4 +55,14 @@ sections:
       url: https://tinyurl.com/3pama2sf
       image: /images/SEC_2_TLLF_2025_FINAL.jpg
       alt: Image alt text
+  - infopic:
+      title: PARENTAL WORKSHOP 2025
+      subtitle: Coming soon
+      id: infopic
+      description: Register now for Parental Workshop on 1st March! Conducted in
+        Tamil, equipping parents with essential skills.
+      button: REGISTER HERE
+      url: https://tinyurl.com/mr4bd2f4
+      image: /images/PARENTAL_SEMINAR_2025_EDM_19022025_FINAL.jpg
+      alt: Image alt text
 ---
