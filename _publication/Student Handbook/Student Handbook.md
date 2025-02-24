@@ -13,7 +13,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1FgydH4u6bg5dphl7_U1NHLIq0NaY-bJ7/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/11022025.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1pXDDMFRemC7RsnyfpKTz8TW7aL47Fhk5/view"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/11022025.png"></a>
 </th>
 </tr>
 </tbody>
