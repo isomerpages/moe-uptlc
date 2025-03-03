@@ -82,4 +82,7 @@ third_nav_title: "2025"
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Colorful_Simple_Designer_Linkedin_Banner__1_.png">
+</div>
 <p></p>
