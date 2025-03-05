@@ -33,7 +33,7 @@ sections:
         literature and culture.
       button: REGISTER HERE
       url: https://form.gov.sg/677755f9c7114f9bb9938675
-      image: /images/NETP_EDM_2025_Final.jpg
+      image: /images/NETP_EDM_MARch_2025.jpg
       alt: Image alt text
   - infopic:
       title: STUDENT FORUM 2025
