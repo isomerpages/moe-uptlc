@@ -55,4 +55,15 @@ sections:
       url: https://tinyurl.com/mr4bd2f4
       image: /images/PARENTAL_SEMINAR_2025_EDM_19022025_FINAL.jpg
       alt: Image alt text
+  - infopic:
+      title: PRIMARY 5 TAMIL LANGUAGE LEARNING FESTIVAL 2025
+      subtitle: COMING SOON
+      id: infopic
+      description: Register now for the P5 Tamil Language Learning Festival! A
+        fun-filled event to promote Tamil language learning and cultural
+        awareness.
+      button: REGISTE HERE
+      url: https://form.gov.sg/65f1448cc89f9e178e4eaa18
+      image: /images/PRIMARY_5_TLLF_2025_EDM_FINAL.jpg
+      alt: Image alt text
 ---
