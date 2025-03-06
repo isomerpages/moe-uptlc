@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://excelasia.whitehouseit.com/prayanam/index.html" rel="noopener noreferrer nofollow" target="_blank">Prayanam</a></strong>
+<p><strong><a href="https://education.artzee.sg/" rel="noopener noreferrer nofollow" target="_blank">Prayanam</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
