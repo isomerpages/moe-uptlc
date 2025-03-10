@@ -63,7 +63,7 @@ sections:
         fun-filled event to promote Tamil language learning and cultural
         awareness.
       button: REGISTE HERE
-      url: https://form.gov.sg/65f1448cc89f9e178e4eaa18
+      url: https://form.gov.sg/67691c3df74a76f34f6a19db
       image: /images/PRIMARY_5_TLLF_2025_EDM_FINAL.jpg
       alt: Image alt text
 ---
