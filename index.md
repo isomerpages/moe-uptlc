@@ -46,16 +46,6 @@ sections:
       image: /images/Student_Forum_EDM_2025_Final.png
       alt: Image alt text
   - infopic:
-      title: PARENTAL WORKSHOP 2025
-      subtitle: Coming soon
-      id: infopic
-      description: Register now for Parental Workshop on 8th March! Conducted in
-        Tamil, equipping parents with essential skills.
-      button: REGISTER HERE
-      url: https://tinyurl.com/mr4bd2f4
-      image: /images/PARENTAL_SEMINAR_2025_EDM_19022025_FINAL.jpg
-      alt: Image alt text
-  - infopic:
       title: PRIMARY 5 TAMIL LANGUAGE LEARNING FESTIVAL 2025
       subtitle: COMING SOON
       id: infopic
