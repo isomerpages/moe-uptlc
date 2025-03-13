@@ -24,6 +24,15 @@ sections:
       title: ANNOUNCEMENTS
       button: Read More
       subtitle: A Forward-Looking Centre
+  - infobar:
+      title: Sigaram Thodu 2025
+      subtitle: Coming soon
+      id: infobar
+      description: "Sigaram Thodu 2025: Empowering Graduating Students.  A
+        motivational workshop to inspire and equip graduating students for
+        future success."
+      button: Button Text
+      url: https://staging-lite.d3dderin0t1vx8.amplifyapp.com/sigaram-thodu-2025-motivational-workshop-for-graduating-students/
   - infopic:
       title: NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME
       subtitle: COMING SOON
@@ -44,26 +53,5 @@ sections:
       button: REGISTER HERE
       url: https://form.gov.sg/67935adcc0fd4289bc91b57b
       image: /images/Student_Forum_EDM_2025_Final.png
-      alt: Image alt text
-  - infopic:
-      title: PARENTAL WORKSHOP 2025
-      subtitle: Coming soon
-      id: infopic
-      description: Register now for Parental Workshop on 8th March! Conducted in
-        Tamil, equipping parents with essential skills.
-      button: REGISTER HERE
-      url: https://tinyurl.com/mr4bd2f4
-      image: /images/PARENTAL_SEMINAR_2025_EDM_19022025_FINAL.jpg
-      alt: Image alt text
-  - infopic:
-      title: PRIMARY 5 TAMIL LANGUAGE LEARNING FESTIVAL 2025
-      subtitle: COMING SOON
-      id: infopic
-      description: Register now for the P5 Tamil Language Learning Festival! A
-        fun-filled event to promote Tamil language learning and cultural
-        awareness.
-      button: REGISTE HERE
-      url: https://form.gov.sg/67691c3df74a76f34f6a19db
-      image: /images/PRIMARY_5_TLLF_2025_EDM_FINAL.jpg
       alt: Image alt text
 ---
