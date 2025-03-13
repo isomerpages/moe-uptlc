@@ -53,4 +53,5 @@ sections:
         motivational workshop to inspire and equip graduating students for
         future success."
       button: Button Text
+      url: https://staging-lite.d3dderin0t1vx8.amplifyapp.com/sigaram-thodu-2025-motivational-workshop-for-graduating-students/
 ---
