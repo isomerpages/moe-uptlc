@@ -25,8 +25,8 @@ sections:
       button: Read More
       subtitle: A Forward-Looking Centre
   - infobar:
-      title: Motivational Workshop for Graduating Students
-      subtitle: Sigaram Thodu 2025
+      title: Sigaram Thodu 2025
+      subtitle: Coming soon
       id: infobar
       description: "Sigaram Thodu 2025: Empowering Graduating Students.  A
         motivational workshop to inspire and equip graduating students for
