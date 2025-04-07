@@ -24,15 +24,6 @@ sections:
       title: ANNOUNCEMENTS
       button: Read More
       subtitle: A Forward-Looking Centre
-  - infobar:
-      title: Sigaram Thodu 2025
-      subtitle: Coming soon
-      id: infobar
-      description: "Sigaram Thodu 2025: Empowering Graduating Students.  A
-        motivational workshop to inspire and equip graduating students for
-        future success."
-      button: Button Text
-      url: https://staging-lite.d3dderin0t1vx8.amplifyapp.com/sigaram-thodu-2025-motivational-workshop-for-graduating-students/
   - infopic:
       title: NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME
       subtitle: COMING SOON
