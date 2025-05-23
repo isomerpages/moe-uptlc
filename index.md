@@ -25,16 +25,6 @@ sections:
       button: Read More
       subtitle: A Forward-Looking Centre
   - infopic:
-      title: SECONDARY 1 HTL CAMP 2025
-      subtitle: Coming soon
-      id: infopic
-      description: Register now for Sec 1 HTL Camp 2025 and enjoy an enriching
-        learning experience!
-      button: register here
-      url: https://form.gov.sg/6625f39eedab5bf5de9eeb4f
-      image: /images/SEC_1_HTL_CAMP_EDM_2025_16012025_FINAL.jpg
-      alt: Image alt text
-  - infopic:
       title: NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME
       subtitle: COMING SOON
       id: infopic
