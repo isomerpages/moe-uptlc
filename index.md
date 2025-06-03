@@ -4,8 +4,7 @@ title: Umar Pulavar Tamil Language Centre
 description: Official school website of Umar Pulavar Tamil Language Centre.
 image: /images/Icons/LOGO2.png
 permalink: /
-notification: Welcome to Umar Pulavar Tamil Language Centre! Classes at UPTLC
-  will commence on 6 January 2025.
+notification: Welcome to Umar Pulavar Tamil Language Centre!
 sections:
   - hero:
       key_highlights:
@@ -24,16 +23,6 @@ sections:
       title: ANNOUNCEMENTS
       button: Read More
       subtitle: A Forward-Looking Centre
-  - infopic:
-      title: SECONDARY 1 HTL CAMP 2025
-      subtitle: Coming soon
-      id: infopic
-      description: Register now for Sec 1 HTL Camp 2025 and enjoy an enriching
-        learning experience!
-      button: register here
-      url: https://form.gov.sg/6625f39eedab5bf5de9eeb4f
-      image: /images/SEC_1_HTL_CAMP_EDM_2025_16012025_FINAL.jpg
-      alt: Image alt text
   - infopic:
       title: NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME
       subtitle: COMING SOON
