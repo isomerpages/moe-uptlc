@@ -24,6 +24,16 @@ sections:
       button: Read More
       subtitle: A Forward-Looking Centre
   - infopic:
+      title: TAMIL FEST 2025
+      subtitle: COMING SOON
+      id: infopic
+      description: Tamil Fest 2025 is coming! Register now to secure your spot and
+        experience the best of Tamil culture!
+      button: SCAN QR CODE TO REGISTER
+      url: "-"
+      image: /images/TAMIL_FEST_EDM_09072025_V3.jpg
+      alt: Image alt text
+  - infopic:
       title: NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME
       subtitle: COMING SOON
       id: infopic
