@@ -4,8 +4,7 @@ title: Umar Pulavar Tamil Language Centre
 description: Official school website of Umar Pulavar Tamil Language Centre.
 image: /images/Icons/LOGO2.png
 permalink: /
-notification: "Welcome to Umar Pulavar Tamil Language Centre! 28 July 2025 - 1
-  August 2025 : Home-Based Learning week"
+notification: Welcome to Umar Pulavar Tamil Language Centre!
 sections:
   - hero:
       key_highlights:
