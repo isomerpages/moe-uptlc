@@ -4,7 +4,7 @@ permalink: /for-students/forms/
 description: ""
 variant: markdown
 ---
-## Forms
+## FORMS
 
 **Note:** Please be informed that this registration is **strictly for MOE schools only** and **not open to members of the public**.
 
