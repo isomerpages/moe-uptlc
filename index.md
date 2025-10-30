@@ -4,7 +4,8 @@ title: Umar Pulavar Tamil Language Centre
 description: Official school website of Umar Pulavar Tamil Language Centre.
 image: /images/Icons/LOGO2.png
 permalink: /
-notification: Welcome to Umar Pulavar Tamil Language Centre!
+notification: Greetings from Umar Pulavar Tamil Language Centre! We’re excited
+  to announce that our classes will start on 5 January 2026!
 sections:
   - hero:
       key_highlights:
@@ -33,5 +34,15 @@ sections:
       button: REGISTER HERE
       url: https://form.gov.sg/677755f9c7114f9bb9938675
       image: /images/NETP_EDM_MARch_2025.jpg
+      alt: Image alt text
+  - infopic:
+      title: INDIAN PERFORMING ARTS PROGRAMME
+      subtitle: JOIN US
+      id: infopic
+      description: Discover the beauty of Indian culture through music and dance —
+        where creativity, rhythm, and confidence come alive!
+      button: register here
+      url: https://form.gov.sg/654867947b7dfd0012510826
+      image: /images/IPAP_EDM_FINAL.png
       alt: Image alt text
 ---

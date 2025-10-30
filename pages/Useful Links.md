@@ -62,23 +62,13 @@ variant: tiptap
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="https://www.opal2.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>OPAL 2.0</u></a>
+<p><strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SLS</a></strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://intranet.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE INTRANET</u></a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://schoolcockpit.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">School Cockpit</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">MIMS</a></strong>
+<p><strong><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">MIMS PORTAL</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -88,11 +78,20 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SLS</a></strong>
+<p><strong><a href="https://intranet.moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>MOE INTRANET</u></a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong><a href="https://iexams.moe.gov.sg/xe/login.do" rel="noopener noreferrer nofollow" target="_blank"><u>iExams</u></a></strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://www.opal2.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>OPAL 2.0</u></a></strong>
 </p>
 </td>
 </tr>
