@@ -4,7 +4,7 @@ permalink: /for-students/IPAP/
 description: ""
 variant: markdown
 ---
-## INDIAN PERFORMING ARTS PROGRAMME
+## Indian Performing Arts Programme
 
 
 <a href="https://go.gov.sg/uptlc-ipap-reg">
