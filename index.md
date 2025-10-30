@@ -35,4 +35,14 @@ sections:
       url: https://form.gov.sg/677755f9c7114f9bb9938675
       image: /images/NETP_EDM_MARch_2025.jpg
       alt: Image alt text
+  - infopic:
+      title: INDIAN PERFORMING ARTS PROGRAMME
+      subtitle: JOIN US
+      id: infopic
+      description: Discover the beauty of Indian culture through music and dance —
+        where creativity, rhythm, and confidence come alive!
+      button: register here
+      url: https://form.gov.sg/654867947b7dfd0012510826
+      image: /images/IPAP_EDM_FINAL.png
+      alt: Image alt text
 ---
