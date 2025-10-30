@@ -4,7 +4,7 @@ permalink: /for-students/academic-year-2025/
 description: ""
 variant: markdown
 ---
-## INFORMATION ON NEW ACADEMIC YEAR 2026
+## Information On New Academic Year 2026 
 
 |   |   |
 |---|---|
