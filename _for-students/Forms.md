@@ -6,6 +6,8 @@ variant: markdown
 ---
 ## Forms
 
+**Note:** Please be informed that this registration is **strictly for MOE schools only** and **not open to members of the public**.
+
 |   |   |
 |---|---|
 |  <a target="blank" href="https://for.edu.sg/reg-links-access-uptlc"><img src="/images/New_Student_Registration.png"> </a> | <a target="blank" href="https://for.edu.sg/reg-links-access-uptlc"><img src="/images/Tamil%20-%20B.png"> </a>  |
