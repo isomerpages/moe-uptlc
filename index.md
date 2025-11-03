@@ -18,6 +18,9 @@ sections:
         - title: For Parents
           description: ""
           url: /for-parents/2022/
+        - title: For Alumni
+          description: ""
+          url: https://www.uptlc.moe.edu.sg/alumni/
       background: /images/WEBISTE_BANNER_2025_02.gif
       variant: center
   - resources:
