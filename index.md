@@ -21,7 +21,7 @@ sections:
       background: /images/WEBISTE_BANNER_2025_02.gif
       variant: center
   - resources:
-      title: ANNOUNCEMENTS
+      title: UPCOMING EVENTS
       button: Read More
       subtitle: A Forward-Looking Centre
   - infopic:
