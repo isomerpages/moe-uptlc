@@ -17,11 +17,14 @@ sections:
           url: /for-students/academic-year-2025/
         - title: For Parents
           description: ""
-          url: /for-parents/2022/
+          url: https://www.uptlc.moe.edu.sg/parent-support-group/
+        - title: For Alumni
+          description: ""
+          url: https://www.uptlc.moe.edu.sg/alumni/
       background: /images/WEBISTE_BANNER_2025_02.gif
       variant: center
   - resources:
-      title: ANNOUNCEMENTS
+      title: UPCOMING EVENTS
       button: Read More
       subtitle: A Forward-Looking Centre
   - infopic:
@@ -44,5 +47,16 @@ sections:
       button: register here
       url: https://form.gov.sg/654867947b7dfd0012510826
       image: /images/IPAP_EDM_FINAL.png
+      alt: Image alt text
+  - infopic:
+      title: LEARNING JOURNEY
+      subtitle: Registration
+      id: infopic
+      description: Be part of our Learning Journey. Gain valuable insights and
+        experiences beyond the classroom through engaging visits and hands-on
+        learning opportunities.
+      button: REGISTER HERE
+      url: https://form.gov.sg/655da293ff15f300128b849c
+      image: /images/LJ2025.jpg
       alt: Image alt text
 ---
