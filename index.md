@@ -48,4 +48,15 @@ sections:
       url: https://form.gov.sg/654867947b7dfd0012510826
       image: /images/IPAP_EDM_FINAL.png
       alt: Image alt text
+  - infopic:
+      title: LEARNING JOURNEY
+      subtitle: Registration
+      id: infopic
+      description: Be part of our Learning Journey. Gain valuable insights and
+        experiences beyond the classroom through engaging visits and hands-on
+        learning opportunities.
+      button: REGISTER HERE
+      url: https://form.gov.sg/655da293ff15f300128b849c
+      image: /images/LJ2025.jpg
+      alt: Image alt text
 ---
