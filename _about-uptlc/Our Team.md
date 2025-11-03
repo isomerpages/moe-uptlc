@@ -61,13 +61,13 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/SEETHA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Blank1.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/SUMATHI.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/SEETHA.jpg">
 </div>
 </th>
 </tr>
@@ -81,13 +81,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/MEENAMBAL.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MRS_SUMATHI_S_PHOTO.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/ANBAZHAGAN.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/MEENAMBAL.jpg">
 </div>
 </td>
 </tr>
@@ -95,7 +95,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Jasline.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/ANBAZHAGAN.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -115,20 +115,20 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Jasline.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MDM_SHAMINI_2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Blank1.png">
 </div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Blank1.png">
-</div>
-<p></p>
 </td>
 </tr>
 <tr>
