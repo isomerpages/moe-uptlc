@@ -2,12 +2,12 @@ collections:
   events:
     output: true
     order:
-      - 2026.md
       - OTHERS/.keep
       - OTHERS/Are you interested to become a Tamil Teacher?.md
+      - 2026.md
+      - 2025/.keep
       - 2025/Graduation Day 2025.md
       - 2025/48th Annual Speech & Prize Presentation Ceremony 2025.md
-      - 2025/.keep
       - 2025/Tamil Fest 2025.md
       - 2025/Post Exam Activities 2025.md
       - 2025/Secondary 1 HTL Camp 2025.md
@@ -20,8 +20,8 @@ collections:
       - 2025/Tamil And Your Child 2025.md
       - 2025/Orientation Day 2025.md
       - 2025/Pongal Celebration 2025.md
-      - 2024/GRADUATION DAY 2024.md
       - 2024/.keep
+      - 2024/GRADUATION DAY 2024.md
       - 2024/TAMIL FEST 2024.md
       - 2024/STUDENT FORUM 2024.md
       - 2024/SEC1 HTL CAMP 2024.md
