@@ -8,7 +8,7 @@ variant: markdown
 
 |   |   |
 |---|---|
-| <a href="/files/UPTLC_Academic_TimeTable_2026.pdf"><img src="/images/AT022026.png"> </a> | [](/files/COE_2025_FINAL_31122024.pdf) <img src="/images/COE012026.png"> | 
+| <a href="/files/UPTLC_Academic_TimeTable_2026.pdf"><img src="/images/AT022026.png"> </a> | [](/files/COE_2025_FINAL_31122024.pdf) <img src="/images/COE_WIP2026.png"> | 
 <a href="/files/2025_WA_Exam_Timetable.pdf"><img src="/images/WACASA012026.png"> </a> |[](/files/Book_list_2025.pdf) <img src="/images/BL012026.png">  | 
 <a href="https://www.uptlc.moe.edu.sg/publication/student-handbook/permalink/"><img src="/images/SH012026.png"> </a>|<a href="https://form.gov.sg/655da293ff15f300128b849c"><img src="/images/LJ012026.png"> </a>  |
 | <a href="https://staging.d2uldb6hpe0xwq.amplifyapp.com/for-students/IPAP/"><img src="/images/IPAPR012026.png"> </a> | <a href="https://www.uptlc.moe.edu.sg/for-students/NETP-Programme-and-Scholarship/"><img src="/images/NETPPAS012026.png"> </a>  |
