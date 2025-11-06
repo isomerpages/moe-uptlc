@@ -21,7 +21,7 @@ sections:
         - title: For Alumni
           description: ""
           url: https://www.uptlc.moe.edu.sg/alumni/
-      background: /images/WEBISTE_BANNER_2025_02.gif
+      background: /images/WEBSITE_GIF_2026.gif
       variant: center
   - resources:
       title: UPCOMING EVENTS
