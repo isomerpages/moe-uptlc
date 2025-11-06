@@ -42,7 +42,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><strong><br>KEY PERSONNEL &amp; TEACHERS</strong>
+<p><strong>TEACHING &amp; LEARNING WING <br>KEY PERSONNEL &amp; TEACHERS</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
