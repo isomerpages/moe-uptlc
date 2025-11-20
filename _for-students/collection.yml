@@ -2,6 +2,7 @@ collections:
   for-students:
     output: true
     order:
+      - Class Allocation.md
       - Information on New Academic Year 2026.md
       - Forms.md
       - IPAP.md
