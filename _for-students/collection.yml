@@ -2,10 +2,10 @@ collections:
   for-students:
     output: true
     order:
-      - Class Allocation.md
       - Information on New Academic Year 2026.md
       - Forms.md
       - IPAP.md
       - UPTLC Learning Journey.md
       - Exam Timetable.md
       - NETP Programme and Scholarship.md
+      - Class Allocation.md
