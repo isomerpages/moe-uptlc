@@ -4,3 +4,4 @@ permalink: /class-allocation/
 variant: tiptap
 description: ""
 ---
+<p></p>
