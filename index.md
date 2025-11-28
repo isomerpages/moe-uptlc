@@ -28,7 +28,7 @@ sections:
       button: Read More
       subtitle: A Forward-Looking Centre
   - infopic:
-      title: STUDENT FORUM 2026
+      title: STUDENTS' FORUM 2026
       subtitle: Registration
       id: infopic
       description: Step up and let your voice be heard at the Students’ Forum! A great
