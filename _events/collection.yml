@@ -2,6 +2,7 @@ collections:
   events:
     output: true
     order:
+      - 2026/.keep
       - OTHERS/.keep
       - OTHERS/Are you interested to become a Tamil Teacher?.md
       - 2026.md
