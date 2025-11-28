@@ -28,6 +28,16 @@ sections:
       button: Read More
       subtitle: A Forward-Looking Centre
   - infopic:
+      title: STUDENT FORUM 2026
+      subtitle: Registration
+      id: infopic
+      description: Step up and let your voice be heard at the Students’ Forum! A great
+        opportunity to express ideas, gain confidence, and make an impact.
+      button: REGISTER HERE
+      url: https://form.gov.sg/6916b2da54a1434aee2e288a
+      image: /images/STUDENT_FORUM_EDM_2026_V5_FINAL.jpg
+      alt: Image alt text
+  - infopic:
       title: NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME
       subtitle: JOIN US
       id: infopic
