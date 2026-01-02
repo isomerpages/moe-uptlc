@@ -84,7 +84,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/MEENAMBAL.jpg">
+<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/Staff/MEENAMBAL.jpg">
 </div>
 </td>
 </tr>
@@ -104,7 +104,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/MdmKavitha.jpg">
+<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/Staff/MdmKavitha.jpg">
 </div>
 </td>
 </tr>
@@ -123,6 +123,9 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/17_1.png">
+</div>
 </td>
 </tr>
 <tr>
@@ -283,9 +286,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Blank1.png">
-</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -294,6 +294,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
