@@ -28,6 +28,16 @@ sections:
       button: Read More
       subtitle: A Forward-Looking Centre
   - infopic:
+      title: PARENTS' ENGAGEMENT DAY 2026
+      subtitle: REGISTRATION
+      id: infopic
+      description: Parents’ Engagement Day 2026 provides an opportunity for parents to
+        engage with students’ learning and support their growth.
+      button: REGISTER HERE
+      url: https://form.gov.sg/692fb0f9f634f423e9a7cd6b
+      image: /images/PARENTS__ENGAGEMENT_DAY_2026_FINAL.jpg
+      alt: Image alt text
+  - infopic:
       title: STUDENTS' FORUM 2026
       subtitle: Registration
       id: infopic
