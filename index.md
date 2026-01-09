@@ -35,7 +35,7 @@ sections:
         engage with students’ learning and support their growth.
       button: REGISTER HERE
       url: https://form.gov.sg/692fb0f9f634f423e9a7cd6b
-      image: /images/PARENTS__ENGAGEMENT_DAY_2026_FINAL.jpg
+      image: /images/PARENTS_DAY_UPTLC_2026_V4_FINAL.jpg
       alt: Image alt text
   - infopic:
       title: STUDENTS' FORUM 2026
