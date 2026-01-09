@@ -28,10 +28,10 @@ sections:
       button: Read More
       subtitle: A Forward-Looking Centre
   - infopic:
-      title: PARENTS' ENGAGEMENT DAY 2026
+      title: PARENTS' DAY @ UPTLC 2026
       subtitle: REGISTRATION
       id: infopic
-      description: Parents’ Engagement Day 2026 provides an opportunity for parents to
+      description: Parents’ Day @ UPTLC 2026 provides an opportunity for parents to
         engage with students’ learning and support their growth.
       button: REGISTER HERE
       url: https://form.gov.sg/692fb0f9f634f423e9a7cd6b
