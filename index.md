@@ -28,6 +28,17 @@ sections:
       button: Read More
       subtitle: A Forward-Looking Centre
   - infopic:
+      title: PARENTS' DAY @ UPTLC 2026
+      subtitle: REGISTRATION
+      id: infopic
+      description: This programme is for parents of students in MOE schools only
+        (Pri/Sec/JC/MI/Specialised Schools). Registration is from 3 to 31 Jan
+        2026.
+      button: REGISTER HERE
+      url: https://form.gov.sg/692fb0f9f634f423e9a7cd6b
+      image: /images/PARENTS_DAY_UPTLC_2026_V4_FINAL.jpg
+      alt: Image alt text
+  - infopic:
       title: STUDENTS' FORUM 2026
       subtitle: Registration
       id: infopic
@@ -36,6 +47,17 @@ sections:
       button: REGISTER HERE
       url: https://form.gov.sg/6916b2da54a1434aee2e288a
       image: /images/STUDENT_FORUM_EDM_2026_V5_FINAL.jpg
+      alt: Image alt text
+  - infopic:
+      title: UPTLC'S PONGAL CELEBRATION 2026
+      subtitle: UPCOMING EVENT
+      id: infopic
+      description: The UPTLC Pongal Celebration lets students experience the joy of
+        Pongal while learning its cultural significance through fun, interactive
+        activities.
+      button: MORE INFORMATION
+      url: https://staging-lite.d3dderin0t1vx8.amplifyapp.com/pongal-2026/
+      image: /images/PONGAL_EDM_2026_FINAL.jpg
       alt: Image alt text
   - infopic:
       title: NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME
