@@ -132,7 +132,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/MS_MUSRIFAH_2025.png">
+<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/MDM_THILAGA_2026.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
