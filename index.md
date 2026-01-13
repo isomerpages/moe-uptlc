@@ -17,7 +17,7 @@ sections:
           url: /for-students/academic-year-2025/
         - title: For Parents
           description: ""
-          url: https://www.uptlc.moe.edu.sg/parent-support-group/
+          url: https://www.uptlc.moe.edu.sg/parents-day-utplc-2026/
         - title: For Alumni
           description: ""
           url: https://www.uptlc.moe.edu.sg/alumni/
