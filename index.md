@@ -14,7 +14,7 @@ sections:
           url: /For-Teachers/Useful-Links/
         - title: For Students
           description: ""
-          url: /for-students/academic-year-2025/
+          url: https://www.uptlc.moe.edu.sg/for-students/academic-year-2026/
         - title: For Parents
           description: ""
           url: https://www.uptlc.moe.edu.sg/parents-day-utplc-2026/
