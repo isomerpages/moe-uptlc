@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Alumni.md
+      - Parent Support Group/Parents' Day @ UTPLC 2026.md
       - Parent Support Group/.keep
       - Parent Support Group/PSG Meeting 2025.md
