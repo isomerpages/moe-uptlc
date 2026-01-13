@@ -32,7 +32,7 @@ sections:
       subtitle: REGISTRATION
       id: infopic
       description: This programme is for parents of students in MOE schools only
-        (Pri/Sec/JC/MI/Specialised Schools). Registration is from 3 to 31 Jan
+        (Pri/Sec/JC/MI/Specialised Schools). Registration is from 13 to 31 Jan
         2026.
       button: REGISTER HERE
       url: https://form.gov.sg/692fb0f9f634f423e9a7cd6b
