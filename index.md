@@ -4,8 +4,8 @@ title: Umar Pulavar Tamil Language Centre
 description: Official school website of Umar Pulavar Tamil Language Centre.
 image: /images/Icons/LOGO2.png
 permalink: /
-notification: Greetings from Umar Pulavar Tamil Language Centre! We’re excited
-  to announce that our classes will start on 5 January 2026!
+notification: Greetings from UPTLC! Relive our Pongal celebrations — check out
+  the event photos on our website and social media.
 sections:
   - hero:
       key_highlights:
