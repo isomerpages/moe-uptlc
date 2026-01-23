@@ -156,20 +156,21 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/BATHMA.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/MR_KANNAN_WEBSITE.png">
 </div>
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Blank1.png">
 </div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/MDM_P_SUMATHI.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Staff/BATHMA.jpg">
 </div>
+<p></p>
 </th>
 </tr>
 </tbody>
@@ -190,7 +191,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MS_MUSRIFAH_2025__7_.png">
+<img style="width: 74%;" height="auto" width="100%" alt="" src="/images/MS_MUSRIFAH_2025__7_.png">
 </div>
 <p></p>
 </td>
@@ -203,12 +204,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/MDM_P_SUMATHI.png">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Blank1.png">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Blank1.png">
+</div>
 <p></p>
 </td>
 </tr>
