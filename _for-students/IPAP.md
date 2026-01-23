@@ -12,7 +12,7 @@ variant: markdown
 
 <br>
 
-<a href="/files/2023_IPAP_Website_Letter_Vetted.pdf">
+<a href="/files/2026_IPAP.pdf">
 <img style="width: 50%;" src="/images/More-Info-1024x389.png" alt="" target="_blank"></a>
 
 <br>
