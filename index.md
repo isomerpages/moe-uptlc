@@ -49,17 +49,6 @@ sections:
       image: /images/STUDENT_FORUM_EDM_2026_V5_FINAL.jpg
       alt: Image alt text
   - infopic:
-      title: UPTLC'S PONGAL CELEBRATION 2026
-      subtitle: UPCOMING EVENT
-      id: infopic
-      description: The UPTLC Pongal Celebration lets students experience the joy of
-        Pongal while learning its cultural significance through fun, interactive
-        activities.
-      button: MORE INFORMATION
-      url: https://staging-lite.d3dderin0t1vx8.amplifyapp.com/pongal-2026/
-      image: /images/PONGAL_EDM_2026_FINAL.jpg
-      alt: Image alt text
-  - infopic:
       title: NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME
       subtitle: JOIN US
       id: infopic
