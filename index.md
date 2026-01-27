@@ -31,9 +31,8 @@ sections:
       title: SECONDARY 2 TAMIL LANGUAGE LEARNING CAMP 2026
       subtitle: Registration
       id: infopic
-      description: The Secondary 2 Tamil Language Learning Camp 2026 provides students
-        with structured support to strengthen their Tamil language skills and
-        learning confidence.
+      description: To provide meaningful and effective hands-on activities to
+        experience joyful learning.
       button: register here
       url: https://go.gov.sg/tllc-registration-2026
       image: /images/SECONDARY_2_TLLC_2026_EDM_FINAL.jpg
