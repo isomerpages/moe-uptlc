@@ -28,6 +28,16 @@ sections:
       button: Read More
       subtitle: A Forward-Looking Centre
   - infopic:
+      title: SECONDARY 2 TAMIL LANGUAGE LEARNING CAMP 2026
+      subtitle: Registration
+      id: infopic
+      description: To provide meaningful and effective hands-on activities to
+        experience joyful learning.
+      button: register here
+      url: https://go.gov.sg/tllc-registration-2026
+      image: /images/SECONDARY_2_TLLC_2026_EDM_FINAL.jpg
+      alt: Image alt text
+  - infopic:
       title: PARENTS' DAY @ UPTLC 2026
       subtitle: REGISTRATION
       id: infopic
@@ -47,17 +57,6 @@ sections:
       button: REGISTER HERE
       url: https://form.gov.sg/6916b2da54a1434aee2e288a
       image: /images/STUDENT_FORUM_EDM_2026_V5_FINAL.jpg
-      alt: Image alt text
-  - infopic:
-      title: UPTLC'S PONGAL CELEBRATION 2026
-      subtitle: UPCOMING EVENT
-      id: infopic
-      description: The UPTLC Pongal Celebration lets students experience the joy of
-        Pongal while learning its cultural significance through fun, interactive
-        activities.
-      button: MORE INFORMATION
-      url: https://staging-lite.d3dderin0t1vx8.amplifyapp.com/pongal-2026/
-      image: /images/PONGAL_EDM_2026_FINAL.jpg
       alt: Image alt text
   - infopic:
       title: NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME
