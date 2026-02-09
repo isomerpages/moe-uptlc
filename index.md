@@ -49,27 +49,6 @@ sections:
       image: /images/SECONDARY_2_TLLC_2026_EDM_FINAL.jpg
       alt: Image alt text
   - infopic:
-      title: PARENTS' DAY @ UPTLC 2026
-      subtitle: REGISTRATION
-      id: infopic
-      description: This programme is for parents of students in MOE schools only
-        (Pri/Sec/JC/MI/Specialised Schools). Registration is from 13 to 31 Jan
-        2026.
-      button: REGISTER HERE
-      url: https://form.gov.sg/692fb0f9f634f423e9a7cd6b
-      image: /images/PARENTS_DAY_UPTLC_2026_V4_FINAL.jpg
-      alt: Image alt text
-  - infopic:
-      title: STUDENTS' FORUM 2026
-      subtitle: Registration
-      id: infopic
-      description: Step up and let your voice be heard at the Students’ Forum! A great
-        opportunity to express ideas, gain confidence, and make an impact.
-      button: REGISTER HERE
-      url: https://form.gov.sg/6916b2da54a1434aee2e288a
-      image: /images/STUDENT_FORUM_EDM_2026_V5_FINAL.jpg
-      alt: Image alt text
-  - infopic:
       title: NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME
       subtitle: JOIN US
       id: infopic
