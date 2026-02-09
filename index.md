@@ -31,7 +31,9 @@ sections:
       title: KABADDI TRAINING CUM COMPETITION 2026
       subtitle: Register to Participate
       id: infopic
-      description: Infopic description
+      description: UPTLC’s ‘Indian Performing Arts Programme Team (IPAP)’ is
+        organising Kabaddi training and competitions for secondary, JC, and MI
+        students.
       button: REGISTER NOW
       url: https://form.gov.sg/697a34e630f8392bfdaa8e5a
       image: /images/KABADI_COMPETITION_EDM_2026.jpg
