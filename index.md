@@ -4,8 +4,9 @@ title: Umar Pulavar Tamil Language Centre
 description: Official school website of Umar Pulavar Tamil Language Centre.
 image: /images/Icons/LOGO2.png
 permalink: /
-notification: Greetings from UPTLC! Parents’ Day @ UPTLC 2026 — Relive the
-  celebration and check out the event photos on our website and social media.
+notification: Greetings from UPTLC! Kabaddi Training Cum Competition 2026 —
+  Relive the excitement and check out the event photos on our website and social
+  media.
 sections:
   - hero:
       key_highlights:
