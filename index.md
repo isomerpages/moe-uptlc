@@ -29,16 +29,6 @@ sections:
       button: Read More
       subtitle: A Forward-Looking Centre
   - infopic:
-      title: SECONDARY 2 TAMIL LANGUAGE LEARNING CAMP 2026
-      subtitle: Registration
-      id: infopic
-      description: To provide meaningful and effective hands-on activities to
-        experience joyful learning.
-      button: register here
-      url: https://go.gov.sg/tllc-registration-2026
-      image: /images/SECONDARY_2_TLLC_2026_EDM_FINAL.jpg
-      alt: Image alt text
-  - infopic:
       title: NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME
       subtitle: JOIN US
       id: infopic
