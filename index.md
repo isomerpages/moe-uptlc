@@ -29,6 +29,15 @@ sections:
       button: Read More
       subtitle: A Forward-Looking Centre
   - infopic:
+      title: PRIMARY 5 TAMIL LANGUAGE LEARNING CAMP 2026
+      subtitle: REGISTER NOW
+      id: infopic
+      description: Infopic description
+      button: REGISTER HERE
+      url: https://go.gov.sg/tllc-registration-2026
+      image: /images/P5_TLLC_2026.jpg
+      alt: Image alt text
+  - infopic:
       title: NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME
       subtitle: JOIN US
       id: infopic
