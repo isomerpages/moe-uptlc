@@ -4,9 +4,9 @@ title: Umar Pulavar Tamil Language Centre
 description: Official school website of Umar Pulavar Tamil Language Centre.
 image: /images/Icons/LOGO2.png
 permalink: /
-notification: Greetings from UPTLC! Kabaddi Training Cum Competition 2026 —
-  Relive the excitement and check out the event photos on our website and social
-  media.
+notification: Greetings from UPTLC! Secondary 2 Tamil Language Learning Camp
+  2026 — Relive the experience and check out the event photos on our website and
+  social media.
 sections:
   - hero:
       key_highlights:
@@ -29,14 +29,15 @@ sections:
       button: Read More
       subtitle: A Forward-Looking Centre
   - infopic:
-      title: SECONDARY 2 TAMIL LANGUAGE LEARNING CAMP 2026
-      subtitle: Registration
+      title: PRIMARY 5 TAMIL LANGUAGE LEARNING CAMP 2026
+      subtitle: REGISTER NOW
       id: infopic
-      description: To provide meaningful and effective hands-on activities to
-        experience joyful learning.
-      button: register here
+      description: This programme builds confidence in Tamil speaking, supports
+        creation of AI-related digital artefacts, and introduces traditional
+        Tamil village handicrafts.
+      button: REGISTER HERE
       url: https://go.gov.sg/tllc-registration-2026
-      image: /images/SECONDARY_2_TLLC_2026_EDM_FINAL.jpg
+      image: /images/P5_TLLC_2026.jpg
       alt: Image alt text
   - infopic:
       title: NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME
