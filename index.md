@@ -29,6 +29,17 @@ sections:
       button: Read More
       subtitle: A Forward-Looking Centre
   - infopic:
+      title: SECONDARY 1 HTL CAMP 2026
+      subtitle: REGISTER NOW
+      id: infopic
+      description: Secondary 1 HTL Camp 2026 offers students an engaging experience
+        through cultural activities, teamwork, and hands-on learning to explore
+        traditional heritage.
+      button: REGISTER HERE
+      url: https://form.gov.sg/6625f39eedab5bf5de9eeb4f
+      image: /images/SECONDARY_1_HTL_CAMP_2026_EDM_FINAL.jpg
+      alt: Image alt text
+  - infopic:
       title: PRIMARY 5 TAMIL LANGUAGE LEARNING CAMP 2026
       subtitle: REGISTER NOW
       id: infopic
