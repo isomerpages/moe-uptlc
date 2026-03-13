@@ -48,7 +48,7 @@ sections:
         Tamil village handicrafts.
       button: REGISTER HERE
       url: https://go.gov.sg/tllc-registration-2026
-      image: /images/P5_TLLC_2026.jpg
+      image: /images/P5_TLLC_202601.jpg
       alt: Image alt text
   - infopic:
       title: NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME
