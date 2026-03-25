@@ -14,6 +14,6 @@ variant: markdown
 
 <br>
 
-<a href="https://drive.google.com/drive/u/3/folders/1GlTvl6CooX6MnGyGcr-5Zvm2iH_Zt-v0">
+<a>
 	<img src="/images/learning_resources___worksheets.jpg">
 </a>
