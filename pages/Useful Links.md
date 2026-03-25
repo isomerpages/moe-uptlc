@@ -17,7 +17,7 @@ variant: tiptap
 </p>
 </td>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Grammar</p>
 </th>
 </tr>
 <tr>
@@ -26,22 +26,29 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://education.artzee.sg/" rel="noopener noreferrer nofollow" target="_blank">Prayanam</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Exam Papers (Old)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong><a href="http://uptlc.sg/" rel="noopener noreferrer nofollow" target="_blank">Interactive Resources</a></strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Exam Papers (New)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Worksheets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Weighted Assessment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Oral</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
