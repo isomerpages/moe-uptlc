@@ -225,3 +225,5 @@ third_nav_title: "2026"
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Blue_Yellow_Modern_Creative_Entrepreneur_LinkedIn_Banner.png">
 </div>
 <p></p>
+<p><strong>Click here to view more photos and videos:<br><a href="https://tinyurl.com/KabaddiCompetition2026" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/KabaddiCompetition2026</a></strong>
+</p>
