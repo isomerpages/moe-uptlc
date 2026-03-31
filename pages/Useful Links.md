@@ -31,7 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="http://uptlc.sg/" rel="noopener noreferrer nofollow" target="_blank">Interactive Resources</a></strong>
+<p><strong><a href="https://form.gov.sg/65b753e0826d33cb98ec261b" rel="noopener nofollow" target="_blank">Immersive Education On-The-Go By UPTLC</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -40,7 +40,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Worksheets</p>
+<p><strong><a href="http://uptlc.sg/" rel="noopener noreferrer nofollow" target="_blank">Interactive Resources</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Weighted Assessment</p>
@@ -48,10 +49,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Oral</p>
+<p>Worksheets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Oral</p>
 </td>
 </tr>
 </tbody>
