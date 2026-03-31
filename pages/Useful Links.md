@@ -40,7 +40,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="http://uptlc.sg/" rel="noopener noreferrer nofollow" target="_blank">Interactive Resources</a></strong>
+<p><strong><a href="https://form.gov.sg/65c5c0fa2293d545aa355cd6" rel="noopener nofollow" target="_blank">Cultural Immersion Programme with Umar Pulavar Tamil Language Centre (UPTLC)</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -49,10 +49,19 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Worksheets</p>
+<p><strong><a href="http://uptlc.sg/" rel="noopener noreferrer nofollow" target="_blank">Interactive Resources</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Oral</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Worksheets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
