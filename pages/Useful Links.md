@@ -58,7 +58,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Worksheets</p>
+<p><strong><a href="https://drive.google.com/drive/folders/1dzP7BXoV1YUVEtWUmC5uaof8J6pAm3WL?usp=sharing" rel="noopener nofollow" target="_blank">Worksheets</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
