@@ -40,17 +40,6 @@ sections:
       image: /images/SECONDARY_1_HTL_CAMP_2026_EDM_FINAL.jpg
       alt: Image alt text
   - infopic:
-      title: PRIMARY 5 TAMIL LANGUAGE LEARNING CAMP 2026
-      subtitle: REGISTER NOW
-      id: infopic
-      description: This programme builds confidence in Tamil speaking, supports
-        creation of AI-related digital artefacts, and introduces traditional
-        Tamil village handicrafts.
-      button: REGISTER HERE
-      url: https://go.gov.sg/tllc-registration-2026
-      image: /images/P5_TLLC_202601.jpg
-      alt: Image alt text
-  - infopic:
       title: NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME
       subtitle: JOIN US
       id: infopic
