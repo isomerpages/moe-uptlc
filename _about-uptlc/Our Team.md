@@ -288,10 +288,10 @@ variant: tiptap
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/Staff/Ms_Aisyah.jpg">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff/Blank1.png">
+</div>
 </th>
 </tr>
 <tr>
