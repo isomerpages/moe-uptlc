@@ -4,9 +4,8 @@ title: Umar Pulavar Tamil Language Centre
 description: Official school website of Umar Pulavar Tamil Language Centre.
 image: /images/Icons/LOGO2.png
 permalink: /
-notification: Greetings from UPTLC! Secondary 2 Tamil Language Learning Camp
-  2026 — Relive the experience and check out the event photos on our website and
-  social media.
+notification: Greetings from UPTLC! Students' Forum 2026 — Relive the experience
+  and check out the event photos on our website and social media.
 sections:
   - hero:
       key_highlights:
