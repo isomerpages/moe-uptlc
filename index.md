@@ -28,28 +28,6 @@ sections:
       button: Read More
       subtitle: A Forward-Looking Centre
   - infopic:
-      title: DRAMA AND PARAI WORKSHOP
-      subtitle: REGISTER NOW
-      id: infopic
-      description: This workshop for Tamil teachers blends traditional arts with
-        modern pedagogy, promoting interactive, culturally immersive learning
-        beyond textbooks.
-      button: REGISTER HERE
-      url: https://form.gov.sg/69f0620a46dddc25f29daee0
-      image: /images/Workshop_for_Teachers_Drama_and_Parai_in_Teaching_19May_2026_EDM_final.jpg
-      alt: Image alt text
-  - infopic:
-      title: SECONDARY 1 HTL CAMP 2026
-      subtitle: REGISTER NOW
-      id: infopic
-      description: Secondary 1 HTL Camp 2026 offers students an engaging experience
-        through cultural activities, teamwork, and hands-on learning to explore
-        traditional heritage.
-      button: REGISTER HERE
-      url: https://form.gov.sg/6625f39eedab5bf5de9eeb4f
-      image: /images/SECONDARY_1_HTL_CAMP_2026_EDM_FINAL.jpg
-      alt: Image alt text
-  - infopic:
       title: NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME
       subtitle: JOIN US
       id: infopic
