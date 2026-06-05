@@ -1,6 +1,6 @@
 ---
-title: STUDENTS' FORUM 2026
-permalink: /student-forum-2026/
+title: SECONDARY 1 HTL CAMP 2026
+permalink: /secondary-1-htl-camp-2026/
 date: 2024-12-30
 layout: post
 description: ""
