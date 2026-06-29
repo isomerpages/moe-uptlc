@@ -28,6 +28,16 @@ sections:
       button: Read More
       subtitle: A Forward-Looking Centre
   - infopic:
+      title: TAMIL FEST 2026
+      subtitle: REGISTER NOW
+      id: infopic
+      description: Join us at Tamil Fest 2026 to celebrate Tamil language and culture
+        with performances, traditional games, and hands-on activities for all!
+      button: REGISTER HERE
+      url: "-"
+      image: /images/TAMIL_FEST_EDM_2026_v4.jpg
+      alt: Image alt text
+  - infopic:
       title: NATIONAL ELECTIVE TAMIL LANGUAGE PROGRAMME
       subtitle: JOIN US
       id: infopic
