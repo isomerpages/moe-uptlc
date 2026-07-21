@@ -190,9 +190,6 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 74%;" height="auto" width="100%" alt="" src="/images/MS_MUSRIFAH_2025__7_.png">
-</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
